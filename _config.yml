@@ -106,7 +106,6 @@ author:
   avatar           : "/images/joonhyung_profile.jpeg"
   bio              : "Ph.D student at Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST)"
   location         : "Daejeon, South Korea"
-  # email            : "deepjoon@kaist.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
