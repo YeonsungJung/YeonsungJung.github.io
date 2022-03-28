@@ -1,6 +1,5 @@
 ---
-layout: splash
-permalink: /
+permalink: /about/
 title: "About Me"
 excerpt: "About Me"
 author_profile: true
