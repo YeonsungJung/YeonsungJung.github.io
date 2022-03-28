@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, advised by [Prof.Eunho Yang](https://sites.google.com/site/yangeh/publications).
 
 My research interest mainly targets proposing algorithms **facilitating deep learning models to properly learn under stressed conditions** (*e.g.* limited supervision), which is critical in deploying Artificial Intelligence (AI) systems to real-world applications. I currently focus on the following research areas:
