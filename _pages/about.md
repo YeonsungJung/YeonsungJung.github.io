@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, advised by [Prof.Eunho Yang](https://sites.google.com/site/yangeh/publications).
+I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, advised by [Prof. Eunho Yang](https://sites.google.com/site/yangeh/publications).
 
 My research interest mainly targets proposing algorithms **facilitating deep learning models to properly learn under stressed conditions** (*e.g.* limited supervision), which is critical in deploying Artificial Intelligence (AI) systems to real-world applications. I currently focus on the following research areas:
 - Graph neural network algorithm
@@ -44,7 +44,7 @@ My research interest mainly targets proposing algorithms **facilitating deep lea
 
 - **M.S.** in Graduate School of AI, **Korea Advanced Institute of Science and Technology (KAIST)**, <font size="3">Mar. 2020 - Mar. 2021</font> 
 
-- **B.E.** in Computer Science Engineering, **Daegu Gyeongbuk Institute of Science & Technology (DGIST)**, <font size="3">Mar. 2016 - Feb. 2021</font> - <span style="color:darkred">(***<font size="3">Summa Cum Laude</font>***)</span>
+- **B.E.** in Computer Science Engineering, **Daegu Gyeongbuk Institute of Science & Technology (DGIST)**, <font size="3">Mar. 2016 - Feb. 2021</font> - <span style="color:darkred;font-size:3;">(***Summa Cum Laude***)</span>
 
 ## Projects
 - Sub-task generation based point/regional Out-Of-Distribution detection, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
