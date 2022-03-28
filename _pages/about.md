@@ -25,12 +25,12 @@ My research interest mainly targets proposing algorithms **facilitating deep lea
 <span style="color:darkred">**ICLR**</span> 2022
 
 - **<font size="4">Saliency Grafting: Innocuous Attribution-Guided Mixup with Calibrated Label Mixing</font>**
-[[paper]](https://https://arxiv.org/abs/2112.08796) \\
+[[paper]](https://arxiv.org/abs/2112.08796) \\
 **Joonhyung Park**, June Yong Yang, Jinwoo Shin, Sung Ju Hwang, Eunho Yang \\
 <span style="color:darkred">**AAAI**</span> 2022 <span style="color:darkred">**(oral presentation, 380/9020=4.21%)**</span>
 
 - **<font size="4">Graph Transplant: Node Saliency-Guided Graph mixup with Local Structure Preservation</font>**
-[[paper]](https://https://arxiv.org/abs/2111.05639) \\
+[[paper]](https://arxiv.org/abs/2111.05639) \\
 **Joonhyung Park\***, Hajin Shim\*, Eunho Yang <font size="3">(&ast;: equal contribution)</font> \\
 <span style="color:darkred">**AAAI**</span> 2022
 
