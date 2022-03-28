@@ -50,6 +50,3 @@ My research interest mainly targets proposing algorithms **facilitating deep lea
 - Sub-task generation based point/regional Out-Of-Distribution detection, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
 - Predicting graph properties with few labels using Graph Neural Networks, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
 - Machine learning model for the prediction of Hypoxaemia during Endoscopic Retrograde Cholangiopancreatography, **Yonsei Sevrance Hospital**, <font size="3">Mar. 2020 - Jun. 2020</font>
-
-
- 
