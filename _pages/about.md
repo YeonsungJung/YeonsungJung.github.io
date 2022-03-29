@@ -34,8 +34,9 @@ My research interest mainly targets proposing algorithms **facilitating deep lea
 <span style="color:darkred">**AAAI**</span> 2022
 
 ## Work Experiences
-- Research Intern, **University of Virginia**, Charlottesville, VA, <font size="3">Jun. 2018 - Aug. 2018</font>  (Advisor: [Prof. Homa Alemzadeh](https://homa-alem.github.io/))
-  - Medical concept extraction in text data for Cognitive Assistant System of emergency medical response (supported by the National Institute of Standards and Technology (NIST)).
+- Research Intern, **University of Virginia**, Charlottesville, VA, <font size="3">Jun. 2018 - Aug. 2018</font>
+  - Advisor: [Prof. Homa Alemzadeh](https://homa-alem.github.io/)
+  - Medical concept extraction in text data for Cognitive Assistant System of emergency medical response (supported by the National Institute of Standards and Technology).
 - Research Intern, **Collaborative Robots Research Center, DGIST**, Daegu, <font size="3">Jun. 2017 - Aug. 2017</font>
   - Development of treadmill for stroke hemiplegic patients
 
