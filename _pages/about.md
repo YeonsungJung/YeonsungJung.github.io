@@ -45,9 +45,9 @@ My research interest mainly targets proposing algorithms **facilitating deep lea
 
 - **M.S.** in Graduate School of AI, **Korea Advanced Institute of Science and Technology (KAIST)**, <font size="3">Mar. 2020 - Mar. 2021</font> 
 
-- **B.E.** in Computer Science Engineering, **Daegu Gyeongbuk Institute of Science & Technology (DGIST)**, <font size="3">Mar. 2016 - Feb. 2021</font> - <span style="color:darkred;font-size:3;">(***Summa Cum Laude***)</span>
+- **B.E.** in Computer Science Engineering, **Daegu Gyeongbuk Institute of Science & Technology (DGIST)**, <font size="3">Mar. 2016 - Feb. 2020</font> - <span style="color:darkred;font-size:3;">(***Summa Cum Laude***)</span>
 
 ## Projects
 - Sub-task generation based point/regional Out-Of-Distribution detection, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
 - Predicting graph properties with few labels using Graph Neural Networks, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
-- Machine learning model for the prediction of Hypoxaemia during Endoscopic Retrograde Cholangiopancreatography, **Yonsei Sevrance Hospital**, <font size="3">Mar. 2020 - Jun. 2020</font>
+- Machine learning model for the prediction of Hypoxaemia during Endoscopic Retrograde Cholangiopancreatography, **Yonsei Severance Hospital**, <font size="3">Mar. 2020 - Jun. 2020</font>
