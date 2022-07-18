@@ -24,7 +24,7 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(&ast;: equal con
 
 - **<font size="4">GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification</font>**
 [[paper]](https://openreview.net/pdf?id=MXEl7i-iru) \\
-**Joonhyung Park\***, Jaeyung Song\*, Eunho Yang <font size="3">(&ast;: equal contribution)</font> \\
+**Joonhyung Park\***, Jaeyun Song\*, Eunho Yang <font size="3">(&ast;: equal contribution)</font> \\
 <span style="color:darkred">**ICLR**</span> 2022
 
 - **<font size="4">Saliency Grafting: Innocuous Attribution-Guided Mixup with Calibrated Label Mixing</font>**
