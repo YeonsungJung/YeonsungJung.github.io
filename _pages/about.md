@@ -63,7 +63,7 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(&ast;: equal con
 
 ### index test
 - **<font size="1">gmixup</font>**
-[[paper]](https://proceedings.mlr.press/v162/han22c/han22c.pdf) \\
+[[paper]](https://proceedings.mlr.press/v162/han22c/han22c.pdf)
 
 - **<font size="1">genlabel</font>**
-[[paper]](https://proceedings.mlr.press/v162/sohn22a/sohn22a.pdf) \\
+[[paper]](https://proceedings.mlr.press/v162/sohn22a/sohn22a.pdf)
