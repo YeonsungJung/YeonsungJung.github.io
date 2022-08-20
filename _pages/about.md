@@ -61,7 +61,7 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(&ast;: equal con
     - Neural Information Processing Systems (NeurIPS)
     - AAAI Conference on Artificial Intelligence (AAAI)
 
-### index test
+### Related Publications
 - **<font size="1">gmixup</font>**
 [[paper]](https://proceedings.mlr.press/v162/han22c/han22c.pdf)
 
