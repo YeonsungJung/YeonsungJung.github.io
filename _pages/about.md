@@ -62,8 +62,8 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(&ast;: equal con
     - AAAI Conference on Artificial Intelligence (AAAI)
 
 ### Related Publications
-- **<font size="1">gmixup</font>**
+- **<font size="1">G-Mixup: Graph Data Augmentation for Graph Classification</font>**
 [[paper]](https://proceedings.mlr.press/v162/han22c/han22c.pdf)
 
-- **<font size="1">genlabel</font>**
+- **<font size="1">GenLabel: Mixup Relabeling using Generative Model</font>**
 [[paper]](https://proceedings.mlr.press/v162/sohn22a/sohn22a.pdf)
