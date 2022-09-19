@@ -60,3 +60,4 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(&ast;: equal con
 - Conference Reviewer
     - Neural Information Processing Systems (NeurIPS)
     - AAAI Conference on Artificial Intelligence (AAAI)
+    - Learning on Graphs (LoG)
