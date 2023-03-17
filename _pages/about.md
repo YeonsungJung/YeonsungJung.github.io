@@ -25,7 +25,7 @@ Under Review
 **Joonhyung Park\***, Jaeyun Song\*, Eunho Yang <font size="3">(&ast;: equal contribution)</font> \\
 Under Review
 
-- **<font size="4">WeavSpeech: Data Augmentation Strategy for Automatic Speech Recognition via Semantic-Aware Weaving</font>**
+- **<font size="4">WeavSpeech: Data Augmentation Strategy for Automatic Speech Recognition via Semantic-Aware Weaving</font>**\\
 Kyusung Seo, **Joonhyung Park**, Jaeyun Song, Eunho Yang \\
 <span style="color:darkred">**ICASSP**</span> 2023 (Congrats on my mentee's paper! :tada:)
 
