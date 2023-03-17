@@ -293,6 +293,8 @@ compress_html:
   ignore:
     envs: development
 
-
+# Emoji
+plugins:
+  - jemoji
 
 
