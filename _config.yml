@@ -247,6 +247,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -293,8 +294,5 @@ compress_html:
   ignore:
     envs: development
 
-# Emoji
-gems:
-  - jemoji
 
 
