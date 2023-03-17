@@ -22,7 +22,7 @@ My research interest mainly targets proposing algorithms **facilitating deep lea
 Under Review
 
 - **<font size="4">CALA: Connectivity- and Attribute-Aware Logit Adjustment for Class-Imbalanced Graphs</font>**\\
-**Joonhyung Park\***, Jaeyun Song\*, Eunho Yang <font size="3">(&ast;: equal contribution)</font> \\
+**Joonhyung Park\***, Jaeyun Song\*, Eunho Yang <font size="3">(&ast; : equal contribution)</font> \\
 Under Review
 
 - **<font size="4">WeavSpeech: Data Augmentation Strategy for Automatic Speech Recognition via Semantic-Aware Weaving</font>**\\
