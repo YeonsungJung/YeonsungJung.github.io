@@ -294,7 +294,7 @@ compress_html:
     envs: development
 
 # Emoji
-plugins:
+gems:
   - jemoji
 
 
