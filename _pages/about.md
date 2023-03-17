@@ -22,7 +22,7 @@ My research interest mainly targets proposing algorithms **facilitating deep lea
 Under Review
 
 - **<font size="4">CALA: Connectivity- and Attribute-Aware Logit Adjustment for Class-Imbalanced Graphs</font>**\\
-**Joonhyung Park\***, Jaeyun Song\*, Eunho Yang <font size="3">(&ast; : equal contribution)</font> \\
+**Joonhyung Park\***, Jaeyun Song\*, Eunho Yang <font size="3">(* : equal contribution)</font> \\
 Under Review
 
 - **<font size="4">WeavSpeech: Data Augmentation Strategy for Automatic Speech Recognition via Semantic-Aware Weaving</font>**\\
@@ -31,12 +31,12 @@ Kyusung Seo, **Joonhyung Park**, Jaeyun Song, Eunho Yang \\
 
 - **<font size="4">TAM: Topology-Aware Margin Loss for Class-Imbalanced Node Classification</font>**
 [[paper]](https://proceedings.mlr.press/v162/song22a/song22a.pdf) \\
-Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(&ast;: equal contribution)</font> \\
+Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(*: equal contribution)</font> \\
 <span style="color:darkred">**ICML**</span> 2022
 
 - **<font size="4">GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification</font>**
 [[paper]](https://openreview.net/pdf?id=MXEl7i-iru) \\
-**Joonhyung Park\***, Jaeyun Song\*, Eunho Yang <font size="3">(&ast;: equal contribution)</font> \\
+**Joonhyung Park\***, Jaeyun Song\*, Eunho Yang <font size="3">(*: equal contribution)</font> \\
 <span style="color:darkred">**ICLR**</span> 2022
 
 - **<font size="4">Saliency Grafting: Innocuous Attribution-Guided Mixup with Calibrated Label Mixing</font>**
@@ -46,7 +46,7 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(&ast;: equal con
 
 - **<font size="4">Graph Transplant: Node Saliency-Guided Graph mixup with Local Structure Preservation</font>**
 [[paper]](https://arxiv.org/abs/2111.05639) \\
-**Joonhyung Park\***, Hajin Shim\*, Eunho Yang <font size="3">(&ast;: equal contribution)</font> \\
+**Joonhyung Park\***, Hajin Shim\*, Eunho Yang <font size="3">(*: equal contribution)</font> \\
 <span style="color:darkred">**AAAI**</span> 2022
 
 ## Work Experiences
