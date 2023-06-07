@@ -17,9 +17,10 @@ My research interest mainly targets proposing algorithms **facilitating deep lea
 
 
 ## Conference Publications
-- **<font size="4">PC-Adapter: Topology-Aware Adapter for Efficient Domain Adaptation on Point Clouds with Rectified Pseudo Label</font>**\\
-**Joonhyung Park**, Hyunjin Seo, Eunho Yang \\
-Under Review
+- **<font size="4">SGEM: Test-Time Adaptation for Automatic Speech Recognition via Sequential-Level Generalized Entropy Minimization</font>**\\
+Changhun Kim, **Joonhyung Park**, Hajin Shim, Eunho Yang \\
+[[paper]](https://arxiv.org/abs/2306.01981) \\
+<span style="color:darkred">**INTERSPEECH**</span> 2023 (Congrats on my mentee's paper! :tada:)
 
 - **<font size="4">CALA: Connectivity- and Attribute-Aware Logit Adjustment for Class-Imbalanced Graphs</font>**\\
 **Joonhyung Park\***, Jaeyun Song\*, Eunho Yang <font size="3">(* : equal contribution)</font> \\
@@ -27,6 +28,7 @@ Under Review
 
 - **<font size="4">WeavSpeech: Data Augmentation Strategy for Automatic Speech Recognition via Semantic-Aware Weaving</font>**\\
 Kyusung Seo, **Joonhyung Park**, Jaeyun Song, Eunho Yang \\
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10097196) \\
 <span style="color:darkred">**ICASSP**</span> 2023 (Congrats on my mentee's paper! :tada:)
 
 - **<font size="4">TAM: Topology-Aware Margin Loss for Class-Imbalanced Node Classification</font>**
