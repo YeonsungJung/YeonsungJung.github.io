@@ -11,9 +11,9 @@ I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kais
 
 My research interest mainly targets proposing algorithms **facilitating deep learning models to properly learn under stressed conditions** (*e.g.* limited supervision), which is critical in deploying Artificial Intelligence (AI) systems to real-world applications. I currently focus on the following research areas:
 - Graph neural network algorithm
-- Data augmentation
+- 3D Point cloud understanding
 - Learning with class-imbalanced data
-- Self-supervised representation learning
+- Data augmentation
 
 
 ## Conference Publications
@@ -69,6 +69,7 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(*: equal contrib
 - Sub-task generation based point/regional Out-Of-Distribution detection, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
 - Predicting graph properties with few labels using Graph Neural Networks, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
 - Machine learning model for the prediction of Hypoxaemia during Endoscopic Retrograde Cholangiopancreatography, **Yonsei Severance Hospital**, <font size="3">Mar. 2020 - Jun. 2020</font>
+    - Published in [Yonsei Medical Journal](https://ymj.kr/DOIx.php?id=10.3349/ymj.2022.0381)
 
 ## Acamdeic Services
 - Conference Reviewer
