@@ -17,6 +17,10 @@ My research interest mainly targets proposing algorithms **facilitating deep lea
 
 
 ## Conference Publications
+- **<font size="4">PC-Adapter: Topology-Aware Adapter for Efficient Domain Adaption on Point Clouds with Rectified Pseudo Label</font>** \\
+**Joonhyung Park**, Hyujin Seo, Eunho Yang \\
+<span style="color:darkred">**ICCV**</span> 2023
+
 - **<font size="4">SGEM: Test-Time Adaptation for Automatic Speech Recognition via Sequential-Level Generalized Entropy Minimization</font>** 
 [[paper]](https://arxiv.org/abs/2306.01981) \\
 Changhun Kim, **Joonhyung Park**, Hajin Shim, Eunho Yang \\
