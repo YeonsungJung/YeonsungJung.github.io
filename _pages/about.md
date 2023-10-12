@@ -9,12 +9,11 @@ redirect_from:
 ---
 I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, advised by [Prof. Eunho Yang](https://sites.google.com/site/yangeh/publications).
 
-My research interest mainly targets proposing algorithms **facilitating deep learning models to properly learn under stressed conditions** (*e.g.* limited supervision), which is critical in deploying Artificial Intelligence (AI) systems to real-world applications. I currently focus on the following research areas:
-- Graph neural network algorithm
-- 3D Point cloud understanding
-- Learning with class-imbalanced data
-- Data augmentation
+**Graph-Driven Modal Understanding**\\
+My research interest lies in elucidating unstructured data modalities **through the lens of graph structure**, *e.g.* object graphs (3D vision) and knowledge graphs (natural language). I work on building machine learning algorithms that leverage relational information therein, revisiting complex real-world problems within a graph-based framework to provide a structured understanding of unstructured data. Recently, my primary focus has been on cross-modal learning/alignment by means of a graph, oriented towards resolving open-vocabulary challenges.
 
+**Learning on 3D Vision**\\
+My primary research interest in 3D vision falls into two branches following: 1) **Cross-modal 3D understanding**. It aims to harness the power of auxiliary data modalities for an in-depth comprehension of complex 3D data. Currently, I'm working on open-vocabulary 3D scene segmentation with object-relational graphs leveraging recent language foundation models' capabilities. 2) **Sim-to-real adaptation for 3D data**. My recent research efforts have been dedicated to narrowing the domain gap between synthetic and real-world 3D data. Ranging from developing adaptation strategies to curating 3D photorealistic datasets, my recent objective is to facilitate successful sim-to-real transfer across a broad range of 3D vision tasks.
 
 ## Conference Publications
 - **<font size="4">PC-Adapter: Topology-Aware Adapter for Efficient Domain Adaption on Point Clouds with Rectified Pseudo Label</font>** \\
@@ -81,4 +80,7 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(*: equal contrib
     - Neural Information Processing Systems (NeurIPS)
     - International Conference on Learning Representations (ICLR) 
     - AAAI Conference on Artificial Intelligence (AAAI)
+    - International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
     - Learning on Graphs (LoG)
+- Journal Reviewer
+    - Transactions on Neural Networks and Learning Systems (TNNLS)
