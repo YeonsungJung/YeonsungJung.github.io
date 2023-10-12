@@ -17,6 +17,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## Conference Publications
 - **<font size="4">PC-Adapter: Topology-Aware Adapter for Efficient Domain Adaption on Point Clouds with Rectified Pseudo Label</font>** \\
+[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_PC-Adapter_Topology-Aware_Adapter_for_Efficient_Domain_Adaption_on_Point_Clouds_ICCV_2023_paper.pdf) \\
 **Joonhyung Park**, Hyujin Seo, Eunho Yang \\
 <span style="color:darkred">**ICCV**</span> 2023
 
