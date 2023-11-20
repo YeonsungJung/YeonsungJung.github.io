@@ -80,6 +80,7 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(*: equal contrib
     - International Conference on Machine Learning (ICML)
     - Neural Information Processing Systems (NeurIPS)
     - International Conference on Learning Representations (ICLR) 
+    - Computer Vision and Pattern Recognition (CVPR)
     - AAAI Conference on Artificial Intelligence (AAAI)
     - International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
     - Learning on Graphs (LoG)
