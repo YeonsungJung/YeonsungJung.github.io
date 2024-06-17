@@ -9,13 +9,19 @@ redirect_from:
 ---
 I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, advised by [Prof. Eunho Yang](https://sites.google.com/site/yangeh/publications).
 
-**Graph-Driven Modal Understanding**\\
-My research interest lies in elucidating unstructured data modalities **through the lens of graph structure**, *e.g.* object graphs (3D vision) and knowledge graphs (natural language). I work on building machine learning algorithms that leverage relational information therein, revisiting complex real-world problems within a graph-based framework to provide a structured understanding of unstructured data. Recently, my primary focus has been on cross-modal learning/alignment by means of a graph, oriented towards resolving open-vocabulary challenges.
-
-**Learning on 3D Vision**\\
+**Large Language Model Driven Modal Understanding**\\
+My primary research interest falls into enhancing the understanding of unstructured/video data modalities through the guidance of large language models. With these goals in mind, my recent focus has been on linking diverse modalities into the core of large language model **through the lens of graph-structured knowledge**, *e.g.* object graphs (3D vision), knowledge graphs (natural language), and scene graphs (video). In this endeavor, I work on building algorithms that leverage relational information of data therein, **revisiting real-world problems within a graph-based framework to provide a structured understanding of complex data modalities** in large language models. My research interest includes the following topics:
+- Multimodal Large language models: Generation and Comprehension
+- Compositional Generalization (Object-centric Learning and Graph-driven Modal Understanding)
+<!---**Learning on 3D Vision**\\
 My primary research interest in 3D vision falls into two branches following: 1) **Cross-modal 3D understanding**. It aims to harness the power of auxiliary data modalities for an in-depth comprehension of complex 3D data. Currently, I'm working on open-vocabulary 3D scene segmentation with object-relational graphs leveraging recent language foundation models' capabilities. 2) **Sim-to-real adaptation for 3D data**. My recent research efforts have been dedicated to narrowing the domain gap between synthetic and real-world 3D data. Ranging from developing adaptation strategies to curating 3D photorealistic datasets, my recent objective is to facilitate successful sim-to-real transfer across a broad range of 3D vision tasks.
-
+-->
 ## Conference Publications
+- **<font size="4">PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency</font>**
+Yeonsung Jung, Heecheol Yun, **Joonhyung Park**, Jin-Hwa Kim and Eunho Yang \\
+<span style="color:darkred">**ICML**</span> 2024
+
+<span style="color:darkred">**ICCV**</span> 2023
 - **<font size="4">PC-Adapter: Topology-Aware Adapter for Efficient Domain Adaption on Point Clouds with Rectified Pseudo Label</font>**
 [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_PC-Adapter_Topology-Aware_Adapter_for_Efficient_Domain_Adaption_on_Point_Clouds_ICCV_2023_paper.pdf) \\
 **Joonhyung Park**, Hyujin Seo, Eunho Yang \\
