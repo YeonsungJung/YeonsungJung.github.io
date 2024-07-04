@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div class="main-content">
+<div id="about-page">
 I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, advised by [Prof. Eunho Yang](https://mli.kaist.ac.kr/people/). Currently, I am working as an intern at [Amazon AWS AI](https://www.amazon.science/) with [Peng Tang](https://www.linkedin.com/in/ppengtang/en). **Please feel free to contact me if you are interested in potential collaborations.**
 
 My research interest falls into enhancing the understanding of unstructured/video data modalities through the guidance of large language models. With these goals in mind, my recent focus has been on linking diverse modalities into the core of large language model **through the lens of graph-structured knowledge**, *e.g.* object graphs (3D vision), knowledge graphs (natural language), and scene graphs (video). In this endeavor, I work on building algorithms that leverage relational information of data therein, **revisiting real-world problems within a graph-based framework to provide a structured understanding of complex data modalities** in large language models.
