@@ -8,7 +8,3 @@ a:visited {
     color: #0056b3 !important;
 }
 
-/* Specific class override, if needed */
-a.some-class {
-    color: #0056b3 !important;
-}
