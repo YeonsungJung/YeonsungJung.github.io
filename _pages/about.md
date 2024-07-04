@@ -96,4 +96,3 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(*: equal contrib
     - Learning on Graphs (LoG)
 - Journal Reviewer
     - Transactions on Neural Networks and Learning Systems (TNNLS)
-</div>
