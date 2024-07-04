@@ -232,6 +232,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      include:
+        - assets/css/custom.css
 
 # Outputting
 permalink: /:categories/:title/
