@@ -1,4 +1,16 @@
 /* General link color */
+a {
+    color: initial;
+}
+
+a:visited {
+    color: initial;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 .about-page a {
     color: #0056b3 !important;
 }

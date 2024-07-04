@@ -19,10 +19,12 @@
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
-    opacity: 0.75;
-    -webkit-transition: opacity 0.2s ease-in-out;
-    transition: opacity 0.2s ease-in-out;
-
+    // opacity: 0.75;
+    // -webkit-transition: opacity 0.2s ease-in-out;
+    // transition: opacity 0.2s ease-in-out;
+    opacity: 1; /* Ensure full opacity */
+    -webkit-transition: none; /* Remove transition effect */
+    transition: none; /* Remove transition effect */
     &:hover {
       opacity: 1;
     }
