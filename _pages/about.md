@@ -66,6 +66,8 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(*: equal contrib
 <span style="color:darkred">**AAAI**</span> 2022
 
 ## Work Experiences
+- Applied Scientist II Intern, **Amazon AWS AI**, Pasadena, CA,  <font size="3">Jun. 2024 - </font>
+  - Mentors: Peng Tang, Srikar Appalaraju, Yash Singh, and Sagnik Das
 - Research Intern, **University of Virginia**, Charlottesville, VA, <font size="3">Jun. 2018 - Aug. 2018</font>
   - Advisor: [Prof. Homa Alemzadeh](https://homa-alem.github.io/)
   - Medical concept extraction in text data for Cognitive Assistant System of emergency medical response (supported by the National Institute of Standards and Technology).
