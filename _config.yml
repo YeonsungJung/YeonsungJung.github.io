@@ -94,18 +94,18 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : #"google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-MDTT3S0DD4"
+    tracking_id          : #"G-MDTT3S0DD4"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Joonhyung Park"
-  avatar           : "/images/joonhyung_profile.jpeg"
-  bio              : "Ph.D student at Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST)"
-  location         : "Daejeon, South Korea"
+  name             : "Yeonsung Jung"
+  avatar           : #"/images/joonhyung_profile.jpeg"
+  bio              : "Ph.D candidate at Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST)"
+  location         : "Seongnam, South Korea"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
