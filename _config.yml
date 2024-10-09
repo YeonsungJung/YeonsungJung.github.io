@@ -12,23 +12,27 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
+rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Yeonsung Jung"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yeonsung Jung"
-description              : "Ph.D. Candidate at KAIST"
-url                      : "https://YeonSung-Jung.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Ph.D. Student @ KAIST AI"
+url                      : "https://YeonsungJung.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Ys-Jung77/Yeonsung-Jung.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "YeonsungJung.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+enable_copy_code_button  : # true, false (default)
+copyright                : # "copyright" name, defaults to site.title
+copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -50,6 +54,11 @@ comments:
     discussion_term      : # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : # '1' for enabled (default), '0' for disabled
     theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    strict               : # 1 for enabled, 0 for disabled (default)
+    input_position       : # "top", "bottom" # The comment input box will be placed above or below the comments
+    emit_metadata        : # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
+    lang                 : # "en" (default)
+    lazy                 : # true, false # Loading of the comments will be deferred until the user scrolls near the comments container.
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
@@ -62,6 +71,8 @@ atom_feed:
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
+lunr:
+  search_within_pages    : # true, false (default)
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -94,38 +105,39 @@ social:
 
 # Analytics
 analytics:
-  provider               : #"google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : #"G-MDTT3S0DD4"
+    tracking_id          : "GTM-THF4TJJ9"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
   name             : "Yeonsung Jung"
-  avatar           : #"/images/joonhyung_profile.jpeg"
-  bio              : "Ph.D candidate at Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST)"
-  location         : "Seongnam, South Korea"
+  avatar           : "profile.jpg"
+  bio              : "I am a Ph.D. student at the Machine Learning and Intelligence Lab (MLILAB) at KAIST, advised by Prof. Eunho Yang."
+  location         : "Seoul, South Korea"
+#  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:deepjoon@kaist.ac.kr"
-    - label: "Google Scholar"
-      icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?hl=en&authuser=1&user=wA-WltUAAAAJ"
+      url: "ys.jung@kaist.ac.kr"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/joonhyung-park-495527145"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/JoonHyung-Park"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-      #
+      url: "https://www.linkedin.com/in/yeonsung-jung-a50015213/"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=RP0cr2wAAAAJ&hl=ko"
+    - label: "X"
+      icon: "fab fa-fw fa-x-square"
+      url: "https://x.com/Ys_Jung777"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   # url: "https://github.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url: "https://instagram.com/"
+
 # Site Footer
 footer:
   links:
@@ -212,34 +224,36 @@ sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      include:
-        - assets/css/custom.css
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Pagination with jekyll-paginate
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
+# Pagination with jekyll-paginate-v2
+# See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
+#   for configuration details
+pagination:
+  # Set enabled to true to use paginate v2
+  # enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: 'posts'
+  tag: ''
+  locale: ''
+  trail:
+    before: 2
+    after: 2
 
 
 # Plugins (previously gems:)
@@ -249,7 +263,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -297,4 +310,16 @@ compress_html:
     envs: development
 
 
-
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
