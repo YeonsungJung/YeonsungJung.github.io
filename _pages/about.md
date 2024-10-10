@@ -72,7 +72,7 @@ Heecheol Yun, **Yeonsung Jung**, Eunho Yang \\
 <span style="color:darkred">**preprint**</span>
 
 ## Work Experiences
-- Research Intern, **NAVER**, Seongnam, South Korea, (July 2019 - Sept. 2019)
+- Research Intern, **NAVER**, Seongnam, South Korea. (July 2019 - Sept. 2019)
   - Improve searching performance through click graph neural networks.
 
 <!---
