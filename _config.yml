@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Yeonsung Jung"
   avatar           : "profile.jpg"
-  bio              : "I am a Ph.D. student at the Machine Learning and Intelligence Lab (MLILAB) at KAIST, advised by Prof. Eunho Yang."
-  location         : "Seoul, South Korea"
+  bio              : "I am a Ph.D. candidate at the Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST), under the supervision of Prof. Eunho Yang."
+  location         : "Seongnam, South Korea"
 #  email            :
   links:
     - label: "Email"
@@ -309,7 +309,7 @@ compress_html:
   ignore:
     envs: development
 
-
+<!---
 # Defaults
 defaults:
   # _posts
@@ -323,3 +323,4 @@ defaults:
       comments: # true
       share: true
       related: true
+-->
