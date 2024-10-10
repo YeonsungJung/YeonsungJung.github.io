@@ -34,7 +34,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 - **<font size="4">PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency</font>** \\
 [[paper]](https://raw.githubusercontent.com/mlresearch/v235/main/assets/jung24b/jung24b.pdf) \\
-**Yeonsung Jung**, Heecheol Yun, Joonhyung Park, Jin-Hwa Kim\†, Eunho Yang\† \\
+**Yeonsung Jung**, Heecheol Yun, Joonhyung Park, Jin-Hwa Kim†, Eunho Yang† \\
 <span style="color:darkred">**ICML**</span> 2024
 
 - **<font size="4">Fighting Fire with Fire: Contrastive Debiasing without Bias-free Data via Generative Bias-transformation</font>** \\
