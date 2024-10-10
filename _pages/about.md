@@ -25,8 +25,6 @@ My research interest falls into enhancing the understanding of unstructured/vide
 My primary research interest in 3D vision falls into two branches following: 1) **Cross-modal 3D understanding**. It aims to harness the power of auxiliary data modalities for an in-depth comprehension of complex 3D data. Currently, I'm working on open-vocabulary 3D scene segmentation with object-relational graphs leveraging recent language foundation models' capabilities. 2) **Sim-to-real adaptation for 3D data**. My recent research efforts have been dedicated to narrowing the domain gap between synthetic and real-world 3D data. Ranging from developing adaptation strategies to curating 3D photorealistic datasets, my recent objective is to facilitate successful sim-to-real transfer across a broad range of 3D vision tasks.
 -->
 ## Conference Publications
-
-
 - **<font size="4">A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective</font>** \\
 [[paper]](https://raw.githubusercontent.com/mlresearch/v235/main/assets/jung24b/jung24b.pdf) \\
 **Yeonsung Jung\***, Jaeyun Song\*, June Yong Yang, Jin-Hwa Kim, Sung-Yub Kim, Eunho Yang \\
@@ -40,7 +38,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 - **<font size="4">Fighting Fire with Fire: Contrastive Debiasing without Bias-free Data via Generative Bias-transformation</font>** \\
 [[paper]](https://proceedings.mlr.press/v202/jung23b/jung23b.pdf) \\
 **Yeonsung Jung**, Hajin Shim, June Yong Yang, Eunho Yang \\
-<span style="color:darkred">**ICML**</span> 2024
+<span style="color:darkred">**ICML**</span> 2023
 
 - **<font size="4">Scalable Anti-TrustRank with Qualified Site-level Seeds for Link-based Web Spam Detection</font>** \\
 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3366424.3385773) \\
@@ -52,17 +50,38 @@ Joyce Jiyoung Whang, **Yeonsung Jung**, Seonggoo Kang, Dongho Yoo, Inderjit S. D
 Joyce Jiyoung Whang, **Yeonsung Jung**, Inderjit S. Dhillon, Seonggoo Kang, Jungmin Lee \\
 <span style="color:darkred">**WSDM Workshop**</span> on MIS2: Misinformation and Misbehavior Mining on the Web 2024
 
+## Preprints
+- **<font size="4">LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding</font>** \\
+Doohyuk Jang\*, Sihwan Park\*, June Yong Yang, **Yeonsung Jung**, Jihun Yun, Souvik Kundu, Sung-Yub Kim†, Eunho Yang†\\
+<span style="color:darkred">**preprint**</span>
+
+- **<font size="4">	MeZO-A<sup>3</sup>dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs</font>** \\
+Sihwan Park\*, Jihun Yun\*, Sung-Yub Kim, June Yong Yang, **Yeonsung Jung**, Souvik Kundu, Kyungsu Kim, Eunho Yang \\
+<span style="color:darkred">**preprint**</span>
+
+- **<font size="4">Playing the Fool: Jailbreaking Large Language Models with Out-of-Distribution Strategies</font>** \\
+Joonhyun Jeong, Seyun Bae, **Yeonsung Jung**, Jaeryong Hwang, Eunho Yang \\
+<span style="color:darkred">**preprint**</span>
+
+- **<font size="4">Augmentation-Driven Metric for Balancing Preservation and Modification in Text-Guided Image Editing</font>** \\
+Yoonjeon Kim\*, Soohyun Ryu\*, **Yeonsung Jung**, Hyunkoo Lee, Joowon Kim, June Yong Yang, Jaeryong Hwang, Eunho Yang \\
+<span style="color:darkred">**preprint**</span>
+
+- **<font size="4">3D Scene Decomposition Under Occlusion via Multi-View-Aware Inpainting</font>** \\
+Heecheol Yun, **Yeonsung Jung**, Eunho Yang \\
+<span style="color:darkred">**preprint**</span>
 
 ## Work Experiences
 - Research Intern, **NAVER**, Seongnam, South Korea, (July 2019 - Sept. 2019)
   - Improve searching performance through click graph neural networks.
 
-
+<!---
 ## Projects
 - Sub-task generation based point/regional Out-Of-Distribution detection, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
 - Predicting graph properties with few labels using Graph Neural Networks, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
 - Machine learning model for the prediction of Hypoxaemia during Endoscopic Retrograde Cholangiopancreatography, **Yonsei Severance Hospital**, <font size="3">Mar. 2020 - Jun. 2020</font>
     - Published in [Yonsei Medical Journal](https://ymj.kr/DOIx.php?id=10.3349/ymj.2022.0381)
+-->
 
 ## Acamdeic Services
 - Conference Reviewer
