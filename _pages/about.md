@@ -90,12 +90,12 @@ Heecheol Yun, **Yeonsung Jung**, Eunho Yang \\
     - International Conference on Learning Representations (ICLR)
     - Artificial Intelligence and Statistics (AISTATS)
     
-    <!---
+<!---
     - Computer Vision and Pattern Recognition (CVPR)
     - AAAI Conference on Artificial Intelligence (AAAI)
     - International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
     - Learning on Graphs (LoG)
   - Journal Reviewer
     - Transactions on Neural Networks and Learning Systems (TNNLS)
-    -->
+-->
 
