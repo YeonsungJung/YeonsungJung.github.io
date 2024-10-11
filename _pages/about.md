@@ -11,7 +11,8 @@ classes: "about-page"
 
 I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, advised by [Prof. Eunho Yang](https://mli.kaist.ac.kr/people/). **Please feel free to contact me if you are interested in potential collaborations.**
 
-My research interests include, but are not limited to, robustness, 3D, and multi-modal learning.
+I'm interested in understanding and enhancing model robustness across diverse modalities, including 2D & 3D vision, vision-language, and multi-modal models.
+
 
 <!---
 My research interest falls into enhancing the understanding of unstructured/video data modalities through the guidance of large language models. With these goals in mind, my recent focus has been on linking diverse modalities into the core of large language model **through the lens of graph-structured knowledge**, *e.g.* object graphs (3D vision), knowledge graphs (natural language), and scene graphs (video). In this endeavor, I work on building algorithms that leverage relational information of data therein, **revisiting real-world problems within a graph-based framework to provide a structured understanding of complex data modalities** in large language models.
