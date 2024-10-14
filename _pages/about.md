@@ -11,7 +11,7 @@ classes: "about-page"
 
 I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, advised by [Prof. Eunho Yang](https://mli.kaist.ac.kr/people/). **Please feel free to contact me if you are interested in potential collaborations.**
 
-I'm interested in understanding and enhancing model robustness across diverse modalities, including 2D & 3D vision, vision-language, and multi-modal models.
+I'm interested in understanding and enhancing model robustness across diverse modalities, including 2D & 3D vision, vision-language, and multi-modal.
 
 
 <!---
