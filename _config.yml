@@ -21,7 +21,7 @@ title                    : "Yeonsung Jung"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yeonsung Jung"
-description              : "Ph.D. Candidate @ KAIST AI"
+description              : "Ph.D Candidate @ KAIST AI"
 url                      : "https://YeonsungJung.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "YeonsungJung.github.io"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Yeonsung Jung"
   avatar           : "profile.jpg"
-  bio              : "I am a Ph.D. candidate at the Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST)."
+  bio              : "I am a Ph.D candidate at the Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST)."
   location         : "Seongnam, South Korea"
 #  email            :
   links:
