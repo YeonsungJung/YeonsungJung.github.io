@@ -26,32 +26,32 @@ My research interest falls into enhancing the understanding of unstructured/vide
 My primary research interest in 3D vision falls into two branches following: 1) **Cross-modal 3D understanding**. It aims to harness the power of auxiliary data modalities for an in-depth comprehension of complex 3D data. Currently, I'm working on open-vocabulary 3D scene segmentation with object-relational graphs leveraging recent language foundation models' capabilities. 2) **Sim-to-real adaptation for 3D data**. My recent research efforts have been dedicated to narrowing the domain gap between synthetic and real-world 3D data. Ranging from developing adaptation strategies to curating 3D photorealistic datasets, my recent objective is to facilitate successful sim-to-real transfer across a broad range of 3D vision tasks.
 -->
 ## Conference Publications
-- **<font size="4">A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective</font>** <a href="https://arxiv.org/abs/2411.00360" target="_blank" style="color: blue">[paper]</a> \\
+- **<font size="4">A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective</font>** <a href="https://arxiv.org/abs/2411.00360" target="_blank" style="color: #1E90FF">[paper]</a> \\
 **Yeonsung Jung\***, Jaeyun Song\*, June Yong Yang, Jin-Hwa Kim, Sung-Yub Kim, Eunho Yang \\
 <span style="color:darkred">**NeurIPS**</span> 2024
 
-- **<font size="4">PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency</font>** <a href="https://proceedings.mlr.press/v235/jung24b.html" target="_blank" style="color: blue">[paper]</a> \\
+- **<font size="4">PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency</font>** <a href="https://proceedings.mlr.press/v235/jung24b.html" target="_blank" style="color: #1E90FF">[paper]</a> \\
 **Yeonsung Jung**, Heecheol Yun, Joonhyung Park, Jin-Hwa Kim†, Eunho Yang† \\
 <span style="color:darkred">**ICML**</span> 2024
 
-- **<font size="4">Fighting Fire with Fire: Contrastive Debiasing without Bias-free Data via Generative Bias-transformation</font>** <a href="https://proceedings.mlr.press/v202/jung23b.html" target="_blank" style="color: blue">[paper]</a> \\
+- **<font size="4">Fighting Fire with Fire: Contrastive Debiasing without Bias-free Data via Generative Bias-transformation</font>** <a href="https://proceedings.mlr.press/v202/jung23b.html" target="_blank" style="color: #1E90FF">[paper]</a> \\
 **Yeonsung Jung**, Hajin Shim, June Yong Yang, Eunho Yang \\
 <span style="color:darkred">**ICML**</span> 2023
 
-- **<font size="4">Scalable Anti-TrustRank with Qualified Site-level Seeds for Link-based Web Spam Detection</font>** <a href="https://dl.acm.org/doi/pdf/10.1145/3366424.3385773" target="_blank" style="color: blue">[paper]</a> \\
+- **<font size="4">Scalable Anti-TrustRank with Qualified Site-level Seeds for Link-based Web Spam Detection</font>** <a href="https://dl.acm.org/doi/pdf/10.1145/3366424.3385773" target="_blank" style="color: #1E90FF">[paper]</a> \\
 Joyce Jiyoung Whang, **Yeonsung Jung**, Seonggoo Kang, Dongho Yoo, Inderjit S. Dhillon \\
 <span style="color:darkred">**The Web Conf. Workshop**</span> on CyberSafety: Computational Methods in Online Misbehavior 2024
 
-- **<font size="4">Fast Asynchronous Anti-TrustRank for Web Spam Detection</font>** <a href="https://proceedings.mlr.press/v202/jung23b/jung23b.pdf" target="_blank" style="color: blue">[paper]</a> \\
+- **<font size="4">Fast Asynchronous Anti-TrustRank for Web Spam Detection</font>** <a href="https://proceedings.mlr.press/v202/jung23b/jung23b.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
 Joyce Jiyoung Whang, **Yeonsung Jung**, Inderjit S. Dhillon, Seonggoo Kang, Jungmin Lee \\
 <span style="color:darkred">**WSDM Workshop**</span> on MIS2: Misinformation and Misbehavior Mining on the Web 2024
 
 ## Preprints
-- **<font size="4">LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding</font>** <a href="https://arxiv.org/abs/2410.03355" target="_blank" style="color: blue">[paper]</a> \\
+- **<font size="4">LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding</font>** <a href="https://arxiv.org/abs/2410.03355" target="_blank" style="color: #1E90FF">[paper]</a> \\
 Doohyuk Jang\*, Sihwan Park\*, June Yong Yang, **Yeonsung Jung**, Jihun Yun, Souvik Kundu, Sung-Yub Kim†, Eunho Yang†\\
 <span style="color:darkred">**perprint**</span>
 
-- **<font size="4">Augmentation-Driven Metric for Balancing Preservation and Modification in Text-Guided Image Editing</font>** <a href="https://arxiv.org/abs/2410.11374" target="_blank" style="color: blue">[paper]</a> \\
+- **<font size="4">Augmentation-Driven Metric for Balancing Preservation and Modification in Text-Guided Image Editing</font>** <a href="https://arxiv.org/abs/2410.11374" target="_blank" style="color: #1E90FF">[paper]</a> \\
 Yoonjeon Kim\*, Soohyun Ryu\*, **Yeonsung Jung**, Hyunkoo Lee, Joowon Kim, June Yong Yang, Jaeryong Hwang, Eunho Yang \\
 <span style="color:darkred">**preprint**</span>
 
