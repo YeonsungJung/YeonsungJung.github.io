@@ -27,6 +27,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 -->
 ## Conference Publications
 - **<font size="4">A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective</font>** \\
+<a href="https://arxiv.org/abs/2411.00360" target="_blank">[paper]</a> \\
 [[paper]](https://arxiv.org/abs/2411.00360) \\
 **Yeonsung Jung\***, Jaeyun Song\*, June Yong Yang, Jin-Hwa Kim, Sung-Yub Kim, Eunho Yang \\
 <span style="color:darkred">**NeurIPS**</span> 2024
