@@ -11,7 +11,7 @@ classes: "about-page"
 
 <a href="https://arxiv.org/abs/2411.00360" target="_blank" style="color: #1E90FF">[paper]</a>
 
-I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black">[Machine Learning and Intelligence Lab (MLILAB)]</a> in KAIST, advised by <a href="https://mli.kaist.ac.kr/people/" target="_blank" style="color: black">[Prof. Eunho Yang]</a>
+I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black; font-style: italic;">Machine Learning and Intelligence Lab (MLILAB)</a> in KAIST, advised by <a href="https://mli.kaist.ac.kr/people/" target="_blank" style="color: black; font-style: italic;">Prof. Eunho Yang</a>
 
 
 My interests include, but are not limited to, ***understanding and enhancing model robustness*** across diverse modalities such as 2D & 3D vision, vision-language, and multi-modal models. 
