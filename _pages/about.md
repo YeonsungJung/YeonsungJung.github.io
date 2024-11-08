@@ -27,17 +27,17 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 -->
 ## Conference Publications
 - **<font size="4">A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective</font>** \\
-[[paper]](https://raw.githubusercontent.com/mlresearch/v235/main/assets/jung24b/jung24b.pdf) \\
+[[paper]](https://arxiv.org/abs/2411.00360) \\
 **Yeonsung Jung\***, Jaeyun Song\*, June Yong Yang, Jin-Hwa Kim, Sung-Yub Kim, Eunho Yang \\
 <span style="color:darkred">**NeurIPS**</span> 2024
 
 - **<font size="4">PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency</font>** \\
-[[paper]](https://raw.githubusercontent.com/mlresearch/v235/main/assets/jung24b/jung24b.pdf) \\
+[[paper]](https://proceedings.mlr.press/v235/jung24b.html) \\
 **Yeonsung Jung**, Heecheol Yun, Joonhyung Park, Jin-Hwa Kim†, Eunho Yang† \\
 <span style="color:darkred">**ICML**</span> 2024
 
 - **<font size="4">Fighting Fire with Fire: Contrastive Debiasing without Bias-free Data via Generative Bias-transformation</font>** \\
-[[paper]](https://proceedings.mlr.press/v202/jung23b/jung23b.pdf) \\
+[[paper]](https://proceedings.mlr.press/v202/jung23b.html) \\
 **Yeonsung Jung**, Hajin Shim, June Yong Yang, Eunho Yang \\
 <span style="color:darkred">**ICML**</span> 2023
 
