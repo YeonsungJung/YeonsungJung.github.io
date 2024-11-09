@@ -9,8 +9,6 @@ redirect_from:
 classes: "about-page"
 ---
 
-<a href="https://arxiv.org/abs/2411.00360" target="_blank" style="color: #1E90FF">[paper]</a>
-
 I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black; font-style: italic;">Machine Learning and Intelligence Lab (MLILAB)</a> in KAIST, advised by <a href="https://mli.kaist.ac.kr/people/" target="_blank" style="color: black; font-style: italic;">Prof. Eunho Yang</a>
 
 
