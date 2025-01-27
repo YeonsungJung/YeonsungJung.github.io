@@ -12,10 +12,15 @@ classes: "about-page"
 I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black; font-style: italic;">Machine Learning and Intelligence Lab (MLILAB)</a> at <a href="
 https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in South Korea, advised by <a href="https://mli.kaist.ac.kr/people/" target="_blank" style="color: black; font-style: italic;">Prof. Eunho Yang</a>.
 
+My research interests lie in ***advancing the generalization of large multi-modal agents(LMAs)*** and ***addressing hallucination in multi-modal large language models(MLLMs)***. I am also interested in developing ***robust fine-tuning methods for vision-language models*** to ensure reliable deployment in real-world applications.
 
+Previously, my work explored understanding and improving model robustness across diverse modalities, including 2D and 3D vision, vision-language, and multi-modal models. 
+
+<!---
 My interests include, but are not limited to, ***understanding and enhancing model robustness*** across diverse modalities such as 2D & 3D vision, vision-language, and multi-modal models. 
 
 Recently, my research has focused on ***robust learning/fine-tuning methods for large vision-language and multi-modal autoregressive models***, aimed at improving adaptability and resilience to diverse data distributions and task variations, thereby enhancing performance consistency in complex, real-world scenarios. 
+-->
 
 ***Please feel free to contact me if you are interested in potential collaborations!*** &nbsp; <a href="https://www.linkedin.com/in/yeonsung-jung-a50015213/" target="_blank" style="color: #1E90FF">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="15" height="15"> LinkedIn </a>
@@ -34,6 +39,10 @@ My research interest falls into enhancing the understanding of unstructured/vide
 My primary research interest in 3D vision falls into two branches following: 1) **Cross-modal 3D understanding**. It aims to harness the power of auxiliary data modalities for an in-depth comprehension of complex 3D data. Currently, I'm working on open-vocabulary 3D scene segmentation with object-relational graphs leveraging recent language foundation models' capabilities. 2) **Sim-to-real adaptation for 3D data**. My recent research efforts have been dedicated to narrowing the domain gap between synthetic and real-world 3D data. Ranging from developing adaptation strategies to curating 3D photorealistic datasets, my recent objective is to facilitate successful sim-to-real transfer across a broad range of 3D vision tasks.
 -->
 ## Conference Publications
+- **<font size="4">LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding</font>** <a href="https://arxiv.org/abs/2410.03355" target="_blank" style="color: #1E90FF">[paper]</a> \\
+Doohyuk Jang\*, Sihwan Park\*, June Yong Yang, **Yeonsung Jung**, Jihun Yun, Souvik Kundu, Sung-Yub Kim†, Eunho Yang†\\
+<span style="color:darkred">**ICLR**</span> 2025
+
 - **<font size="4">A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective</font>** <a href="https://arxiv.org/abs/2411.00360" target="_blank" style="color: #1E90FF">[paper]</a> \\
 **Yeonsung Jung\***, Jaeyun Song\*, June Yong Yang, Jin-Hwa Kim, Sung-Yub Kim, Eunho Yang \\
 <span style="color:darkred">**NeurIPS**</span> 2024
@@ -55,10 +64,6 @@ Joyce Jiyoung Whang, **Yeonsung Jung**, Inderjit S. Dhillon, Seonggoo Kang, Jung
 <span style="color:darkred">**WSDM Workshop**</span> on MIS2: Misinformation and Misbehavior Mining on the Web 2024
 
 ## Preprints
-- **<font size="4">LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding</font>** <a href="https://arxiv.org/abs/2410.03355" target="_blank" style="color: #1E90FF">[paper]</a> \\
-Doohyuk Jang\*, Sihwan Park\*, June Yong Yang, **Yeonsung Jung**, Jihun Yun, Souvik Kundu, Sung-Yub Kim†, Eunho Yang†\\
-<span style="color:darkred">**perprint**</span>
-
 - **<font size="4">Augmentation-Driven Metric for Balancing Preservation and Modification in Text-Guided Image Editing</font>** <a href="https://arxiv.org/abs/2410.11374" target="_blank" style="color: #1E90FF">[paper]</a> \\
 Yoonjeon Kim\*, Soohyun Ryu\*, **Yeonsung Jung**, Hyunkoo Lee, Joowon Kim, June Yong Yang, Jaeryong Hwang, Eunho Yang \\
 <span style="color:darkred">**preprint**</span>
