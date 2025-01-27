@@ -14,7 +14,7 @@ https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in 
 
 My research interests lie in ***advancing the generalization of large multi-modal agents(LMAs)*** and ***addressing hallucination in multi-modal large language models(MLLMs)***. I am also interested in developing ***robust fine-tuning methods for vision-language models*** to ensure reliable deployment in real-world applications.
 
-Previously, my work explored understanding and improving model robustness across diverse modalities, including 2D and 3D vision, vision-language, and multi-modal models. 
+Previously, my work centered on understanding and improving model robustness across diverse modalities, including 2D and 3D vision, vision-language, and multi-modal models. 
 
 <!---
 My interests include, but are not limited to, ***understanding and enhancing model robustness*** across diverse modalities such as 2D & 3D vision, vision-language, and multi-modal models. 
