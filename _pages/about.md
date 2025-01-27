@@ -12,7 +12,7 @@ classes: "about-page"
 I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black; font-style: italic;">Machine Learning and Intelligence Lab (MLILAB)</a> at <a href="
 https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in South Korea, advised by <a href="https://mli.kaist.ac.kr/people/" target="_blank" style="color: black; font-style: italic;">Prof. Eunho Yang</a>.
 
-My research interests lie in ***advancing the generalization of large multi-modal agents(LMAs)*** and ***addressing hallucination in multi-modal large language models(MLLMs)***. I am also interested in developing ***robust fine-tuning methods for vision-language models*** to ensure reliable deployment in real-world applications.
+My research interests lie in  <span style="color: #1DA1F2; font-weight: bold;">advancing the generalization of large multi-modal agents(LMAs)</span> and <span style="color: #1DA1F2; font-weight: bold;">addressing hallucination in multi-modal large language models(MLLMs)</span>. I am also interested in developing  <span style="color: #1DA1F2; font-weight: bold;">robust fine-tuning methods for vision-language models</span> to ensure reliable deployment in real-world applications.
 
 Previously, my work centered on understanding and improving model robustness across diverse modalities, including 2D and 3D vision, vision-language, and multi-modal models. 
 
