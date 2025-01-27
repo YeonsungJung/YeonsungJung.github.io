@@ -9,15 +9,15 @@ redirect_from:
 classes: "about-page"
 ---
 
-I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black; font-style: italic;">Machine Learning and Intelligence Lab (MLILAB)</a> at <a href="
-https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in South Korea, advised by <a href="https://mli.kaist.ac.kr/people/" target="_blank" style="color: black; font-style: italic;">Prof. Eunho Yang</a>.
+I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">Machine Learning and Intelligence Lab (MLILAB)</a> at <a href="
+https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in South Korea, advised by <a href="https://mli.kaist.ac.kr/people/" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
 
 My research interests lie in 
-        <span style="color: #007ACC; font-weight: bold;">advancing the generalization of large multi-modal agents (LMAs)</span> 
+        <span style="color: #1A73E8; font-weight: bold;">advancing the generalization of large multi-modal agents (LMAs)</span> 
         and 
-        <span style="color: #007ACC; font-weight: bold;">addressing hallucination in multi-modal large language models (MLLMs)</span>. 
+        <span style="color: #1A73E8; font-weight: bold;">addressing hallucination in multi-modal large language models (MLLMs)</span>. 
         I am also interested in developing 
-        <span style="color: #007ACC; font-weight: bold;">robust fine-tuning methods for vision-language models</span> 
+        <span style="color: #1A73E8; font-weight: bold;">robust fine-tuning methods for vision-language models</span> 
         to ensure reliable deployment in real-world applications.
 Previously, my work centered on understanding and improving model robustness across diverse modalities, including 2D and 3D vision, vision-language, and multi-modal models. 
 
