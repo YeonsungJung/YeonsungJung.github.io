@@ -19,7 +19,7 @@ Recently, my research interests focus on
         I am also interested in developing 
         <span style="color: #1A73E8; font-weight: bold;">(iii) robust fine-tuning methods for vision-language models</span> 
         to ensure reliable deployment in real-world applications.
-Previously, my work centered on understanding and improving model robustness across diverse modalities, including 2D and 3D vision, vision-language, and multi-modal models. 
+Previously, my work centered on understanding and improving model robustness across diverse modalities, including 2D and 3D vision, and multi-modal models. 
 
 <!---
 My interests include, but are not limited to, ***understanding and enhancing model robustness*** across diverse modalities such as 2D & 3D vision, vision-language, and multi-modal models. 
