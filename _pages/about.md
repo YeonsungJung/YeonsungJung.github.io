@@ -13,7 +13,7 @@ I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style
 https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in South Korea, advised by <a href="https://mli.kaist.ac.kr/people/" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
 
 Recently, my research interests focus on
-        <span style="color: #1A73E8; font-weight: bold;">(i) advancing the generalization of large multi-modal agents (LMAs)</span> 
+        <span style="color: #1A73E8; font-weight: bold;">(i) self-improving large multi-modal agents (LMAs)</span> 
         and 
         <span style="color: #1A73E8; font-weight: bold;">(ii) addressing hallucination in multi-modal large language models (MLLMs)</span>. 
         I am also interested in developing 
