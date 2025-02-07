@@ -71,19 +71,19 @@ Joyce Jiyoung Whang, **Yeonsung Jung**, Inderjit S. Dhillon, Seonggoo Kang, Jung
 ## Preprints
 - **<font size="4">Augmentation-Driven Metric for Balancing Preservation and Modification in Text-Guided Image Editing</font>** <a href="https://arxiv.org/abs/2410.11374" target="_blank" style="color: #1E90FF">[paper]</a> \\
 Yoonjeon Kim\*, Soohyun Ryu\*, **Yeonsung Jung**, Hyunkoo Lee, Joowon Kim, June Yong Yang, Jaeryong Hwang, Eunho Yang \\
-<span style="color:darkred">**Under review**</span>
+<span style="color:darkred">**under review**</span>
 
 - **<font size="4">Playing the Fool: Jailbreaking Large Language Models with Out-of-Distribution Strategies</font>** \\
 Joonhyun Jeong, Seyun Bae, **Yeonsung Jung**, Jaeryong Hwang, Eunho Yang \\
-<span style="color:darkred">**Under review**</span>
+<span style="color:darkred">**under review**</span>
 
 - **<font size="4">	MeZO-A<sup>3</sup>dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs</font>** \\
 Sihwan Park\*, Jihun Yun\*, Sung-Yub Kim, June Yong Yang, **Yeonsung Jung**, Souvik Kundu, Kyungsu Kim, Eunho Yang \\
-<span style="color:darkred">**Under review**</span>
+<span style="color:darkred">**under review**</span>
 
 - **<font size="4">3D Scene Decomposition Under Occlusion via Multi-View-Aware Inpainting</font>** \\
 Heecheol Yun, **Yeonsung Jung**, Eunho Yang \\
-<span style="color:darkred">**Under review**</span>
+<span style="color:darkred">**under review**</span>
 
 ## Work Experiences
 - Research Intern, **NAVER**, Seongnam, South Korea. (July 2019 - Sept. 2019)
