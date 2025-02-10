@@ -12,7 +12,7 @@ classes: "about-page"
 I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">Machine Learning and Intelligence Lab (MLILAB)</a> at <a href="
 https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in South Korea, advised by <a href="https://mli.kaist.ac.kr/people/" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
 
-Recently, my research interests focus on
+My recent research interests focus on
         <span style="color: #1A73E8; font-weight: bold;">(i) self-improving large multi-modal agents </span>  (closely working with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;"> Ninareh Mehrabi</a>)
         and 
         <span style="color: #1A73E8; font-weight: bold;">(ii) addressing hallucination in multi-modal large language models </span>. 
