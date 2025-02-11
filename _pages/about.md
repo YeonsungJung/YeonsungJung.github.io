@@ -13,7 +13,7 @@ I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style
 https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in South Korea, advised by <a href="https://mli.kaist.ac.kr/people/" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
 
 My recent research interests focus on
-        <span style="color: #1A73E8; font-weight: bold;">(i) self-improving large multi-modal agents </span>  (closely working with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;"> Ninareh Mehrabi</a>)
+        <span style="color: #1A73E8; font-weight: bold;">(i) self-improving large multi-modal agents </span>  (closely working with <a href="https://scholar.google.com/citations?user=1R3XgHQAAAAJ&hl=en" target="_blank" style="color: black;"> Ninareh Mehrabi</a>)
         and 
         <span style="color: #1A73E8; font-weight: bold;">(ii) addressing hallucination in multi-modal large language models </span>. 
         I am also interested in developing 
