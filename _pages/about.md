@@ -10,7 +10,7 @@ classes: "about-page"
 ---
 
 I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">Machine Learning and Intelligence Lab (MLILAB)</a> at <a href="
-https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in South Korea, advised by <a href="https://mli.kaist.ac.kr/people/" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
+https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in South Korea, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
 
 My recent research interests focus on
         <span style="color: #1A73E8; font-weight: bold;">(i) self-improving large multi-modal agents for generalization</span>  (closely working with <a href="https://scholar.google.com/citations?user=1R3XgHQAAAAJ&hl=en" target="_blank" style="color: black;"> Ninareh Mehrabi</a>)
