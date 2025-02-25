@@ -105,7 +105,7 @@ Heecheol Yun, **Yeonsung Jung**, Eunho Yang \\
     - Computer Vision and Pattern Recognition (CVPR)
     - International Conference on Computer Vision (ICCV)
     - Artificial Intelligence and Statistics (AISTATS)
-    - NACCL Workshop on TrustNLP
+    - <a href="https://trustnlpworkshop.github.io/" target="_blank" style="color: blue;"> NACCL Workshop on TrustNLP </a>
       
 <!---
   - Computer Vision and Pattern Recognition (CVPR)
