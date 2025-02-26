@@ -44,6 +44,14 @@ My research interest falls into enhancing the understanding of unstructured/vide
 My primary research interest in 3D vision falls into two branches following: 1) **Cross-modal 3D understanding**. It aims to harness the power of auxiliary data modalities for an in-depth comprehension of complex 3D data. Currently, I'm working on open-vocabulary 3D scene segmentation with object-relational graphs leveraging recent language foundation models' capabilities. 2) **Sim-to-real adaptation for 3D data**. My recent research efforts have been dedicated to narrowing the domain gap between synthetic and real-world 3D data. Ranging from developing adaptation strategies to curating 3D photorealistic datasets, my recent objective is to facilitate successful sim-to-real transfer across a broad range of 3D vision tasks.
 -->
 ## Conference Publications
+- **<font size="4">Augmentation-Driven Metric for Balancing Preservation and Modification in Text-Guided Image Editing</font>** <a href="https://arxiv.org/abs/2410.11374" target="_blank" style="color: #1E90FF">[paper]</a> \\
+Yoonjeon Kim\*, Soohyun Ryu\*, **Yeonsung Jung**, Hyunkoo Lee, Joowon Kim, June Yong Yang, Jaeryong Hwang, Eunho Yang \\
+<span style="color:darkred">**CVPR**</span> 2025
+
+- **<font size="4">Playing the Fool: Jailbreaking Large Language Models with Out-of-Distribution Strategies</font>** \\
+Joonhyun Jeong, Seyun Bae, **Yeonsung Jung**, Jaeryong Hwang, Eunho Yang \\
+<span style="color:darkred">**CVPR**</span> 2025
+
 - **<font size="4">LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding</font>** <a href="https://arxiv.org/abs/2410.03355" target="_blank" style="color: #1E90FF">[paper]</a> \\
 Doohyuk Jang\*, Sihwan Park\*, June Yong Yang, **Yeonsung Jung**, Jihun Yun, Souvik Kundu, Sung-Yub Kim†, Eunho Yang†\\
 <span style="color:darkred">**ICLR**</span> 2025
@@ -69,14 +77,6 @@ Joyce Jiyoung Whang, **Yeonsung Jung**, Inderjit S. Dhillon, Seonggoo Kang, Jung
 <span style="color:darkred">**WSDM Workshop**</span> on MIS2: Misinformation and Misbehavior Mining on the Web 2024
 
 ## Preprints
-- **<font size="4">Augmentation-Driven Metric for Balancing Preservation and Modification in Text-Guided Image Editing</font>** <a href="https://arxiv.org/abs/2410.11374" target="_blank" style="color: #1E90FF">[paper]</a> \\
-Yoonjeon Kim\*, Soohyun Ryu\*, **Yeonsung Jung**, Hyunkoo Lee, Joowon Kim, June Yong Yang, Jaeryong Hwang, Eunho Yang \\
-<span style="color:darkred">**under review**</span>
-
-- **<font size="4">Playing the Fool: Jailbreaking Large Language Models with Out-of-Distribution Strategies</font>** \\
-Joonhyun Jeong, Seyun Bae, **Yeonsung Jung**, Jaeryong Hwang, Eunho Yang \\
-<span style="color:darkred">**under review**</span>
-
 - **<font size="4">	MeZO-A<sup>3</sup>dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs</font>** \\
 Sihwan Park\*, Jihun Yun\*, Sung-Yub Kim, June Yong Yang, **Yeonsung Jung**, Souvik Kundu, Kyungsu Kim, Eunho Yang \\
 <span style="color:darkred">**under review**</span>
