@@ -81,7 +81,7 @@ Doohyuk Jang\*, Sihwan Park\*, June Yong Yang, **Yeonsung Jung**, Jihun Yun, Sou
 Joyce Jiyoung Whang, **Yeonsung Jung**, Seonggoo Kang, Dongho Yoo, Inderjit S. Dhillon \\
 <span style="color:darkred">**The Web Conf. Workshop**</span> on CyberSafety: Computational Methods in Online Misbehavior 2020
 
-- >Fast Asynchronous Anti-TrustRank for Web Spam Detection <a href="https://snap.stanford.edu/mis2/files/MIS2_paper_24.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- Fast Asynchronous Anti-TrustRank for Web Spam Detection <a href="https://snap.stanford.edu/mis2/files/MIS2_paper_24.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
 Joyce Jiyoung Whang, **Yeonsung Jung**, Inderjit S. Dhillon, Seonggoo Kang, Jungmin Lee \\
 <span style="color:darkred">**WSDM Workshop**</span> on MIS2: Misinformation and Misbehavior Mining on the Web 2018
 
