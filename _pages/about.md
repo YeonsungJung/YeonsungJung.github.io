@@ -57,31 +57,31 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 Yoonjeon Kim\*, Soohyun Ryu\*, **Yeonsung Jung**, Hyunkoo Lee, Joowon Kim, June Yong Yang, Jaeryong Hwang, Eunho Yang \\
 <span style="color:darkred">**CVPR**</span> 2025
 
-- <font size="4">Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy</font>** \\
+- Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy** \\
 Joonhyun Jeong, Seyun Bae, **Yeonsung Jung**, Jaeryong Hwang, Eunho Yang \\
 <span style="color:darkred">**CVPR**</span> 2025
 
-- <font size="4">LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding</font> <a href="https://arxiv.org/abs/2410.03355" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding <a href="https://arxiv.org/abs/2410.03355" target="_blank" style="color: #1E90FF">[paper]</a> \\
 Doohyuk Jang\*, Sihwan Park\*, June Yong Yang, **Yeonsung Jung**, Jihun Yun, Souvik Kundu, Sung-Yub Kim†, Eunho Yang†\\
 <span style="color:darkred">**ICLR**</span> 2025
 
-- <font size="4">A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective</font> <a href="https://arxiv.org/abs/2411.00360" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective <a href="https://arxiv.org/abs/2411.00360" target="_blank" style="color: #1E90FF">[paper]</a> \\
 **Yeonsung Jung\***, Jaeyun Song\*, June Yong Yang, Jin-Hwa Kim, Sung-Yub Kim, Eunho Yang \\
 <span style="color:darkred">**NeurIPS**</span> 2024
 
-- <font size="4">PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency</font> <a href="https://proceedings.mlr.press/v235/jung24b.html" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency <a href="https://proceedings.mlr.press/v235/jung24b.html" target="_blank" style="color: #1E90FF">[paper]</a> \\
 **Yeonsung Jung**, Heecheol Yun, Joonhyung Park, Jin-Hwa Kim†, Eunho Yang† \\
 <span style="color:darkred">**ICML**</span> 2024
 
-- <font size="4">Fighting Fire with Fire: Contrastive Debiasing without Bias-free Data via Generative Bias-transformation</font> <a href="https://proceedings.mlr.press/v202/jung23b.html" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- Fighting Fire with Fire: Contrastive Debiasing without Bias-free Data via Generative Bias-transformation <a href="https://proceedings.mlr.press/v202/jung23b.html" target="_blank" style="color: #1E90FF">[paper]</a> \\
 **Yeonsung Jung**, Hajin Shim, June Yong Yang, Eunho Yang \\
 <span style="color:darkred">**ICML**</span> 2023
 
-- <font size="4">Scalable Anti-TrustRank with Qualified Site-level Seeds for Link-based Web Spam Detection</font> <a href="https://dl.acm.org/doi/pdf/10.1145/3366424.3385773" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- Scalable Anti-TrustRank with Qualified Site-level Seeds for Link-based Web Spam Detection <a href="https://dl.acm.org/doi/pdf/10.1145/3366424.3385773" target="_blank" style="color: #1E90FF">[paper]</a> \\
 Joyce Jiyoung Whang, **Yeonsung Jung**, Seonggoo Kang, Dongho Yoo, Inderjit S. Dhillon \\
 <span style="color:darkred">**The Web Conf. Workshop**</span> on CyberSafety: Computational Methods in Online Misbehavior 2020
 
-- <font size="4">Fast Asynchronous Anti-TrustRank for Web Spam Detection</font> <a href="https://snap.stanford.edu/mis2/files/MIS2_paper_24.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- >Fast Asynchronous Anti-TrustRank for Web Spam Detection <a href="https://snap.stanford.edu/mis2/files/MIS2_paper_24.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
 Joyce Jiyoung Whang, **Yeonsung Jung**, Inderjit S. Dhillon, Seonggoo Kang, Jungmin Lee \\
 <span style="color:darkred">**WSDM Workshop**</span> on MIS2: Misinformation and Misbehavior Mining on the Web 2018
 
