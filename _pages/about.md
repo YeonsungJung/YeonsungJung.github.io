@@ -9,6 +9,15 @@ redirect_from:
 classes: "about-page"
 ---
 
+<style>
+  .about-page {
+    max-width: 100%;  /* 페이지 전체 가로폭 사용 */
+    width: 100%;
+    margin: 0 auto;
+  }
+</style>
+
+
 I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">Machine Learning and Intelligence Lab (MLILAB)</a> at <a href="
 https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in South Korea, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
 
