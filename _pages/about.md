@@ -12,10 +12,11 @@ classes: "about-page"
 I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">Machine Learning and Intelligence Lab (MLILAB)</a> at <a href="
 https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in South Korea, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
 
-
+## Research Interests
+<hr>
 <span style="color: #1A73E8; font-weight: bold;">Reliable AI </span>  My research, in general, has focused on \textbf{model robustness}, including both general methods and specialized approaches for 2D \& 3D vision, graph, and vision-language models. As part of this direction, I have recently been developing robust fine-tuning methods for vision-language models to ensure reliable deployment in real-world applications.
 
-<span style="color: #1A73E8; font-weight: bold;">Agents & MLLMs </span> \\ My current research focuses on **self-improving agents for generalization** (closely working with <a href="https://scholar.google.com/citations?user=1R3XgHQAAAAJ&hl=en" target="_blank" style="color: black;"> Ninareh Mehrabi </a> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="50" style="vertical-align: middle; position: relative; top: 2px;"> and  <a href="https://scholar.google.com.au/citations?user=WnWN4NkAAAAJ&hl=en" target="_blank" style="color: black;"> Sina Shaham</a> <img src="https://logodownload.org/wp-content/uploads/2021/10/meta-logo-1.png" alt="Meta" width="50" style="vertical-align: middle; position: relative; top: -2px;">) and **addressing hallucination in MLLMs through visual reasoning**.
+<span style="color: #1A73E8; font-weight: bold;">Agents & MLLMs </span>  My current research focuses on **self-improving agents for generalization** (closely working with <a href="https://scholar.google.com/citations?user=1R3XgHQAAAAJ&hl=en" target="_blank" style="color: black;"> Ninareh Mehrabi </a> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="50" style="vertical-align: middle; position: relative; top: 2px;"> and  <a href="https://scholar.google.com.au/citations?user=WnWN4NkAAAAJ&hl=en" target="_blank" style="color: black;"> Sina Shaham</a> <img src="https://logodownload.org/wp-content/uploads/2021/10/meta-logo-1.png" alt="Meta" width="50" style="vertical-align: middle; position: relative; top: -2px;">) and **addressing hallucination in MLLMs through visual reasoning**.
 
 <!---
 My recent research interests focus on
@@ -51,6 +52,7 @@ My research interest falls into enhancing the understanding of unstructured/vide
 My primary research interest in 3D vision falls into two branches following: 1) **Cross-modal 3D understanding**. It aims to harness the power of auxiliary data modalities for an in-depth comprehension of complex 3D data. Currently, I'm working on open-vocabulary 3D scene segmentation with object-relational graphs leveraging recent language foundation models' capabilities. 2) **Sim-to-real adaptation for 3D data**. My recent research efforts have been dedicated to narrowing the domain gap between synthetic and real-world 3D data. Ranging from developing adaptation strategies to curating 3D photorealistic datasets, my recent objective is to facilitate successful sim-to-real transfer across a broad range of 3D vision tasks.
 -->
 ## Conference Publications
+<hr>
 - **<font size="4">Preserve or Modify? Context-Aware Evaluation for Balancing Preservation and Modification in Text-Guided Image Editing</font>** \\
 Yoonjeon Kim\*, Soohyun Ryu\*, **Yeonsung Jung**, Hyunkoo Lee, Joowon Kim, June Yong Yang, Jaeryong Hwang, Eunho Yang \\
 <span style="color:darkred">**CVPR**</span> 2025
@@ -84,6 +86,7 @@ Joyce Jiyoung Whang, **Yeonsung Jung**, Inderjit S. Dhillon, Seonggoo Kang, Jung
 <span style="color:darkred">**WSDM Workshop**</span> on MIS2: Misinformation and Misbehavior Mining on the Web 2018
 
 ## Preprints
+<hr>
 - **<font size="4">	MeZO-A<sup>3</sup>dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs</font>** \\
 Sihwan Park\*, Jihun Yun\*, Sung-Yub Kim, June Yong Yang, **Yeonsung Jung**, Souvik Kundu, Kyungsu Kim, Eunho Yang \\
 <span style="color:darkred">**under review**</span>
@@ -93,6 +96,7 @@ Heecheol Yun, **Yeonsung Jung**, Eunho Yang \\
 <span style="color:darkred">**under review**</span>
 
 ## Work Experiences
+<hr>
 - Research Intern, **<a href="https://naver-career.gitbook.io/en/publications/all" target="_blank" style="color: black;"> NAVER </a>**, Seongnam, South Korea. (July 2019 - Sept. 2019)
   - Improve searching performance through click graph neural networks.
 
@@ -105,6 +109,7 @@ Heecheol Yun, **Yeonsung Jung**, Eunho Yang \\
 -->
 
 ## Acamdeic Services
+<hr>
 - Conference Reviewer
     - Neural Information Processing Systems (NeurIPS)
     - International Conference on Machine Learning (ICML)
