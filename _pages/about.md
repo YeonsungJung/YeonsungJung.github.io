@@ -9,15 +9,6 @@ redirect_from:
 classes: "about-page"
 ---
 
-<style>
-  .about-page {
-    max-width: 100%;  /* 페이지 전체 가로폭 사용 */
-    width: 100%;
-    margin: 0 auto;
-  }
-</style>
-
-
 I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">Machine Learning and Intelligence Lab (MLILAB)</a> at <a href="
 https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in South Korea, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
 
@@ -63,7 +54,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 ## Conference Publications
 <hr>
 - _Preserve or Modify? Context-Aware Evaluation for Balancing Preservation and Modification in Text-Guided Image Editing_ \\
-Yoonjeon Kim\*, Soohyun Ryu\*, **Yeonsung Jung**, Hyunkoo Lee, Joowon Kim, June Yong Yang, Jaeryong Hwang, Eunho Yang \\
+<span style="font-size: 70%;"> Yoonjeon Kim\*, Soohyun Ryu\*, **Yeonsung Jung**, Hyunkoo Lee, Joowon Kim, June Yong Yang, Jaeryong Hwang, Eunho Yang <\span>\\
 <span style="color:darkred">**CVPR**</span> 2025
 
 - _Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy_ \\
@@ -78,7 +69,7 @@ Doohyuk Jang\*, Sihwan Park\*, June Yong Yang, **Yeonsung Jung**, Jihun Yun, Sou
 **Yeonsung Jung\***, Jaeyun Song\*, June Yong Yang, Jin-Hwa Kim, Sung-Yub Kim, Eunho Yang \\
 <span style="color:darkred">**NeurIPS**</span> 2024
 
-- PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency <a href="https://proceedings.mlr.press/v235/jung24b.html" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- _PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency_ <a href="https://proceedings.mlr.press/v235/jung24b.html" target="_blank" style="color: #1E90FF">[paper]</a> \\
 **Yeonsung Jung**, Heecheol Yun, Joonhyung Park, Jin-Hwa Kim†, Eunho Yang† \\
 <span style="color:darkred">**ICML**</span> 2024
 
