@@ -53,7 +53,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 -->
 ## Conference Publications
 <hr>
-- <font size="4">Preserve or Modify? Context-Aware Evaluation for Balancing Preservation and Modification in Text-Guided Image Editing</font> \\
+- <font size="4">Preserve or Modify? Context-Aware Evaluation for Balancing Preservation and Modification in Text-Guided Image Editing</font>
 Yoonjeon Kim\*, Soohyun Ryu\*, **Yeonsung Jung**, Hyunkoo Lee, Joowon Kim, June Yong Yang, Jaeryong Hwang, Eunho Yang \\
 <span style="color:darkred">**CVPR**</span> 2025
 
