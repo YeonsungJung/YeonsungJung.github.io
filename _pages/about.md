@@ -35,7 +35,7 @@ My interests include, but are not limited to, ***understanding and enhancing mod
 Recently, my research has focused on ***robust learning/fine-tuning methods for large vision-language and multi-modal autoregressive models***, aimed at improving adaptability and resilience to diverse data distributions and task variations, thereby enhancing performance consistency in complex, real-world scenarios. 
 -->
 
-**Please feel free to contact me if you are interested in potential collaborations!** &nbsp; <a href="https://www.linkedin.com/in/yeonsung-jung-a50015213/" target="_blank" style="color: #1E90FF">
+Please feel free to contact me if you are interested in potential collaborations! &nbsp; <a href="https://www.linkedin.com/in/yeonsung-jung-a50015213/" target="_blank" style="color: #1E90FF">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="15" height="15"> LinkedIn </a>
 
 
