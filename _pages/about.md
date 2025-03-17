@@ -87,11 +87,11 @@ Joyce Jiyoung Whang, **Yeonsung Jung**, Inderjit S. Dhillon, Seonggoo Kang, Jung
 
 ## Preprints
 <hr>
-- <font size="4">	MeZO-A<sup>3</sup>dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs</font> \\
+- MeZO-A<sup>3</sup>dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs \\
 Sihwan Park\*, Jihun Yun\*, Sung-Yub Kim, June Yong Yang, **Yeonsung Jung**, Souvik Kundu, Kyungsu Kim, Eunho Yang \\
 <span style="color:darkred">**under review**</span>
 
-- <font size="4">3D Scene Decomposition Under Occlusion via Multi-View-Aware Inpainting</font> \\
+- 3D Scene Decomposition Under Occlusion via Multi-View-Aware Inpainting \\
 Heecheol Yun, **Yeonsung Jung**, Eunho Yang \\
 <span style="color:darkred">**under review**</span>
 
