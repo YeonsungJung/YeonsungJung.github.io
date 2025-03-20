@@ -116,6 +116,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
     - International Conference on Learning Representations (ICLR)
     - Computer Vision and Pattern Recognition (CVPR)
     - International Conference on Computer Vision (ICCV)
+    - Association for the Advancement of Artificial Intelligence (AAAI)
     - Artificial Intelligence and Statistics (AISTATS)
     - <a href="https://trustnlpworkshop.github.io/" target="_blank" style="color: black;"> NACCL Workshop on TrustNLP </a>
       
