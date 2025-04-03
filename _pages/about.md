@@ -13,10 +13,17 @@ I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style
 https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in South Korea, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
 
 ## Research Interests
+
+My recent research interests include, but are not limited to, <span style="color: #1A73E8; font-weight: bold;">the generalization ability of self-improving agents </span> (closely working with <a href="https://scholar.google.com/citations?user=1R3XgHQAAAAJ&hl=en" target="_blank" style="color: black;"> Ninareh Mehrabi </a> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="50" style="vertical-align: middle; position: relative; top: 2px;"> and  <a href="https://scholar.google.com.au/citations?user=WnWN4NkAAAAJ&hl=en" target="_blank" style="color: black;"> Sina Shaham</a> <img src="https://logodownload.org/wp-content/uploads/2021/10/meta-logo-1.png" alt="Meta" width="50" style="vertical-align: middle; position: relative; top: -2px;">) and <span style="color: #1A73E8; font-weight: bold;">visual reasoning in multimodal LLMs </span>.
+
+Previously, I explored **reliable AI**, **jailbreaking in MLLMs**, and **visual autoregressive models**.
+
+<!---
 <hr>
 <span style="color: #1A73E8; font-weight: bold;">Reliable AI </span>  My research, in general, has focused on **model robustness**, including both general methods and specialized approaches for 2D & 3D vision, graph, and vision-language models. As part of this direction, I have recently been developing robust fine-tuning methods for vision-language models to ensure reliable deployment in real-world applications.
 
 <span style="color: #1A73E8; font-weight: bold;">Agents & MLLMs </span>  My current research focuses on **self-improving agents for generalization** (closely working with <a href="https://scholar.google.com/citations?user=1R3XgHQAAAAJ&hl=en" target="_blank" style="color: black;"> Ninareh Mehrabi </a> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="50" style="vertical-align: middle; position: relative; top: 2px;"> and  <a href="https://scholar.google.com.au/citations?user=WnWN4NkAAAAJ&hl=en" target="_blank" style="color: black;"> Sina Shaham</a> <img src="https://logodownload.org/wp-content/uploads/2021/10/meta-logo-1.png" alt="Meta" width="50" style="vertical-align: middle; position: relative; top: -2px;">) and **addressing hallucination in MLLMs through visual reasoning**.
+-->
 
 <!---
 My recent research interests focus on
