@@ -138,9 +138,10 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## Lectures
 <hr>
-- <img src="images/innotek.png" alt="LG Innotek" style="height:1em; vertical-align:middle;"/> &nbsp;&nbsp; **LG Innotek** _(2022–2024)_
-- <img src="images/hd.png" alt="HD Hyundai" style="height:1em; vertical-align:middle;"/> &nbsp;&nbsp; **HD Hyundai** _(2023)_
-- <img src="images/dsme.png" alt="DSME" style="height:1em; vertical-align:middle;"/> &nbsp;&nbsp; **DSME** _(2022–2023)_
-- <img src="images/lge.png" alt="LG Electronics" style="height:1em; vertical-align:middle;"/> &nbsp;&nbsp; **LG Electronics** _(2022)_
-- <img src="images/samsung.png" alt="SAMSUNG DS" style="height:1em; vertical-align:middle;"/> &nbsp;&nbsp; **SAMSUNG DS** _(2020–2022)_
-- <img src="images/lgchem.png" alt="LG Chem" style="height:1em; vertical-align:middle;"/> &nbsp;&nbsp; **LG Chem** _(2022)_
+- <img src="images/samsung.png" alt="SAMSUNG DS" style="height:1em; vertical-align:middle;"/> &nbsp; **SAMSUNG DS** _(2020–2022)_
+- <img src="images/lge.png" alt="LG Electronics" style="height:1em; vertical-align:middle;"/> &nbsp; **LG Electronics** _(2022)_
+- <img src="images/hd.png" alt="HD Hyundai" style="height:1em; vertical-align:middle;"/> &nbsp; **HD Hyundai** _(2023)_
+- <img src="images/innotek.png" alt="LG Innotek" style="height:1em; vertical-align:middle;"/> &nbsp; **LG Innotek** _(2022–2024)_
+- <img src="images/lgchem.png" alt="LG Chem" style="height:1em; vertical-align:middle;"/> &nbsp; **LG Chem** _(2022)_
+- <img src="images/dsme.png" alt="DSME" style="height:1em; vertical-align:middle;"/> &nbsp; **DSME** _(2022–2023)_
+
