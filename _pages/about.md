@@ -136,3 +136,11 @@ My primary research interest in 3D vision falls into two branches following: 1) 
   - Transactions on Neural Networks and Learning Systems (TNNLS)
 -->
 
+## Lectures
+<hr>
+- <img src="images/innotek.png" alt="LG Innotek" height="20" style="vertical-align:middle;"/> **LG Innotek** _(2022–2024)_
+- <img src="images/hd.png" alt="HD Hyundai" height="20" style="vertical-align:middle;"/> **HD Hyundai** _(2023)_
+- <img src="images/dsme.png" alt="DSME" height="20" style="vertical-align:middle;"/> **DSME** _(2022–2023)_
+- <img src="images/lge.png" alt="LG Electronics" height="20" style="vertical-align:middle;"/> **LG Electronics** _(2022)_
+- <img src="images/samsug.png" alt="SAMSUNG DS" height="20" style="vertical-align:middle;"/> **SAMSUNG DS** _(2020–2022)_
+- <img src="images/lgchem.png" alt="LG Chem" height="20" style="vertical-align:middle;"/> **LG Chem.** _(2022)_
