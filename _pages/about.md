@@ -60,11 +60,11 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 -->
 ## Conference Publications
 <hr>
-- Preserve or Modify? Context-Aware Evaluation for Balancing Preservation and Modification in Text-Guided Image Editing \\
+- Preserve or Modify? Context-Aware Evaluation for Balancing Preservation and Modification in Text-Guided Image Editing <a href="https://arxiv.org/abs/2410.11374" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Yoonjeon Kim\*, Soohyun Ryu\*, **Yeonsung Jung**, Hyunkoo Lee, Joowon Kim, June Yong Yang, Jaeryong Hwang, Eunho Yang </span>\\
 <span style="color:darkred">**CVPR**</span> 2025
 
-- Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy \\
+- Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy <a href="https://arxiv.org/abs/2503.20823" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Joonhyun Jeong, Seyun Bae, **Yeonsung Jung**, Jaeryong Hwang, Eunho Yang </span>\\
 <span style="color:darkred">**CVPR**</span> 2025
 
