@@ -60,6 +60,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 -->
 ## Conference Publications
 <hr>
+
 - Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing <a href="https://arxiv.org/abs/2504.13490" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Joowon Kim, Ziseok Lee, Donghyeon Cho, Sanghyun Jo, **Yeonsung Jung**, Kyungsu Kim, Eunho Yang </span>\\
 <span style="color:darkred">**ICCV**</span> 2025
