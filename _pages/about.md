@@ -60,6 +60,10 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 -->
 ## Conference Publications
 <hr>
+- Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing <a href="https://arxiv.org/abs/2504.13490" target="_blank" style="color: #1E90FF">[paper]</a> \\
+<span style="font-size: 90%;"> Joowon Kim, Ziseok Lee, Donghyeon Cho, Sanghyun Jo, **Yeonsung Jung**, Kyungsu Kim, Eunho Yang </span>\\
+<span style="color:darkred">**ICCV**</span> 2025
+
 - Preserve or Modify? Context-Aware Evaluation for Balancing Preservation and Modification in Text-Guided Image Editing <a href="https://arxiv.org/abs/2410.11374" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Yoonjeon Kim\*, Soohyun Ryu\*, **Yeonsung Jung**, Hyunkoo Lee, Joowon Kim, June Yong Yang, Jaeryong Hwang, Eunho Yang </span>\\
 <span style="color:darkred">**CVPR**</span> 2025
@@ -94,10 +98,6 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## Preprints
 <hr>
-- Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing <a href="https://arxiv.org/abs/2504.13490" target="_blank" style="color: #1E90FF">[paper]</a> \\
-<span style="font-size: 90%;"> Joowon Kim, Ziseok Lee, Donghyeon Cho, Sanghyun Jo, **Yeonsung Jung**, Kyungsu Kim, Eunho Yang </span>\\
-<span style="color:darkred">**under review**</span>
-
 - MeZO-A<sup>3</sup>dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs \\
 <span style="font-size: 90%;"> Sihwan Park\*, Jihun Yun\*, Sung-Yub Kim, June Yong Yang, **Yeonsung Jung**, Souvik Kundu, Kyungsu Kim, Eunho Yang </span>\\
 <span style="color:darkred">**under review**</span>
