@@ -14,7 +14,7 @@ https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in 
 
 ## Research Interests
 
-My recent research interests include, but are not limited to, **Self-Improving Agents** (closely working with <a href="https://scholar.google.com/citations?user=1R3XgHQAAAAJ&hl=en" target="_blank" style="color: black;"> Ninareh Mehrabi </a> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="50" style="vertical-align: middle; position: relative; top: 2px;"> and  <a href="https://scholar.google.com.au/citations?user=WnWN4NkAAAAJ&hl=en" target="_blank" style="color: black;"> Sina Shaham</a> <img src="https://logodownload.org/wp-content/uploads/2021/10/meta-logo-1.png" alt="Meta" width="50" style="vertical-align: middle; position: relative; top: -2px;">), **Visual Chain-of-Thought Reasoning in MLLMs**, and **Parameter-Efficient Robust Fine-tuning**.
+My recent research interests include, but are not limited to, **Self-Improving Agents** (closely working with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;"> Ninareh Mehrabi </a>  and  <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;"> Sina Shaham</a>) and **Visual Chain-of-Thought Reasoning in MLLMs**.
 
 Previously, I explored **Reliable AI**, **Jailbreaking in MLLMs**, and **Visual Autoregressive Models**.
 
