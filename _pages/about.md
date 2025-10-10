@@ -62,16 +62,16 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 ## Preprints
 <hr>
 - Co-Evolving Agents: Learning from Failures as Hard Negatives \\
-<span style="font-size: 90%;"> **Yeonsung Jung**, Trilok Padhi, Sina Shaham, Dipika Khullar, Joonhyun Jeong, Ninareh Mehrabi†, Eunho Yang† </span> \\
+<span style="font-size: 90%;"> **Yeonsung Jung**, Trilok Padhi, Sina Shaham, Dipika Khullar, Joonhyun Jeong, Ninareh Mehrabi†, Eunho Yang† </span> <br>
 
 - Web Agents Are Still Greedy: Progress-Aware Action Generation and Selection via Meta-Plan \\
-<span style="font-size: 90%;"> Joonhyun Jeong, Gilhyun Nam, **Yeonsung Jung**, Eunho Yang </span> \\
+<span style="font-size: 90%;"> Joonhyun Jeong, Gilhyun Nam, **Yeonsung Jung**, Eunho Yang </span> <br>
 
 - MeZO-A<sup>3</sup>dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs \\
-<span style="font-size: 90%;"> Sihwan Park\*, Jihun Yun\*, Sung-Yub Kim, June Yong Yang, **Yeonsung Jung**, Souvik Kundu, Kyungsu Kim, Eunho Yang </span> \\
+<span style="font-size: 90%;"> Sihwan Park\*, Jihun Yun\*, Sung-Yub Kim, June Yong Yang, **Yeonsung Jung**, Souvik Kundu, Kyungsu Kim, Eunho Yang </span> <br>
 
 - 3D Scene Decomposition Under Occlusion via Multi-View-Aware Inpainting \\
-<span style="font-size: 90%;"> Heecheol Yun, **Yeonsung Jung**, Eunho Yang </span> \\
+<span style="font-size: 90%;"> Heecheol Yun, **Yeonsung Jung**, Eunho Yang </span> <br>
 
 ## Conference Publications
 <hr>
