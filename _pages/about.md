@@ -10,13 +10,12 @@ classes: "about-page"
 ---
 
 I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">MLILAB</a> at <a href="
-https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in South Korea, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
+https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in Korea, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
 
 ## Research Interests
 
-My recent research interests include, but are not limited to, **Self-Improving Agents** (closely working with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;"> Ninareh Mehrabi </a>  and  <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;"> Sina Shaham</a>) and **Visual Chain-of-Thought Reasoning in MLLMs**.
-
-Previously, I explored **Reliable AI**, **Jailbreaking in MLLMs**, and **Visual Autoregressive Models**.
+My current research interests lie in building **self-improving agents**(closely working with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;"> Ninareh Mehrabi </a>  and  <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;"> Sina Shaham</a>) and developing **reliable Visual Chain-of-Thought (CoT) reasoning** for vision–language models. 
+Beyond these, I have explored a broad range of topics in **Reliable AI**, including model robustness spanning both 2D and 3D vision as well as domain-agnostic methods, **jailbreaking in MLLMs**, **Visual Autoregressive Models**, and **image editing**.
 
 <!---
 <hr>
@@ -58,9 +57,23 @@ My research interest falls into enhancing the understanding of unstructured/vide
 <!---**Learning on 3D Vision**\\
 My primary research interest in 3D vision falls into two branches following: 1) **Cross-modal 3D understanding**. It aims to harness the power of auxiliary data modalities for an in-depth comprehension of complex 3D data. Currently, I'm working on open-vocabulary 3D scene segmentation with object-relational graphs leveraging recent language foundation models' capabilities. 2) **Sim-to-real adaptation for 3D data**. My recent research efforts have been dedicated to narrowing the domain gap between synthetic and real-world 3D data. Ranging from developing adaptation strategies to curating 3D photorealistic datasets, my recent objective is to facilitate successful sim-to-real transfer across a broad range of 3D vision tasks.
 -->
+
+## Preprints
+<hr>
+- Co-Evolving Agents: Learning from Failures as Hard Negatives \\
+<span style="font-size: 90%;"> **Yeonsung Jung**, Trilok Padhi, Sina Shaham, Dipika Khullar, Joonhyun Jeong, Ninareh Mehrabi†, Eunho Yang† </span>\\
+
+- Web Agents Are Still Greedy: Progress-Aware Action Generation and Selection via Meta-Plan \\
+<span style="font-size: 90%;"> Joonhyun Jeong, Gilhyun Nam, **Yeonsung Jung**, Eunho Yang </span>\\
+
+- MeZO-A<sup>3</sup>dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs \\
+<span style="font-size: 90%;"> Sihwan Park\*, Jihun Yun\*, Sung-Yub Kim, June Yong Yang, **Yeonsung Jung**, Souvik Kundu, Kyungsu Kim, Eunho Yang </span>\\
+
+- 3D Scene Decomposition Under Occlusion via Multi-View-Aware Inpainting \\
+<span style="font-size: 90%;"> Heecheol Yun, **Yeonsung Jung**, Eunho Yang </span>\\
+
 ## Conference Publications
 <hr>
-
 - Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing <a href="https://arxiv.org/abs/2504.13490" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Joowon Kim, Ziseok Lee, Donghyeon Cho, Sanghyun Jo, **Yeonsung Jung**, Kyungsu Kim, Eunho Yang </span>\\
 <span style="color:darkred">**ICCV**</span> 2025
@@ -97,16 +110,6 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 <span style="font-size: 90%;"> Joyce Jiyoung Whang, **Yeonsung Jung**, Inderjit S. Dhillon, Seonggoo Kang, Jungmin Lee </span>\\
 <span style="color:darkred">**WSDM Workshop**</span> on MIS2: Misinformation and Misbehavior Mining on the Web 2018
 
-## Preprints
-<hr>
-- MeZO-A<sup>3</sup>dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs \\
-<span style="font-size: 90%;"> Sihwan Park\*, Jihun Yun\*, Sung-Yub Kim, June Yong Yang, **Yeonsung Jung**, Souvik Kundu, Kyungsu Kim, Eunho Yang </span>\\
-<span style="color:darkred">**under review**</span>
-
-- 3D Scene Decomposition Under Occlusion via Multi-View-Aware Inpainting \\
-<span style="font-size: 90%;"> Heecheol Yun, **Yeonsung Jung**, Eunho Yang </span>\\
-<span style="color:darkred">**under review**</span>
-
 ## Work Experiences
 <hr>
 - Research Intern, **<a href="https://naver-career.gitbook.io/en/publications/all" target="_blank" style="color: black;"> NAVER </a>**, Seongnam, South Korea. (July 2019 - Sept. 2019)
@@ -130,7 +133,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
     - International Conference on Computer Vision (ICCV)
     - Association for the Advancement of Artificial Intelligence (AAAI)
     - Artificial Intelligence and Statistics (AISTATS)
-    - <a href="https://trustnlpworkshop.github.io/" target="_blank" style="color: black;"> NACCL Workshop on TrustNLP </a>
+    - NACCL Workshop on TrustNLP
       
 <!---
   - Computer Vision and Pattern Recognition (CVPR)
