@@ -14,7 +14,7 @@ https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in 
 
 ## Research Interests
 
-My current research interests lie in building **self-improving agents** (closely working with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;"> Ninareh Mehrabi </a>  and  <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;"> Sina Shaham</a>) and developing **reliable Visual Chain-of-Thought (CoT) reasoning** for vision–language models. 
+My current research interests lie in building **self-improving agents** (closely working with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;"> Ninareh Mehrabi </a>  and  <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;"> Sina Shaham</a> from Meta SuperIntelligence Labs) and developing **reliable Visual Chain-of-Thought (CoT) reasoning** for vision–language models. 
 
 Beyond these, I have explored a broad range of topics in **Reliable AI**, including model robustness spanning both 2D and 3D vision as well as domain-agnostic methods, **jailbreaking in MLLMs**, **Visual Autoregressive Models**, and **image editing**.
 
