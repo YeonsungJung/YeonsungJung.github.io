@@ -61,7 +61,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## Preprints
 <hr>
-- Co-Evolving Agents: Learning from Failures as Hard Negatives \\
+- Co-Evolving Agents: Learning from Failures as Hard Negatives <a href="https://www.arxiv.org/pdf/2511.22254" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Trilok Padhi, Sina Shaham, Dipika Khullar, Joonhyun Jeong, Ninareh Mehrabi†, Eunho Yang† </span> <br>
 
 - Web Agents Are Still Greedy: Progress-Aware Action Generation and Selection via Meta-Plan \\
