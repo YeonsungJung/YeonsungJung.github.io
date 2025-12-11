@@ -15,7 +15,7 @@ https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in 
 ## Research Interests
 My research interests center on developing **reliable self-improving multimodal intelligence**.
 
-I am currently working on **self-improving agents** (closely working with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;"> Ninareh Mehrabi </a>  and  <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;"> Sina Shaham</a> from Meta SuperIntelligence Labs) and **Reliable Visual Reasoning and Image Generation in Large Multimodal Models** (closely working with <a href="https://laiviet.github.io/" target="_blank" style="color: black;"> Viet Dac Lai </a> from Adobe Research). 
+I am currently working on **self-improving agents** (closely working with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;"> Ninareh Mehrabi </a>  and  <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;"> Sina Shaham</a> from Meta SuperIntelligence Labs) and **reliable visual reasoning and image generation in large multimodal models** (closely working with <a href="https://laiviet.github.io/" target="_blank" style="color: black;"> Viet Dac Lai </a> from Adobe Research). 
 <!---
 Beyond these, I have explored a broad range of topics in **Reliable AI**, including model robustness spanning both 2D and 3D vision as well as domain-agnostic methods, **jailbreaking in MLLMs**, **Visual Autoregressive Models**, and **image editing**.
 -->
