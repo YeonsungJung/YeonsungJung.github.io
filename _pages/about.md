@@ -21,7 +21,7 @@ Beyond these, I have explored a broad range of topics in **Reliable AI**, includ
 
 These efforts build on my broader background in **Reliable AI**, which includes robust 2D and 3D vision, domain-agnostic robustness methods, **jailbreaking in MLLMs**, **visual autoregressive models**, and **controllable image editing**.
 
-Together, these directions shape a unified research agenda aimed at autonomous, trustworthy, and self-improving multimodal intelligence, which I view as a essential step toward the long-term goal of superintelligence.
+Together, these directions shape a unified research agenda aimed at autonomous, trustworthy, and self-improving multimodal intelligence, which I view as an essential step toward the long-term goal of superintelligence.
 <!---
 <hr>
 <span style="color: #1A73E8; font-weight: bold;">Reliable AI </span>  My research, in general, has focused on **model robustness**, including both general methods and specialized approaches for 2D & 3D vision, graph, and vision-language models. As part of this direction, I have recently been developing robust fine-tuning methods for vision-language models to ensure reliable deployment in real-world applications.
