@@ -20,7 +20,7 @@ I am currently working on **self-improving agents** (closely working with <a hre
 Beyond these, I have explored a broad range of topics in **Reliable AI**, including model robustness spanning both 2D and 3D vision as well as domain-agnostic methods, **jailbreaking in MLLMs**, **Visual Autoregressive Models**, and **image editing**.
 -->
 
-These directions are grounded in my broader background in **Reliable AI**, which includes robust 2D and 3D vision, domain-agnostic robustness methods, **jailbreaking in MLLMs**, **visual autoregressive models**, and **controllable image editing**.
+These directions are grounded in my broader background in **reliable AI**, which includes robust 2D and 3D vision, domain-agnostic robustness methods, **jailbreaking in MLLMs**, **visual autoregressive models**, and **controllable image editing**.
 
 
 <!---
