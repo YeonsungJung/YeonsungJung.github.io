@@ -13,15 +13,16 @@ I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style
 https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in Korea, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
 
 ## Research Interests
+I'm interested in developing **autonomous, trustworthy, and self-improving multimodal intelligence**.
 
-My current research interests lie in building **self-improving agents** (closely working with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;"> Ninareh Mehrabi </a>  and  <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;"> Sina Shaham</a> from Meta SuperIntelligence Labs) and developing **Reliable Visual Reasoning and Image Generation in Large Multimodal Models** (closely working with <a href="https://laiviet.github.io/" target="_blank" style="color: black;"> Viet Dac Lai </a> from Adobe Research). 
+Currently, I'm working on **self-improving agents** (closely working with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;"> Ninareh Mehrabi </a>  and  <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;"> Sina Shaham</a> from Meta SuperIntelligence Labs) and **Reliable Visual Reasoning and Image Generation in Large Multimodal Models** (closely working with <a href="https://laiviet.github.io/" target="_blank" style="color: black;"> Viet Dac Lai </a> from Adobe Research). 
 <!---
 Beyond these, I have explored a broad range of topics in **Reliable AI**, including model robustness spanning both 2D and 3D vision as well as domain-agnostic methods, **jailbreaking in MLLMs**, **Visual Autoregressive Models**, and **image editing**.
 -->
 
-These efforts build on my broader background in **Reliable AI**, which includes robust 2D and 3D vision, domain-agnostic robustness methods, **jailbreaking in MLLMs**, **visual autoregressive models**, and **controllable image editing**.
+These directions are grounded in my broader background in **Reliable AI**, which includes robust 2D and 3D vision, domain-agnostic robustness methods, **jailbreaking in MLLMs**, **visual autoregressive models**, and **controllable image editing**.
 
-Together, these directions shape a unified research agenda aimed at autonomous, trustworthy, and self-improving multimodal intelligence, which I view as an essential step toward the long-term goal of superintelligence.
+
 <!---
 <hr>
 <span style="color: #1A73E8; font-weight: bold;">Reliable AI </span>  My research, in general, has focused on **model robustness**, including both general methods and specialized approaches for 2D & 3D vision, graph, and vision-language models. As part of this direction, I have recently been developing robust fine-tuning methods for vision-language models to ensure reliable deployment in real-world applications.
