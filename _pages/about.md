@@ -13,7 +13,7 @@ I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style
 https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in Korea, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
 
 ## Research Interests
-I'm interested in developing **autonomous, trustworthy, and self-improving multimodal intelligence**.
+I'm interested in developing **reliable self-improving multimodal intelligence**.
 
 Currently, I'm working on **self-improving agents** (closely working with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;"> Ninareh Mehrabi </a>  and  <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;"> Sina Shaham</a> from Meta SuperIntelligence Labs) and **Reliable Visual Reasoning and Image Generation in Large Multimodal Models** (closely working with <a href="https://laiviet.github.io/" target="_blank" style="color: black;"> Viet Dac Lai </a> from Adobe Research). 
 <!---
