@@ -113,7 +113,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## Work Experiences
 <hr>
-- Research Scientist Intern, **Meta Superintelligence Labs — Agentic Red-teaming**, Menlo Park, CA. (May 2026 - Nov. 2026)
+- Research Scientist Intern, **Meta Superintelligence Labs**, Menlo Park, CA. (May 2026 - Nov. 2026)
   - Agentic red-teaming for multi-service ecosystems.
 
 - External Collaborator, **NAVER AI**, Seongnam, South Korea. (Sept. 2023 - Feb. 2024)
