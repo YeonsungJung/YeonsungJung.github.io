@@ -9,20 +9,10 @@ redirect_from:
 classes: "about-page"
 ---
 
-I'm currently a Research Scientist Intern at **Meta Superintelligence Labs**, working on agentic red-teaming for multi-service ecosystems. Before joining Meta, I was a Postdoctoral Researcher at the <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">Machine Learning and Intelligence Lab</a> at <a href="https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a>, where I received my Ph.D. advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
+I'm currently a Research Scientist Intern at <a href="https://ai.meta.com/" target="_blank" style="color: black; text-decoration: underline;">Meta Superintelligence Labs</a>, where I work on agentic red-teaming for multi-service ecosystems. I received my Ph.D. in AI from <a href="https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a>, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>, and subsequently continued my research at the <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">Machine Learning and Intelligence Lab</a> as a Postdoctoral Researcher.
 
 ## Research Interests
-**Reliable AI.** I study how to make multimodal models robust and dependable under real-world variation.
-
-**(I) Reliable Multimodal Reasoning.** I develop training-free methods to diagnose and steer vision-language models by identifying and removing perturbation-sensitive representations. *(with <a href="https://laiviet.github.io/" target="_blank" style="color: black;">Viet Dac Lai</a>, Adobe Research)*
-
-**(II) Multimodal Safety and Fairness.** I study the evaluation and mitigation of jailbreaks, dataset bias, and unintended behavior in generative multimodal models.
-
-**Agentic AI.** I develop agents that learn from failures and act reliably across unfamiliar tasks, tools, and services.
-
-**(I) Self-Improving Agents.** I develop failure-driven preference optimization methods that improve agents using their own failures. *(with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;">Ninareh Mehrabi</a> and <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;">Sina Shaham</a>, Meta Superintelligence Labs)*
-
-**(II) Agentic Red-Teaming.** I identify safety risks in multi-service agent workflows and develop defenses for reliable deployment. *(with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;">Ninareh Mehrabi</a>, Meta Superintelligence Labs)*
+My research focuses on **reliable multimodal and agentic AI**, with an emphasis on **(I) reliable multimodal AI**, where I develop training-free methods for robust visual reasoning and study multimodal safety and fairness *(with <a href="https://laiviet.github.io/" target="_blank" style="color: black;">Viet Dac Lai</a>, Adobe Research)*; **(II) self-improving agents**, which learn from failures through preference optimization and acquire new skills from experience *(with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;">Ninareh Mehrabi</a> and <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;">Sina Shaham</a>, Meta Superintelligence Labs)*; and **(III) agentic red-teaming**, which identifies safety risks across multi-service workflows and develops defenses for reliable deployment *(with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;">Ninareh Mehrabi</a>, Meta Superintelligence Labs)*.
 <!---
 Beyond these, I have explored a broad range of topics in **Reliable AI**, **jailbreaking in MLLMs**, **Visual Autoregressive Models**, and **image editing**.
 -->
