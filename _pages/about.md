@@ -9,7 +9,7 @@ redirect_from:
 classes: "about-page"
 ---
 
-I'm a Research Scientist Intern at **Meta Superintelligence Labs**, working on agentic red-teaming for multi-service ecosystems. I received my Ph.D. from the <a href="https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">Graduate School of AI at KAIST</a>, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
+I'm currently a Research Scientist Intern at **Meta Superintelligence Labs**, working on agentic red-teaming for multi-service ecosystems. Before joining Meta, I was a Postdoctoral Researcher at the <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">Machine Learning and Intelligence Lab</a> at <a href="https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a>, where I received my Ph.D. advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
 
 ## Research Interests
 My research focuses on **Reliable AI** and **Agentic AI**. I develop **self-improving agents** that learn from failures and adapt to unseen tasks, tools, and environments, as well as **agentic red-teaming methods** that detect safety risks arising from interactions across multiple services and strengthen defenses for secure end-to-end workflows.
