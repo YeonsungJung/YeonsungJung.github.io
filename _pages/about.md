@@ -9,13 +9,12 @@ redirect_from:
 classes: "about-page"
 ---
 
-I'm a Ph.D candidate at <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">MLILAB</a> at <a href="
-https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a> in Korea, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
+I'm a Research Scientist Intern at **Meta Superintelligence Labs**, working on agentic red-teaming for multi-service ecosystems. I received my Ph.D. from the <a href="https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">Graduate School of AI at KAIST</a>, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
 
 ## Research Interests
-My research goal is to develop **self-evolving multimodal intelligence**.
+My research focuses on **Reliable AI** and **Agentic AI**. I develop **self-improving agents** that learn from failures and adapt to unseen tasks, tools, and environments, as well as **agentic red-teaming methods** that detect safety risks arising from interactions across multiple services and strengthen defenses for secure end-to-end workflows.
 
-Toward this goal, I'm currently working on **self-improving agents** (closely working with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;"> Ninareh Mehrabi </a>  and  <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;"> Sina Shaham</a> from Meta SuperIntelligence Labs) and **reliable visual reasoning in large multimodal models** (closely working with <a href="https://laiviet.github.io/" target="_blank" style="color: black;"> Viet Dac Lai </a> from Adobe Research). 
+I also study **reliable multimodal reasoning**, including training-free diagnosis and steering methods for vision-language models. I closely work with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;">Ninareh Mehrabi</a> and <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;">Sina Shaham</a> from Meta Superintelligence Labs, and <a href="https://laiviet.github.io/" target="_blank" style="color: black;">Viet Dac Lai</a> from Adobe Research.
 <!---
 Beyond these, I have explored a broad range of topics in **Reliable AI**, **jailbreaking in MLLMs**, **Visual Autoregressive Models**, and **image editing**.
 -->
@@ -118,8 +117,15 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## Work Experiences
 <hr>
-- Research Intern, **<a href="https://naver-career.gitbook.io/en/publications/all" target="_blank" style="color: black;"> NAVER </a>**, Seongnam, South Korea. (July 2019 - Sept. 2019)
-  - Improve searching performance through click graph neural networks.
+- Research Scientist Intern, **Meta Superintelligence Labs — Agentic Red-teaming**, Menlo Park, CA. (May 2026 - Nov. 2026)
+  - Developing agentic red-teaming systems for multi-service ecosystems spanning diverse tools, APIs, and platforms.
+  - Detecting safety risks arising from agent interactions across multiple services and developing defenses for secure end-to-end workflows.
+
+- External Collaborator, **NAVER AI**, Seongnam, South Korea. (Sept. 2023 - Feb. 2024)
+  - Led research on robust learning for Neural Radiance Fields, resulting in *PruNeRF*, published at ICML 2024.
+
+- Research Intern, **<a href="https://naver-career.gitbook.io/en/publications/all" target="_blank" style="color: black;">NAVER Search</a>**, Seongnam, South Korea. (July 2019 - Aug. 2019)
+  - Worked on graph-based ranking and search relevance using click graph convolutional networks; the research was applied to production systems.
 
 <!---
 ## Projects
@@ -158,4 +164,3 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 - <img src="images/innotek.png" alt="LG Innotek" style="height:1em; vertical-align:middle;"/> &nbsp; **LG Innotek** _(2022–2024)_
 - <img src="images/lgchem.png" alt="LG Chem" style="height:1em; vertical-align:middle;"/> &nbsp; **LG Chem** _(2022)_
 - <img src="images/dsme.png" alt="DSME" style="height:1em; vertical-align:middle;"/> &nbsp; **DSME** _(2022–2023)_
-

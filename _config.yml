@@ -21,7 +21,7 @@ title                    : "Yeonsung Jung"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yeonsung Jung"
-description              : "Ph.D Candidate @ KAIST AI"
+description              : "Research Scientist | Reliable & Agentic AI"
 url                      : "https://YeonsungJung.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "YeonsungJung.github.io"
@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Yeonsung Jung"
   avatar           : "profile.jpg"
-  bio              : "I am a Ph.D candidate at the Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST)."
-  location         : "Seongnam, South Korea"
+  bio              : "Research Scientist working on Reliable AI and Agentic AI."
+  location         : "Menlo Park, CA"
   # email            : ys.jung@kaist.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "ys.jung@kaist.ac.kr"
+      url: "mailto:ys.jung@mli.kaist.ac.kr"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yeonsung-jung-a50015213/"
