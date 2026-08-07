@@ -12,14 +12,20 @@ classes: "about-page"
 I'm currently a Research Scientist Intern at **Meta Superintelligence Labs**, working on agentic red-teaming for multi-service ecosystems. Before joining Meta, I was a Postdoctoral Researcher at the <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">Machine Learning and Intelligence Lab</a> at <a href="https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a>, where I received my Ph.D. advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
 
 ## Research Interests
-My research focuses on **Reliable AI** and **Agentic AI**. I develop **self-improving agents** that learn from failures and adapt to unseen tasks, tools, and environments, as well as **agentic red-teaming methods** that detect safety risks arising from interactions across multiple services and strengthen defenses for secure end-to-end workflows.
+**Reliable AI.** I study how to make multimodal models robust and dependable under real-world variation.
 
-I also study **reliable multimodal reasoning**, including training-free diagnosis and steering methods for vision-language models. I closely work with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;">Ninareh Mehrabi</a> and <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;">Sina Shaham</a> from Meta Superintelligence Labs, and <a href="https://laiviet.github.io/" target="_blank" style="color: black;">Viet Dac Lai</a> from Adobe Research.
+**(I) Reliable Multimodal Reasoning.** I develop training-free methods to diagnose and steer vision-language models by identifying and removing perturbation-sensitive representations. *(with <a href="https://laiviet.github.io/" target="_blank" style="color: black;">Viet Dac Lai</a>, Adobe Research)*
+
+**(II) Multimodal Safety and Fairness.** I study the evaluation and mitigation of jailbreaks, dataset bias, and unintended behavior in generative multimodal models.
+
+**Agentic AI.** I develop agents that learn from failures and act reliably across unfamiliar tasks, tools, and services.
+
+**(I) Self-Improving Agents.** I develop failure-driven preference optimization methods that improve agents using their own failures. *(with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;">Ninareh Mehrabi</a> and <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;">Sina Shaham</a>, Meta Superintelligence Labs)*
+
+**(II) Agentic Red-Teaming.** I identify safety risks in multi-service agent workflows and develop defenses for reliable deployment. *(with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;">Ninareh Mehrabi</a>, Meta Superintelligence Labs)*
 <!---
 Beyond these, I have explored a broad range of topics in **Reliable AI**, **jailbreaking in MLLMs**, **Visual Autoregressive Models**, and **image editing**.
 -->
-
-These directions are grounded in my broader background in reliable AI, jailbreaking in MLLMs, visual autoregressive models, and controllable image editing.
 
 
 <!---
@@ -118,14 +124,13 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 ## Work Experiences
 <hr>
 - Research Scientist Intern, **Meta Superintelligence Labs — Agentic Red-teaming**, Menlo Park, CA. (May 2026 - Nov. 2026)
-  - Developing agentic red-teaming systems for multi-service ecosystems spanning diverse tools, APIs, and platforms.
-  - Detecting safety risks arising from agent interactions across multiple services and developing defenses for secure end-to-end workflows.
+  - Agentic red-teaming for multi-service ecosystems.
 
 - External Collaborator, **NAVER AI**, Seongnam, South Korea. (Sept. 2023 - Feb. 2024)
-  - Led research on robust learning for Neural Radiance Fields, resulting in *PruNeRF*, published at ICML 2024.
+  - Robust learning for neural radiance fields; *PruNeRF* (ICML 2024).
 
 - Research Intern, **<a href="https://naver-career.gitbook.io/en/publications/all" target="_blank" style="color: black;">NAVER Search</a>**, Seongnam, South Korea. (July 2019 - Aug. 2019)
-  - Worked on graph-based ranking and search relevance using click graph convolutional networks; the research was applied to production systems.
+  - Graph-based ranking and search relevance for production systems.
 
 <!---
 ## Projects
