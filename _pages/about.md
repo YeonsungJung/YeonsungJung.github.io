@@ -130,8 +130,10 @@ My primary research interest in 3D vision falls into two branches following: 1) 
     - Published in [Yonsei Medical Journal](https://ymj.kr/DOIx.php?id=10.3349/ymj.2022.0381)
 -->
 
-## Acamdeic Services
+## Academic Services
 <hr>
+- Workshop Organizer
+    - <a href="http://advml-frontier.github.io/#intro" target="_blank">AdvML-Frontiers-CoTMA 2026</a>
 - Conference Reviewer
     - Neural Information Processing Systems (NeurIPS)
     - International Conference on Machine Learning (ICML)
@@ -140,7 +142,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
     - International Conference on Computer Vision (ICCV)
     - Association for the Advancement of Artificial Intelligence (AAAI)
     - Artificial Intelligence and Statistics (AISTATS)
-    - NACCL Workshop on TrustNLP
+    - NAACL Workshop on TrustNLP
       
 <!---
   - Computer Vision and Pattern Recognition (CVPR)
