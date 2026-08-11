@@ -9,7 +9,7 @@ redirect_from:
 classes: "about-page"
 ---
 
-I'm currently a Research Scientist Intern at <a href="https://ai.meta.com/" target="_blank" style="color: black; text-decoration: underline;">Meta Superintelligence Labs</a>, where I work on agentic red-teaming for multi-service ecosystems. I received my Ph.D. in AI from <a href="https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a>, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>, and subsequently continued my research at the <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">Machine Learning and Intelligence Lab</a> as a Postdoctoral Researcher.
+I'm currently a Research Scientist Intern at <a href="https://ai.meta.com/" target="_blank" style="color: black; text-decoration: underline;">Meta Superintelligence Labs</a>, where I work on agentic red-teaming for multi-service ecosystems. I received my Ph.D. in AI from <a href="https://www.kaist.ac.kr/en/" target="_blank" style="color: black;">KAIST</a>, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a>.
 
 ## Research Interests
 My research focuses on **reliable multimodal and agentic AI**, with an emphasis on **(I) reliable multimodal AI**, where I develop training-free methods for robust visual reasoning and study multimodal safety and fairness *(with <a href="https://laiviet.github.io/" target="_blank" style="color: black;">Viet Dac Lai</a>, Adobe Research)*; **(II) self-improving agents**, which learn from failures through preference optimization and acquire new skills from experience *(with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;">Ninareh Mehrabi</a> and <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;">Sina Shaham</a>, Meta Superintelligence Labs)*; and **(III) agentic red-teaming**, which identifies safety risks across multi-service workflows and develops defenses for reliable deployment *(with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;">Ninareh Mehrabi</a>, Meta Superintelligence Labs)*.
@@ -115,6 +115,8 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 <hr>
 - Research Scientist Intern, **Meta Superintelligence Labs**, Menlo Park, CA. (May 2026 - Nov. 2026)
   - Agentic red-teaming for multi-service ecosystems.
+
+- Postdoctoral Researcher, **Machine Learning and Intelligence Lab, KAIST**, Daejeon, South Korea. (Mar. 2026 - May 2026)
 
 - External Collaborator, **NAVER AI**, Seongnam, South Korea. (Sept. 2023 - Feb. 2024)
   - Robust learning for neural radiance fields; *PruNeRF* (ICML 2024).
