@@ -65,7 +65,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## News
 
-**Jun 1, 2026** Joined Meta Superintelligence Labs in Menlo Park, CA, as a Research Scientist Intern.<br>
+**Jun 2026** Joined Meta Superintelligence Labs in Menlo Park, CA, as a Research Scientist Intern.<br>
 **Jun 2025** One paper accepted to <a href="#paper-early-timestep" data-scroll-ignore>ICCV 2025</a>.<br>
 **Feb 2025** Two papers accepted to CVPR 2025 (<a href="#paper-preserve-modify" data-scroll-ignore>1</a>, <a href="#paper-playing-the-fool" data-scroll-ignore>2</a>).<br>
 **Jan 2025** One paper accepted to <a href="#paper-lantern" data-scroll-ignore>ICLR 2025</a>.<br>
@@ -132,7 +132,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## Work Experiences
 <hr>
-- Research Scientist Intern, **Meta Superintelligence Labs**, Menlo Park, CA. (Jun. 1, 2026 - Nov. 2026)
+- Research Scientist Intern, **Meta Superintelligence Labs**, Menlo Park, CA. (Jun. 2026 - Nov. 2026)
   - Agentic red-teaming for multi-service ecosystems.
 
 - Postdoctoral Researcher, **Machine Learning and Intelligence Lab, KAIST**, Daejeon, South Korea. (Mar. 2026 - May 2026)
