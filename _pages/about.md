@@ -63,6 +63,18 @@ My research interest falls into enhancing the understanding of unstructured/vide
 My primary research interest in 3D vision falls into two branches following: 1) **Cross-modal 3D understanding**. It aims to harness the power of auxiliary data modalities for an in-depth comprehension of complex 3D data. Currently, I'm working on open-vocabulary 3D scene segmentation with object-relational graphs leveraging recent language foundation models' capabilities. 2) **Sim-to-real adaptation for 3D data**. My recent research efforts have been dedicated to narrowing the domain gap between synthetic and real-world 3D data. Ranging from developing adaptation strategies to curating 3D photorealistic datasets, my recent objective is to facilitate successful sim-to-real transfer across a broad range of 3D vision tasks.
 -->
 
+## News
+
+**Jun 1, 2026** Joined Meta Superintelligence Labs in Menlo Park, CA, as a Research Scientist Intern.<br>
+**Jun 2025** One paper accepted to <a href="#paper-early-timestep" data-scroll-ignore>ICCV 2025</a>.<br>
+**Feb 2025** Two papers accepted to CVPR 2025 (<a href="#paper-preserve-modify" data-scroll-ignore>1</a>, <a href="#paper-playing-the-fool" data-scroll-ignore>2</a>).<br>
+**Jan 2025** One paper accepted to <a href="#paper-lantern" data-scroll-ignore>ICLR 2025</a>.<br>
+**Sep 2024** One paper accepted to <a href="#paper-self-influence" data-scroll-ignore>NeurIPS 2024</a>.<br>
+**May 2024** One paper accepted to <a href="#paper-prunerf" data-scroll-ignore>ICML 2024</a>.<br>
+**Apr 2023** One paper accepted to <a href="#paper-cdvg" data-scroll-ignore>ICML 2023</a>.<br>
+**Feb 2020** One paper accepted to the <a href="#paper-scalable-antitrustrank" data-scroll-ignore>CyberSafety Workshop at The Web Conference 2020</a>.<br>
+**Dec 2017** One paper accepted to the <a href="#paper-fast-antitrustrank" data-scroll-ignore>MIS2 Workshop at WSDM 2018</a>.
+
 ## Preprints
 <hr>
 - <span id="paper-flipdir" style="scroll-margin-top: 80px;"></span>Looks the Same, Answers Differently: Flip-Direction Steering for Robust Vision-Language Reasoning <a href="/pdfs/flipdir.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
@@ -82,11 +94,11 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## Conference Publications
 <hr>
-- Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing <a href="https://arxiv.org/abs/2504.13490" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span id="paper-early-timestep" style="scroll-margin-top: 80px;"></span>Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing <a href="https://arxiv.org/abs/2504.13490" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Joowon Kim, Ziseok Lee, Donghyeon Cho, Sanghyun Jo, **Yeonsung Jung**, Kyungsu Kim, Eunho Yang </span>\\
 <span style="color:darkred">**ICCV**</span> 2025
 
-- Preserve or Modify? Context-Aware Evaluation for Balancing Preservation and Modification in Text-Guided Image Editing <a href="https://arxiv.org/abs/2410.11374" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span id="paper-preserve-modify" style="scroll-margin-top: 80px;"></span>Preserve or Modify? Context-Aware Evaluation for Balancing Preservation and Modification in Text-Guided Image Editing <a href="https://arxiv.org/abs/2410.11374" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Yoonjeon Kim\*, Soohyun Ryu\*, **Yeonsung Jung**, Hyunkoo Lee, Joowon Kim, June Yong Yang, Jaeryong Hwang, Eunho Yang </span>\\
 <span style="color:darkred">**CVPR**</span> 2025
 
@@ -94,7 +106,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 <span style="font-size: 90%;"> Joonhyun Jeong, Seyun Bae, **Yeonsung Jung**, Jaeryong Hwang, Eunho Yang </span>\\
 <span style="color:darkred">**CVPR**</span> 2025
 
-- LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding <a href="https://arxiv.org/abs/2410.03355" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span id="paper-lantern" style="scroll-margin-top: 80px;"></span>LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding <a href="https://arxiv.org/abs/2410.03355" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Doohyuk Jang\*, Sihwan Park\*, June Yong Yang, **Yeonsung Jung**, Jihun Yun, Souvik Kundu, Sung-Yub Kim†, Eunho Yang† </span>\\
 <span style="color:darkred">**ICLR**</span> 2025
 
@@ -110,17 +122,17 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 <span style="font-size: 90%;"> **Yeonsung Jung**, Hajin Shim, June Yong Yang, Eunho Yang </span>\\
 <span style="color:darkred">**ICML**</span> 2023
 
-- Scalable Anti-TrustRank with Qualified Site-level Seeds for Link-based Web Spam Detection <a href="https://dl.acm.org/doi/pdf/10.1145/3366424.3385773" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span id="paper-scalable-antitrustrank" style="scroll-margin-top: 80px;"></span>Scalable Anti-TrustRank with Qualified Site-level Seeds for Link-based Web Spam Detection <a href="https://dl.acm.org/doi/pdf/10.1145/3366424.3385773" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Joyce Jiyoung Whang, **Yeonsung Jung**, Seonggoo Kang, Dongho Yoo, Inderjit S. Dhillon </span>\\
 <span style="color:darkred">**The Web Conf. Workshop**</span> on CyberSafety: Computational Methods in Online Misbehavior 2020
 
-- Fast Asynchronous Anti-TrustRank for Web Spam Detection <a href="https://snap.stanford.edu/mis2/files/MIS2_paper_24.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span id="paper-fast-antitrustrank" style="scroll-margin-top: 80px;"></span>Fast Asynchronous Anti-TrustRank for Web Spam Detection <a href="https://snap.stanford.edu/mis2/files/MIS2_paper_24.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Joyce Jiyoung Whang, **Yeonsung Jung**, Inderjit S. Dhillon, Seonggoo Kang, Jungmin Lee </span>\\
 <span style="color:darkred">**WSDM Workshop**</span> on MIS2: Misinformation and Misbehavior Mining on the Web 2018
 
 ## Work Experiences
 <hr>
-- Research Scientist Intern, **Meta Superintelligence Labs**, Menlo Park, CA. (May 2026 - Nov. 2026)
+- Research Scientist Intern, **Meta Superintelligence Labs**, Menlo Park, CA. (Jun. 1, 2026 - Nov. 2026)
   - Agentic red-teaming for multi-service ecosystems.
 
 - Postdoctoral Researcher, **Machine Learning and Intelligence Lab, KAIST**, Daejeon, South Korea. (Mar. 2026 - May 2026)
