@@ -81,8 +81,11 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## Preprints
 <hr>
-- <span class="publication-title" id="paper-x-agentred">X-AGENTRED: RED-TEAMING PERSONAL AGENTS IN EVOLVING MULTI-SERVICE ECOSYSTEMS</span> \\
-<span style="font-size: 90%;"> **Yeonsung Jung**, Ryan Wang, Zifan Wang, Vítor Albiero, Benjamin Newman, Edoardo Debenedetti, Ivan Evtimov, Ninareh Mehrabi </span> <br>
+- <span class="publication-title" id="paper-x-agentred">X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems</span> \\
+<span style="font-size: 90%;"> **Yeonsung Jung**, Zhiyuan Wang, Zifan Wang, Vítor Albiero, Benjamin Newman, Edoardo Debenedetti, Ivan Evtimov, Ninareh Mehrabi </span> <br>
+
+- <span class="publication-title" id="paper-action-discovery">From Action Discovery to Task Completion: Learning Unknown Actions and Reusable Skills for Self-Evolving Agents</span> \\
+<span style="font-size: 90%;"> **Yeonsung Jung**, Trilok Padhi, Eunho Yang, Ninareh Mehrabi </span> <br>
 
 - <span class="publication-title" id="paper-flipdir">Looks the Same, Answers Differently: Flip-Direction Steering for Robust Vision-Language Reasoning</span> <a href="/pdfs/flipdir.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Joonhyun Jeong, Hoang Pham, Joowon Kim, Yoonsik Park, Viet Dac Lai†, Eunho Yang† </span> <br>
