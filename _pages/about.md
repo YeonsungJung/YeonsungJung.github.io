@@ -15,7 +15,7 @@ I'm currently a Research Scientist Intern at <a href="https://ai.meta.com/" targ
 My research focuses on **reliable self-evolving AI**.
 
 - **Self-evolving Agents:** Learning from their own failures ([Preprint’25](#paper-co-evolving-agents)) and improving through reinforcement learning, with graph-structured skill memory for long-horizon tasks.
-- **Reliability:** Robust visual reasoning ([Preprint’26](#paper-flipdir)), robust learning with biased and noisy data ([ICML’23](#paper-cdvg), [ICML’24](#paper-prunerf), [NeurIPS’24](#paper-self-influence)), and red-teaming personal agents.
+- **Reliability:** Robust visual reasoning ([Preprint’26](#paper-flipdir)), robust learning with biased data ([ICML’23](#paper-cdvg), [ICML’24](#paper-prunerf), [NeurIPS’24](#paper-self-influence)), jailbreaking ([CVPR’25](#paper-playing-the-fool)), and red-teaming personal agents.
 
 <!---
 Beyond these, I have explored a broad range of topics in **Reliable AI**, **jailbreaking in MLLMs**, **Visual Autoregressive Models**, and **image editing**.
