@@ -12,7 +12,7 @@ classes: "about-page"
 I'm currently a Research Scientist Intern at <a href="https://ai.meta.com/" target="_blank" style="color: black; text-decoration: underline;">Meta Superintelligence Labs</a>, where I work on red-teaming personal agents. Before joining Meta, I completed my Ph.D. at the <a href="https://gsai.kaist.ac.kr/" target="_blank" style="color: black;">Graduate School of AI, KAIST</a>, under the supervision of <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a> at the <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">Machine Learning and Intelligence Lab</a>.
 
 ## Research Interests
-My research focuses on **reliable self-evolving AI**.
+My research focuses on building **reliable self-evolving AI** that learns from its own experience and remains robust and safe in real-world environments.
 
 - **Self-evolving Agents:** Learning from their own failures ([Preprint’25](#paper-co-evolving-agents)) and improving through reinforcement learning, with graph-structured skill memory for long-horizon tasks.
 - **Reliability:** Robust visual reasoning ([Preprint’26](#paper-flipdir)), robust learning with biased data ([ICML’23](#paper-cdvg), [ICML’24](#paper-prunerf), [NeurIPS’24](#paper-self-influence)), jailbreaking ([CVPR’25](#paper-playing-the-fool)), and red-teaming personal agents.
