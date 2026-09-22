@@ -15,7 +15,7 @@ I'm currently a Research Scientist Intern at <a href="https://ai.meta.com/" targ
 ## Research Interests
 My research focuses on building **reliable self-evolving AI** that learns from its own experience and remains robust and safe in real-world environments.
 
-- **Self-evolving Agents:** Learning from their own failures (<a href="#paper-co-evolving-agents" data-scroll-ignore>Preprint’25</a>) and improving through reinforcement learning, with graph-structured skill memory for long-horizon tasks.
+- **Self-evolving Agents:** Learning from their own failures through reinforcement learning (<a href="#paper-co-evolving-agents" data-scroll-ignore>Preprint’25</a>), with graph-structured skill memory for long-horizon tasks.
 - **Reliability:** Robust visual reasoning (<a href="#paper-flipdir" data-scroll-ignore>Preprint’26</a>), robust learning with biased data (<a href="#paper-cdvg" data-scroll-ignore>ICML’23</a>, <a href="#paper-prunerf" data-scroll-ignore>ICML’24</a>, <a href="#paper-self-influence" data-scroll-ignore>NeurIPS’24</a>), jailbreaking (<a href="#paper-playing-the-fool" data-scroll-ignore>CVPR’25</a>), and red-teaming personal agents.
 
 <!---
@@ -82,7 +82,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 ## Preprints
 <hr>
 - <span class="publication-title" id="paper-x-agentred">X-AGENTRED: RED-TEAMING PERSONAL AGENTS IN EVOLVING MULTI-SERVICE ECOSYSTEMS</span> \\
-<span style="font-size: 90%;"> **Yeonsung Jung**, Ryan Wang, Sail Wang, Vítor Albiero, Ben Newman, Edoardo Debenedetti, Ivan Evtimov, Nina Mehrabi </span> <br>
+<span style="font-size: 90%;"> **Yeonsung Jung**, Ryan Wang, Zifan Wang, Vítor Albiero, Benjamin Newman, Edoardo Debenedetti, Ivan Evtimov, Ninareh Mehrabi </span> <br>
 
 - <span class="publication-title" id="paper-flipdir">Looks the Same, Answers Differently: Flip-Direction Steering for Robust Vision-Language Reasoning</span> <a href="/pdfs/flipdir.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Joonhyun Jeong, Hoang Pham, Joowon Kim, Yoonsik Park, Viet Dac Lai†, Eunho Yang† </span> <br>
