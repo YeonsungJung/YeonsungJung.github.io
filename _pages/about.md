@@ -65,70 +65,73 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## News
 
-**Jun 2026** Joined Meta Superintelligence Labs in Menlo Park, CA, as a Research Scientist Intern.<br>
-**Jun 2025** One paper accepted to <a href="#paper-early-timestep" data-scroll-ignore>ICCV 2025</a>.<br>
-**Feb 2025** Two papers accepted to CVPR 2025 (<a href="#paper-preserve-modify" data-scroll-ignore>1</a>, <a href="#paper-playing-the-fool" data-scroll-ignore>2</a>).<br>
-**Jan 2025** One paper accepted to <a href="#paper-lantern" data-scroll-ignore>ICLR 2025</a>.<br>
-**Sep 2024** One paper accepted to <a href="#paper-self-influence" data-scroll-ignore>NeurIPS 2024</a>.<br>
-**May 2024** One paper accepted to <a href="#paper-prunerf" data-scroll-ignore>ICML 2024</a>.<br>
-**Apr 2023** One paper accepted to <a href="#paper-cdvg" data-scroll-ignore>ICML 2023</a>.<br>
-**Feb 2020** One paper accepted to the <a href="#paper-scalable-antitrustrank" data-scroll-ignore>CyberSafety Workshop at The Web Conference 2020</a>.<br>
-**Dec 2017** One paper accepted to the <a href="#paper-fast-antitrustrank" data-scroll-ignore>MIS2 Workshop at WSDM 2018</a>.
+<dl class="news-list">
+  <div class="news-row"><dt>Jun 2026</dt><dd>Joined Meta Superintelligence Labs in Menlo Park, CA, as a Research Scientist Intern.</dd></div>
+  <div class="news-row"><dt>Jun 2025</dt><dd>One paper accepted to <a href="#paper-early-timestep" data-scroll-ignore>ICCV 2025</a>.</dd></div>
+  <div class="news-row"><dt>Feb 2025</dt><dd>Two papers accepted to CVPR 2025 (<a href="#paper-preserve-modify" data-scroll-ignore>1</a>, <a href="#paper-playing-the-fool" data-scroll-ignore>2</a>).</dd></div>
+  <div class="news-row"><dt>Jan 2025</dt><dd>One paper accepted to <a href="#paper-lantern" data-scroll-ignore>ICLR 2025</a>.</dd></div>
+  <div class="news-row"><dt>Sep 2024</dt><dd>One paper accepted to <a href="#paper-self-influence" data-scroll-ignore>NeurIPS 2024</a>.</dd></div>
+  <div class="news-row"><dt>May 2024</dt><dd>One paper accepted to <a href="#paper-prunerf" data-scroll-ignore>ICML 2024</a>.</dd></div>
+  <div class="news-row"><dt>Apr 2023</dt><dd>One paper accepted to <a href="#paper-cdvg" data-scroll-ignore>ICML 2023</a>.</dd></div>
+  <div class="news-row"><dt>Feb 2020</dt><dd>One paper accepted to the <a href="#paper-scalable-antitrustrank" data-scroll-ignore>CyberSafety Workshop at The Web Conference 2020</a>.</dd></div>
+  <div class="news-row"><dt>Dec 2017</dt><dd>One paper accepted to the <a href="#paper-fast-antitrustrank" data-scroll-ignore>MIS2 Workshop at WSDM 2018</a>.</dd></div>
+</dl>
 
 ## Preprints
 <hr>
-- <span id="paper-flipdir" style="scroll-margin-top: 80px;"></span>Looks the Same, Answers Differently: Flip-Direction Steering for Robust Vision-Language Reasoning <a href="/pdfs/flipdir.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span class="publication-title" id="paper-flipdir">Looks the Same, Answers Differently: Flip-Direction Steering for Robust Vision-Language Reasoning</span> <a href="/pdfs/flipdir.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Joonhyun Jeong, Hoang Pham, Joowon Kim, Yoonsik Park, Viet Dac Lai†, Eunho Yang† </span> <br>
 
-- <span id="paper-co-evolving-agents" style="scroll-margin-top: 80px;"></span>Co-Evolving Agents: Learning from Failures as Hard Negatives <a href="https://www.arxiv.org/pdf/2511.22254" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span class="publication-title" id="paper-co-evolving-agents">Co-Evolving Agents: Learning from Failures as Hard Negatives</span> <a href="https://www.arxiv.org/pdf/2511.22254" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Trilok Padhi, Sina Shaham, Dipika Khullar, Joonhyun Jeong, Ninareh Mehrabi†, Eunho Yang† </span> <br>
 
-- Web Agents Are Still Greedy: Progress-Aware Action Generation and Selection via Meta-Plan \\
+- <span class="publication-title">Web Agents Are Still Greedy: Progress-Aware Action Generation and Selection via Meta-Plan</span> \\
 <span style="font-size: 90%;"> Joonhyun Jeong, Gilhyun Nam, **Yeonsung Jung**, Eunho Yang </span> <br>
 
-- MeZO-A<sup>3</sup>dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs \\
+- <span class="publication-title">MeZO-A<sup>3</sup>dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs</span> \\
 <span style="font-size: 90%;"> Sihwan Park\*, Jihun Yun\*, Sung-Yub Kim, June Yong Yang, **Yeonsung Jung**, Souvik Kundu, Kyungsu Kim, Eunho Yang </span> <br>
 
-- 3D Scene Decomposition Under Occlusion via Multi-View-Aware Inpainting \\
+- <span class="publication-title">3D Scene Decomposition Under Occlusion via Multi-View-Aware Inpainting</span> \\
 <span style="font-size: 90%;"> Heecheol Yun, **Yeonsung Jung**, Eunho Yang </span> <br>
 
 ## Conference Publications
 <hr>
-- <span id="paper-early-timestep" style="scroll-margin-top: 80px;"></span>Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing <a href="https://arxiv.org/abs/2504.13490" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span class="publication-title" id="paper-early-timestep">Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing</span> <a href="https://arxiv.org/abs/2504.13490" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Joowon Kim, Ziseok Lee, Donghyeon Cho, Sanghyun Jo, **Yeonsung Jung**, Kyungsu Kim, Eunho Yang </span>\\
 <span style="color:darkred">**ICCV**</span> 2025
 
-- <span id="paper-preserve-modify" style="scroll-margin-top: 80px;"></span>Preserve or Modify? Context-Aware Evaluation for Balancing Preservation and Modification in Text-Guided Image Editing <a href="https://arxiv.org/abs/2410.11374" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span class="publication-title" id="paper-preserve-modify">Preserve or Modify? Context-Aware Evaluation for Balancing Preservation and Modification in Text-Guided Image Editing</span> <a href="https://arxiv.org/abs/2410.11374" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Yoonjeon Kim\*, Soohyun Ryu\*, **Yeonsung Jung**, Hyunkoo Lee, Joowon Kim, June Yong Yang, Jaeryong Hwang, Eunho Yang </span>\\
 <span style="color:darkred">**CVPR**</span> 2025
 
-- <span id="paper-playing-the-fool" style="scroll-margin-top: 80px;"></span>Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy <a href="https://arxiv.org/abs/2503.20823" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span class="publication-title" id="paper-playing-the-fool">Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy</span> <a href="https://arxiv.org/abs/2503.20823" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Joonhyun Jeong, Seyun Bae, **Yeonsung Jung**, Jaeryong Hwang, Eunho Yang </span>\\
 <span style="color:darkred">**CVPR**</span> 2025
 
-- <span id="paper-lantern" style="scroll-margin-top: 80px;"></span>LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding <a href="https://arxiv.org/abs/2410.03355" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span class="publication-title" id="paper-lantern">LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding</span> <a href="https://arxiv.org/abs/2410.03355" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Doohyuk Jang\*, Sihwan Park\*, June Yong Yang, **Yeonsung Jung**, Jihun Yun, Souvik Kundu, Sung-Yub Kim†, Eunho Yang† </span>\\
 <span style="color:darkred">**ICLR**</span> 2025
 
-- <span id="paper-self-influence" style="scroll-margin-top: 80px;"></span>A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective <a href="https://arxiv.org/abs/2411.00360" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span class="publication-title" id="paper-self-influence">A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective</span> <a href="https://arxiv.org/abs/2411.00360" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung\***, Jaeyun Song\*, June Yong Yang, Jin-Hwa Kim, Sung-Yub Kim, Eunho Yang </span>\\
 <span style="color:darkred">**NeurIPS**</span> 2024
 
-- <span id="paper-prunerf" style="scroll-margin-top: 80px;"></span>PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency <a href="https://proceedings.mlr.press/v235/jung24b.html" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span class="publication-title" id="paper-prunerf">PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency</span> <a href="https://proceedings.mlr.press/v235/jung24b.html" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Heecheol Yun, Joonhyung Park, Jin-Hwa Kim†, Eunho Yang† </span>\\
 <span style="color:darkred">**ICML**</span> 2024
 
-- <span id="paper-cdvg" style="scroll-margin-top: 80px;"></span>Fighting Fire with Fire: Contrastive Debiasing without Bias-free Data via Generative Bias-transformation <a href="https://proceedings.mlr.press/v202/jung23b.html" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span class="publication-title" id="paper-cdvg">Fighting Fire with Fire: Contrastive Debiasing without Bias-free Data via Generative Bias-transformation</span> <a href="https://proceedings.mlr.press/v202/jung23b.html" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Hajin Shim, June Yong Yang, Eunho Yang </span>\\
 <span style="color:darkred">**ICML**</span> 2023
 
-- <span id="paper-scalable-antitrustrank" style="scroll-margin-top: 80px;"></span>Scalable Anti-TrustRank with Qualified Site-level Seeds for Link-based Web Spam Detection <a href="https://dl.acm.org/doi/pdf/10.1145/3366424.3385773" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span class="publication-title" id="paper-scalable-antitrustrank">Scalable Anti-TrustRank with Qualified Site-level Seeds for Link-based Web Spam Detection</span> <a href="https://dl.acm.org/doi/pdf/10.1145/3366424.3385773" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Joyce Jiyoung Whang, **Yeonsung Jung**, Seonggoo Kang, Dongho Yoo, Inderjit S. Dhillon </span>\\
 <span style="color:darkred">**The Web Conf. Workshop**</span> on CyberSafety: Computational Methods in Online Misbehavior 2020
 
-- <span id="paper-fast-antitrustrank" style="scroll-margin-top: 80px;"></span>Fast Asynchronous Anti-TrustRank for Web Spam Detection <a href="https://snap.stanford.edu/mis2/files/MIS2_paper_24.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span class="publication-title" id="paper-fast-antitrustrank">Fast Asynchronous Anti-TrustRank for Web Spam Detection</span> <a href="https://snap.stanford.edu/mis2/files/MIS2_paper_24.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Joyce Jiyoung Whang, **Yeonsung Jung**, Inderjit S. Dhillon, Seonggoo Kang, Jungmin Lee </span>\\
 <span style="color:darkred">**WSDM Workshop**</span> on MIS2: Misinformation and Misbehavior Mining on the Web 2018
+
 
 ## Work Experiences
 <hr>

@@ -1,16 +1,89 @@
-.about-page .page__content a {
-    color: #0056b3 !important;
+/* A quiet, consistent reading surface for the personal homepage. */
+body.about-page {
+    background: #fff;
+    color: #263238;
 }
-
-/* Keep the selected publication visible and distinct after following a reference. */
-.about-page .archive span[id^="paper-"] {
-    display: inline-block;
-    scroll-margin-top: 100px !important;
+.about-page .archive {
+    line-height: 1.7;
 }
+.about-page .archive h2 {
+    margin-top: 2.4em;
+    margin-bottom: 1em;
+    padding-bottom: .45em;
+    border-bottom: 1px solid #e7ebed;
+    font-size: 1.25em;
+    letter-spacing: -.025em;
+    color: #18272d;
+}
+.about-page .archive h2 + hr { display: none; }
+.about-page .archive a[data-scroll-ignore] {
+    color: #427078;
+    text-decoration: none;
+    border-bottom: 1px solid #cadbdd;
+    transition: color .15s, border-color .15s;
+}
+.about-page .archive a[data-scroll-ignore]:hover {
+    color: #174e58;
+    border-color: #174e58;
+}
+.about-page .archive a:focus-visible {
+    outline: 2px solid #427078;
+    outline-offset: 3px;
+}
+.about-page #research-interests + p { margin-bottom: 1em; }
+.about-page #research-interests + p + ul { padding-left: 1.2em; }
+.about-page #research-interests + p + ul > li { margin-bottom: .8em; }
+.about-page #research-interests + p + ul > li::marker { color: #8aa1a5; }
 
-.about-page .archive li:has(span[id^="paper-"]:target) {
-    background-color: #eaf3ff;
-    border-radius: 4px;
-    outline: 8px solid #eaf3ff;
-    box-shadow: -12px 0 0 #0056b3;
+/* Dates form a separate column; wrapped copy stays aligned on small screens. */
+.about-page .news-list { margin: 0; font-size: .93em; }
+.about-page .news-row {
+    display: grid;
+    grid-template-columns: 6.2em minmax(0, 1fr);
+    column-gap: 1.4em;
+    padding: .42em 0;
+}
+.about-page .news-row dt {
+    margin: 0;
+    color: #778389;
+    font-size: .9em;
+    font-weight: 500;
+    font-variant-numeric: tabular-nums;
+    padding-top: .12em;
+}
+.about-page .news-row dd { margin: 0; }
+
+/* Publication titles carry the emphasis, with a restrained selection marker. */
+.about-page .archive ul:has(.publication-title) {
+    list-style: none;
+    padding-left: 0;
+}
+.about-page .archive li:has(.publication-title) {
+    position: relative;
+    margin: 0 0 1.35em;
+    padding: .45em .65em .45em 1em;
+    border-left: 2px solid transparent;
+}
+.about-page .archive li:has(.publication-title) > p { margin: 0; }
+.about-page .publication-title {
+    font-weight: 500;
+    color: #263238;
+    scroll-margin-top: 110px;
+}
+.about-page .archive li:has(.publication-title) a {
+    color: #427078 !important;
+    font-size: .86em;
+    text-decoration: none;
+}
+.about-page .archive li:has(.publication-title:target) {
+    border-left-color: #427078;
+    background: linear-gradient(90deg, #f2f7f7, transparent 85%);
+}
+.about-page .publication-title:target {
+    color: #17525d;
+    font-weight: 700;
+}
+@media (max-width: 600px) {
+    .about-page .news-row { grid-template-columns: 5.6em minmax(0, 1fr); column-gap: .75em; }
+    .about-page .archive li:has(.publication-title) { padding-left: .7em; }
 }
