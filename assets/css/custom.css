@@ -1,7 +1,7 @@
 /* A quiet, consistent reading surface for the personal homepage. */
 body.about-page {
     background: #fff;
-    color: #263238;
+    color: #202a30;
 }
 .about-page .masthead,
 .about-page .greedy-nav { background: #fff; }
@@ -12,14 +12,14 @@ body.about-page {
     margin-top: 1.6em;
     margin-bottom: .65em;
     padding-bottom: .3em;
-    border-bottom: 1px solid #e7ebed;
+    border-bottom: 1px solid #dfe5e8;
     font-size: 1.25em;
     letter-spacing: -.025em;
     color: #18272d;
 }
 .about-page .archive h2 + hr { display: none; }
 .about-page .archive a[data-scroll-ignore] {
-    color: #427078;
+    color: #285f70;
     text-decoration: none;
     border-bottom: 1px solid #cadbdd;
     transition: color .15s, border-color .15s;
@@ -29,7 +29,7 @@ body.about-page {
     border-color: #174e58;
 }
 .about-page .archive a:focus-visible {
-    outline: 2px solid #427078;
+    outline: 2px solid #285f70;
     outline-offset: 3px;
 }
 .about-page #research-interests + p { margin-bottom: .65em; }
@@ -47,8 +47,8 @@ body.about-page {
 }
 .about-page .news-row dt {
     margin: 0;
-    color: #778389;
-    font-size: .9em;
+    color: #59666e;
+    font-size: .95em;
     font-weight: 500;
     font-variant-numeric: tabular-nums;
     padding-top: .12em;
@@ -68,18 +68,18 @@ body.about-page {
 }
 .about-page .archive li:has(.publication-title) > p { margin: 0; }
 .about-page .publication-title {
-    font-weight: 500;
-    color: #263238;
+    font-weight: 600;
+    color: #202a30;
     scroll-margin-top: 110px;
 }
 .about-page .archive li:has(.publication-title) a {
-    color: #427078 !important;
+    color: #285f70 !important;
     font-size: .86em;
     text-decoration: none;
 }
 .about-page .archive li:has(.publication-title:target) {
-    border-left-color: #427078;
-    background: linear-gradient(90deg, #f2f7f7, transparent 85%);
+    border-left-color: #285f70;
+    background: #f4f8fa;
 }
 .about-page .publication-title:target {
     color: #17525d;
