@@ -70,7 +70,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
   <div class="news-row"><dt>Sep 2026</dt><dd>Co-organizing <a href="https://advml-frontier.github.io/">AdvML-Frontiers × CoTMA</a> at COLM 2026.</dd></div>
   <div class="news-row"><dt>Jun 2026</dt><dd>Started a research internship at Meta Superintelligence Labs in Menlo Park.</dd></div>
   <div class="news-row"><dt>Jun 2025</dt><dd>One paper accepted to <a href="#paper-early-timestep" data-scroll-ignore>ICCV 2025</a>.</dd></div>
-  <div class="news-row"><dt>Feb 2025</dt><dd>Two papers accepted to CVPR 2025 (<a href="#paper-preserve-modify" data-scroll-ignore>1</a>, <a href="#paper-playing-the-fool" data-scroll-ignore>2</a>).</dd></div>
+  <div class="news-row"><dt>Feb 2025</dt><dd>Two papers accepted to CVPR 2025: <a href="#paper-preserve-modify" data-scroll-ignore>Preserve or Modify?</a> and <a href="#paper-playing-the-fool" data-scroll-ignore>Playing the Fool</a>.</dd></div>
   <div class="news-row"><dt>Jan 2025</dt><dd>One paper accepted to <a href="#paper-lantern" data-scroll-ignore>ICLR 2025</a>.</dd></div>
   <div class="news-row"><dt>Sep 2024</dt><dd>One paper accepted to <a href="#paper-self-influence" data-scroll-ignore>NeurIPS 2024</a>.</dd></div>
   <div class="news-row"><dt>May 2024</dt><dd>One paper accepted to <a href="#paper-prunerf" data-scroll-ignore>ICML 2024</a>.</dd></div>
