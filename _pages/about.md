@@ -12,7 +12,11 @@ classes: "about-page"
 I'm currently a Research Scientist Intern at <a href="https://ai.meta.com/" target="_blank" style="color: black; text-decoration: underline;">Meta Superintelligence Labs</a>, where I work on red-teaming personal agents. Before joining Meta, I completed my Ph.D. at the <a href="https://gsai.kaist.ac.kr/" target="_blank" style="color: black;">Graduate School of AI, KAIST</a>, under the supervision of <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a> at the <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">Machine Learning and Intelligence Lab</a>.
 
 ## Research Interests
-My research focuses on **reliable multimodal and agentic AI**, with an emphasis on **(I) reliable multimodal AI**, where I develop training-free methods for robust visual reasoning and study multimodal safety and fairness *(with <a href="https://laiviet.github.io/" target="_blank" style="color: black;">Viet Dac Lai</a>, Adobe Research)*; **(II) self-improving agents**, which learn from failures through preference optimization and acquire new skills from experience *(with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;">Ninareh Mehrabi</a> and <a href="https://www.linkedin.com/in/sina-shaham-17b234189/" target="_blank" style="color: black;">Sina Shaham</a>, Meta Superintelligence Labs)*; and **(III) agentic red-teaming**, which identifies safety risks across multi-service workflows and develops defenses for reliable deployment *(with <a href="https://www.linkedin.com/in/ninareh-mehrabi-99851488/" target="_blank" style="color: black;">Ninareh Mehrabi</a>, Meta Superintelligence Labs)*.
+My research focuses on **reliable self-evolving AI**.
+
+- **Self-evolving:** Learning from failures ([Co-Evolving Agents](#paper-co-evolving-agents)), long-horizon reinforcement learning, and skill memory.
+- **Reliability:** Robust visual reasoning ([FlipDir](#paper-flipdir)), multimodal safety ([Playing the Fool](#paper-playing-the-fool)), and red-teaming personal agents.
+
 <!---
 Beyond these, I have explored a broad range of topics in **Reliable AI**, **jailbreaking in MLLMs**, **Visual Autoregressive Models**, and **image editing**.
 -->
@@ -61,10 +65,10 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## Preprints
 <hr>
-- Looks the Same, Answers Differently: Flip-Direction Steering for Robust Vision-Language Reasoning <a href="/pdfs/flipdir.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span id="paper-flipdir" style="scroll-margin-top: 80px;"></span>Looks the Same, Answers Differently: Flip-Direction Steering for Robust Vision-Language Reasoning <a href="/pdfs/flipdir.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Joonhyun Jeong, Hoang Pham, Joowon Kim, Yoonsik Park, Viet Dac Lai†, Eunho Yang† </span> <br>
 
-- Co-Evolving Agents: Learning from Failures as Hard Negatives <a href="https://www.arxiv.org/pdf/2511.22254" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span id="paper-co-evolving-agents" style="scroll-margin-top: 80px;"></span>Co-Evolving Agents: Learning from Failures as Hard Negatives <a href="https://www.arxiv.org/pdf/2511.22254" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Trilok Padhi, Sina Shaham, Dipika Khullar, Joonhyun Jeong, Ninareh Mehrabi†, Eunho Yang† </span> <br>
 
 - Web Agents Are Still Greedy: Progress-Aware Action Generation and Selection via Meta-Plan \\
@@ -86,7 +90,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 <span style="font-size: 90%;"> Yoonjeon Kim\*, Soohyun Ryu\*, **Yeonsung Jung**, Hyunkoo Lee, Joowon Kim, June Yong Yang, Jaeryong Hwang, Eunho Yang </span>\\
 <span style="color:darkred">**CVPR**</span> 2025
 
-- Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy <a href="https://arxiv.org/abs/2503.20823" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span id="paper-playing-the-fool" style="scroll-margin-top: 80px;"></span>Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy <a href="https://arxiv.org/abs/2503.20823" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Joonhyun Jeong, Seyun Bae, **Yeonsung Jung**, Jaeryong Hwang, Eunho Yang </span>\\
 <span style="color:darkred">**CVPR**</span> 2025
 
