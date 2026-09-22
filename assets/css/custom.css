@@ -2,3 +2,15 @@
     color: #0056b3 !important;
 }
 
+/* Keep the selected publication visible and distinct after following a reference. */
+.about-page .page__content span[id^="paper-"] {
+    display: inline-block;
+    scroll-margin-top: 100px !important;
+}
+
+.about-page .page__content li:has(span[id^="paper-"]:target) {
+    background-color: #eaf3ff;
+    border-radius: 4px;
+    outline: 8px solid #eaf3ff;
+    box-shadow: -12px 0 0 #0056b3;
+}
