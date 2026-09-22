@@ -3,6 +3,8 @@ body.about-page {
     background: #fff;
     color: #263238;
 }
+.about-page .masthead,
+.about-page .greedy-nav { background: #fff; }
 .about-page .archive {
     line-height: 1.7;
 }
