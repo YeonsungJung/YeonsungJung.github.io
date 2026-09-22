@@ -15,7 +15,7 @@ I'm currently a Research Scientist Intern at <a href="https://ai.meta.com/" targ
 My research focuses on **reliable self-evolving AI**.
 
 - **Self-evolving Agents:** Learning from their own failures ([Preprint’25](#paper-co-evolving-agents)) and improving through reinforcement learning, with graph-structured skill memory for long-horizon tasks.
-- **Reliability:** Robust visual reasoning ([Preprint’26](#paper-flipdir)), safety of language and multimodal models ([CVPR’25](#paper-playing-the-fool)), and red-teaming personal agents.
+- **Reliability:** Robust visual reasoning ([Preprint’26](#paper-flipdir)), robust learning with biased and noisy data ([ICML’23](#paper-cdvg), [ICML’24](#paper-prunerf), [NeurIPS’24](#paper-self-influence)), and red-teaming personal agents.
 
 <!---
 Beyond these, I have explored a broad range of topics in **Reliable AI**, **jailbreaking in MLLMs**, **Visual Autoregressive Models**, and **image editing**.
@@ -98,15 +98,15 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 <span style="font-size: 90%;"> Doohyuk Jang\*, Sihwan Park\*, June Yong Yang, **Yeonsung Jung**, Jihun Yun, Souvik Kundu, Sung-Yub Kim†, Eunho Yang† </span>\\
 <span style="color:darkred">**ICLR**</span> 2025
 
-- A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective <a href="https://arxiv.org/abs/2411.00360" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span id="paper-self-influence" style="scroll-margin-top: 80px;"></span>A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective <a href="https://arxiv.org/abs/2411.00360" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung\***, Jaeyun Song\*, June Yong Yang, Jin-Hwa Kim, Sung-Yub Kim, Eunho Yang </span>\\
 <span style="color:darkred">**NeurIPS**</span> 2024
 
-- PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency <a href="https://proceedings.mlr.press/v235/jung24b.html" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span id="paper-prunerf" style="scroll-margin-top: 80px;"></span>PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency <a href="https://proceedings.mlr.press/v235/jung24b.html" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Heecheol Yun, Joonhyung Park, Jin-Hwa Kim†, Eunho Yang† </span>\\
 <span style="color:darkred">**ICML**</span> 2024
 
-- Fighting Fire with Fire: Contrastive Debiasing without Bias-free Data via Generative Bias-transformation <a href="https://proceedings.mlr.press/v202/jung23b.html" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span id="paper-cdvg" style="scroll-margin-top: 80px;"></span>Fighting Fire with Fire: Contrastive Debiasing without Bias-free Data via Generative Bias-transformation <a href="https://proceedings.mlr.press/v202/jung23b.html" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Hajin Shim, June Yong Yang, Eunho Yang </span>\\
 <span style="color:darkred">**ICML**</span> 2023
 
