@@ -14,8 +14,8 @@ I'm currently a Research Scientist Intern at <a href="https://ai.meta.com/" targ
 ## Research Interests
 My research focuses on building **reliable self-evolving AI** that learns from its own experience and remains robust and safe in real-world environments.
 
-- **Self-evolving Agents:** Learning from their own failures ([Preprint’25](#paper-co-evolving-agents)) and improving through reinforcement learning, with graph-structured skill memory for long-horizon tasks.
-- **Reliability:** Robust visual reasoning ([Preprint’26](#paper-flipdir)), robust learning with biased data ([ICML’23](#paper-cdvg), [ICML’24](#paper-prunerf), [NeurIPS’24](#paper-self-influence)), jailbreaking ([CVPR’25](#paper-playing-the-fool)), and red-teaming personal agents.
+- **Self-evolving Agents:** Learning from their own failures (<a href="#paper-co-evolving-agents" data-scroll-ignore>Preprint’25</a>) and improving through reinforcement learning, with graph-structured skill memory for long-horizon tasks.
+- **Reliability:** Robust visual reasoning (<a href="#paper-flipdir" data-scroll-ignore>Preprint’26</a>), robust learning with biased data (<a href="#paper-cdvg" data-scroll-ignore>ICML’23</a>, <a href="#paper-prunerf" data-scroll-ignore>ICML’24</a>, <a href="#paper-self-influence" data-scroll-ignore>NeurIPS’24</a>), jailbreaking (<a href="#paper-playing-the-fool" data-scroll-ignore>CVPR’25</a>), and red-teaming personal agents.
 
 <!---
 Beyond these, I have explored a broad range of topics in **Reliable AI**, **jailbreaking in MLLMs**, **Visual Autoregressive Models**, and **image editing**.
