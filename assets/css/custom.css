@@ -6,12 +6,12 @@ body.about-page {
 .about-page .masthead,
 .about-page .greedy-nav { background: #fff; }
 .about-page .archive {
-    line-height: 1.5;
+    line-height: 1.4;
 }
 .about-page .archive h2 {
-    margin-top: 1.6em;
-    margin-bottom: .65em;
-    padding-bottom: .3em;
+    margin-top: 1.15em;
+    margin-bottom: .45em;
+    padding-bottom: .2em;
     border-bottom: 1px solid #dfe5e8;
     font-size: 1.25em;
     letter-spacing: -.025em;
@@ -32,9 +32,9 @@ body.about-page {
     outline: 2px solid #285f70;
     outline-offset: 3px;
 }
-.about-page #research-interests + p { margin-bottom: .65em; }
+.about-page #research-interests + p { margin-bottom: .45em; }
 .about-page #research-interests + p + ul { padding-left: 1.2em; }
-.about-page #research-interests + p + ul > li { margin-bottom: .4em; }
+.about-page #research-interests + p + ul > li { margin-bottom: .25em; }
 .about-page #research-interests + p + ul > li::marker { color: #8aa1a5; }
 
 /* Dates form a separate column; wrapped copy stays aligned on small screens. */
@@ -43,7 +43,7 @@ body.about-page {
     display: grid;
     grid-template-columns: 6.2em minmax(0, 1fr);
     column-gap: 1.4em;
-    padding: .2em 0;
+    padding: .08em 0;
 }
 .about-page .news-row dt {
     margin: 0;
@@ -62,8 +62,8 @@ body.about-page {
 }
 .about-page .archive li:has(.publication-title) {
     position: relative;
-    margin: 0 0 .75em;
-    padding: .2em .65em .2em 1em;
+    margin: 0 0 .45em;
+    padding: .1em .65em .1em 1em;
     border-left: 2px solid transparent;
 }
 .about-page .archive li:has(.publication-title) > p { margin: 0; }
@@ -89,3 +89,6 @@ body.about-page {
     .about-page .news-row { grid-template-columns: 5.6em minmax(0, 1fr); column-gap: .75em; }
     .about-page .archive li:has(.publication-title) { padding-left: .7em; }
 }
+
+.about-page .archive > p,
+.about-page .archive > ul { margin-bottom: .65em; }
