@@ -3,12 +3,12 @@
 }
 
 /* Keep the selected publication visible and distinct after following a reference. */
-.about-page .page__content span[id^="paper-"] {
+.about-page .archive span[id^="paper-"] {
     display: inline-block;
     scroll-margin-top: 100px !important;
 }
 
-.about-page .page__content li:has(span[id^="paper-"]:target) {
+.about-page .archive li:has(span[id^="paper-"]:target) {
     background-color: #eaf3ff;
     border-radius: 4px;
     outline: 8px solid #eaf3ff;
