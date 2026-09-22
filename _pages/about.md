@@ -14,7 +14,7 @@ I'm currently a Research Scientist Intern at <a href="https://ai.meta.com/" targ
 ## Research Interests
 My research focuses on **reliable self-evolving AI**.
 
-- **Self-evolving:** Learning from experience and failures ([Preprint’25](#paper-co-evolving-agents)), building and reusing skills through memory, and reinforcement learning for long-horizon tasks.
+- **Self-evolving Agents:** Learning from their own failures ([Preprint’25](#paper-co-evolving-agents)) and improving through reinforcement learning, with graph-structured skill memory for long-horizon tasks.
 - **Reliability:** Robust visual reasoning ([Preprint’26](#paper-flipdir)), safety of language and multimodal models ([CVPR’25](#paper-playing-the-fool)), and red-teaming personal agents.
 
 <!---
