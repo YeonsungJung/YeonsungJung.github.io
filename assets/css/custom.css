@@ -88,12 +88,12 @@ body.about-page {
     text-decoration: underline;
 }
 .about-page .archive li:has(.publication-title:target) {
-    border-left-color: #304b78;
-    background: #f3f5f9;
+    border-left-color: #b6d4ef;
+    background: #eaf4ff;
 }
 .about-page .publication-title:target {
-    color: #203454;
-    font-weight: 700;
+    color: #202a30;
+    font-weight: 600;
 }
 @media (max-width: 600px) {
     .about-page .news-row { grid-template-columns: 5.6em minmax(0, 1fr); column-gap: .75em; }
