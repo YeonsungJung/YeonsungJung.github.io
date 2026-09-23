@@ -122,3 +122,49 @@ body.about-page {
 /* Hide the theme footer and its shortcut on the homepage. */
 .about-page .page__footer,
 .about-page .skip-links a[href="#footer"] { display: none; }
+
+/* A compact, readable profile and publication list on phones and tablets. */
+@media (max-width: 924px) {
+    .about-page .archive { font-size: 16px; line-height: 1.5; }
+    .about-page .sidebar .h-card {
+        display: grid;
+        grid-template-columns: 64px minmax(0, 1fr);
+        align-items: center;
+        gap: 10px 14px;
+    }
+    .about-page .author__avatar { display: block; width: 64px; height: auto; }
+    .about-page .author__avatar img { display: block; width: 64px; }
+    .about-page .author__content { display: block; padding: 0; }
+    .about-page .sidebar .author__name { font-size: 21px; margin: 0 0 3px; }
+    .about-page .author__bio p { margin: 0; }
+    .about-page .author__urls-wrapper { display: block; grid-column: 1 / -1; cursor: default; }
+    .about-page .author__urls-wrapper button { display: none; }
+    .about-page .sidebar .author__urls {
+        display: flex !important;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 0 14px;
+        position: static;
+        margin: 0;
+        padding: 0;
+        border: 0;
+        background: transparent;
+        box-shadow: none;
+    }
+    .about-page .author__urls::before,
+    .about-page .author__urls::after { display: none; }
+    .about-page .author__urls a { display: inline-flex; align-items: center; min-height: 36px; margin: 0; }
+    .about-page .archive { overflow-wrap: anywhere; }
+    .about-page .archive li:has(.publication-title) { padding-right: 0; }
+    .about-page .archive li:has(.publication-title) a {
+        display: inline-block;
+        padding: 4px 2px;
+        font-size: .94em;
+    }
+}
+@media (max-width: 480px) {
+    .about-page .news-row { grid-template-columns: 1fr; gap: 0; padding: 0 0 .45em; }
+    .about-page .news-row dt { padding: 0; font-weight: 600; }
+    .about-page .archive ul { padding-left: 1.15em; }
+    .about-page .publication-title { scroll-margin-top: 24px; }
+}
