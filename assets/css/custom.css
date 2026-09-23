@@ -40,7 +40,7 @@ body.about-page {
 .about-page #research-interests + p + ul > li::marker { color: #8aa1a5; }
 
 /* Dates form a separate column; wrapped copy stays aligned on small screens. */
-.about-page .news-list { margin: 0; font-size: .93em; }
+.about-page .news-list { margin: 0; font-size: 1em; }
 .about-page .news-row {
     display: grid;
     grid-template-columns: 6.2em minmax(0, 1fr);
@@ -50,7 +50,7 @@ body.about-page {
 .about-page .news-row dt {
     margin: 0;
     color: #59666e;
-    font-size: .95em;
+    font-size: 1em;
     font-weight: 500;
     font-variant-numeric: tabular-nums;
     padding-top: .12em;
