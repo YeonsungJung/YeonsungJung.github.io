@@ -15,7 +15,7 @@ I'm currently a Research Scientist Intern at <a href="https://ai.meta.com/" targ
 ## Research Interests
 My research focuses on building **reliable self-evolving AI** that learns from its own experience and remains robust and safe in real-world environments.
 
-- **Self-Evolving Agents:** Learning from own failures through RL (<a href="#paper-co-evolving-agents" data-scroll-ignore>Preprint’26</a>), Discovering unknown actions, Graph-structured skill memory (<a href="#paper-action-discovery" data-scroll-ignore>Preprint’26</a>).
+- **Self-Evolving Agents:** Learning from own failures through RL (<a href="#paper-co-evolving-agents" data-scroll-ignore>Preprint’26</a>), Discovering unknown actions with graph-structured skill memory (<a href="#paper-action-discovery" data-scroll-ignore>Preprint’26</a>).
 - **Reliability:** Red-teaming personal agents (<a href="#paper-x-agentred" data-scroll-ignore>Preprint’26</a>), Robust visual reasoning (<a href="#paper-flipdir" data-scroll-ignore>Preprint’26</a>), Robust learning with biased data (<a href="#paper-cdvg" data-scroll-ignore>ICML’23</a>, <a href="#paper-prunerf" data-scroll-ignore>ICML’24</a>, <a href="#paper-self-influence" data-scroll-ignore>NeurIPS’24</a>), Jailbreaking (<a href="#paper-playing-the-fool" data-scroll-ignore>CVPR’25</a>).
 
 <!---
