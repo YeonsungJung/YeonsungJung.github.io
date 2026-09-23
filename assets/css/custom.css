@@ -18,13 +18,15 @@ body.about-page {
     color: #18272d;
 }
 .about-page .archive h2 + hr { display: none; }
-.about-page .archive a[data-scroll-ignore] {
+.about-page .archive a[data-scroll-ignore],
+.about-page .news-list a {
     color: #285f70;
     text-decoration: none;
     border-bottom: 1px solid #cadbdd;
     transition: color .15s, border-color .15s;
 }
-.about-page .archive a[data-scroll-ignore]:hover {
+.about-page .archive a[data-scroll-ignore]:hover,
+.about-page .news-list a:hover {
     color: #174e58;
     border-color: #174e58;
 }
