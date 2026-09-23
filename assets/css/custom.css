@@ -20,18 +20,18 @@ body.about-page {
 .about-page .archive h2 + hr { display: none; }
 .about-page .archive a[data-scroll-ignore],
 .about-page .news-list a {
-    color: #285f70;
+    color: #2457a7;
     text-decoration: none;
-    border-bottom: 1px solid #cadbdd;
+    border-bottom: 1px solid #c8d6ed;
     transition: color .15s, border-color .15s;
 }
 .about-page .archive a[data-scroll-ignore]:hover,
 .about-page .news-list a:hover {
-    color: #174e58;
-    border-color: #174e58;
+    color: #183e7a;
+    border-color: #183e7a;
 }
 .about-page .archive a:focus-visible {
-    outline: 2px solid #285f70;
+    outline: 2px solid #2457a7;
     outline-offset: 3px;
 }
 .about-page #research-interests + p { margin-bottom: .45em; }
@@ -79,16 +79,20 @@ body.about-page {
     scroll-margin-top: 110px;
 }
 .about-page .archive li:has(.publication-title) a {
-    color: #285f70 !important;
+    color: #2457a7 !important;
     font-size: .86em;
     text-decoration: none;
 }
+.about-page .archive li:has(.publication-title) a:hover {
+    color: #183e7a !important;
+    text-decoration: underline;
+}
 .about-page .archive li:has(.publication-title:target) {
-    border-left-color: #285f70;
-    background: #f4f8fa;
+    border-left-color: #2457a7;
+    background: #f3f6fc;
 }
 .about-page .publication-title:target {
-    color: #17525d;
+    color: #183e7a;
     font-weight: 700;
 }
 @media (max-width: 600px) {
