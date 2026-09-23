@@ -15,7 +15,7 @@ I'm currently a Research Scientist Intern at <a href="https://ai.meta.com/" targ
 ## Research Interests
 My research focuses on building **reliable self-evolving AI** that learns from its own experience and remains robust and safe in real-world environments.
 
-- **Self-evolving Agents:** Learning from their own failures through RL (<a href="#paper-co-evolving-agents" data-scroll-ignore>Preprint’26</a>), discovering unknown actions, and graph-structured skill memory (<a href="#paper-action-discovery" data-scroll-ignore>Preprint’26</a>).
+- **Self-Evolving Agents:** Learning from their own failures through RL (<a href="#paper-co-evolving-agents" data-scroll-ignore>Preprint’26</a>), discovering unknown actions, and graph-structured skill memory (<a href="#paper-action-discovery" data-scroll-ignore>Preprint’26</a>).
 - **Reliability:** Red-teaming personal agents (<a href="#paper-x-agentred" data-scroll-ignore>Preprint’26</a>), robust visual reasoning (<a href="#paper-flipdir" data-scroll-ignore>Preprint’26</a>), robust learning with biased data (<a href="#paper-cdvg" data-scroll-ignore>ICML’23</a>, <a href="#paper-prunerf" data-scroll-ignore>ICML’24</a>, <a href="#paper-self-influence" data-scroll-ignore>NeurIPS’24</a>), and jailbreaking (<a href="#paper-playing-the-fool" data-scroll-ignore>CVPR’25</a>).
 
 <!---
@@ -68,7 +68,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 <dl class="news-list">
   <div class="news-row"><dt>Sep 2026</dt><dd>Co-organizing <a href="https://advml-frontier.github.io/">AdvML-Frontiers × CoTMA</a> at COLM 2026.</dd></div>
-  <div class="news-row"><dt>Jun 2026</dt><dd>Started a research internship at Meta Superintelligence Labs (Menlo Park).</dd></div>
+  <div class="news-row"><dt>Jun 2026</dt><dd>Joined Meta Superintelligence Labs as a Research Scientist Intern (Menlo Park).</dd></div>
   <div class="news-row"><dt>Jun 2025</dt><dd>One paper accepted to <a href="#paper-early-timestep" data-scroll-ignore>ICCV 2025</a>.</dd></div>
   <div class="news-row"><dt>Feb 2025</dt><dd>Two papers accepted to CVPR 2025 (<a href="#paper-preserve-modify" data-scroll-ignore aria-label="CVPR 2025 paper 1">[1]</a>, <a href="#paper-playing-the-fool" data-scroll-ignore aria-label="CVPR 2025 paper 2">[2]</a>).</dd></div>
   <div class="news-row"><dt>Jan 2025</dt><dd>One paper accepted to <a href="#paper-lantern" data-scroll-ignore>ICLR 2025</a>.</dd></div>
@@ -139,17 +139,17 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 <span style="color:darkred">**WSDM Workshop**</span> on MIS2: Misinformation and Misbehavior Mining on the Web 2018
 
 
-## Work Experiences
+## Work Experience
 <hr>
-- Research Scientist Intern, **Meta Superintelligence Labs**, Menlo Park. (Jun. 2026 - Nov. 2026)
+- Research Scientist Intern, **Meta Superintelligence Labs**, Menlo Park (Jun 2026–Nov 2026)
   - Agentic red-teaming for multi-service ecosystems.
 
-- Postdoctoral Researcher, **Machine Learning and Intelligence Lab, KAIST**, Daejeon, South Korea. (Mar. 2026 - May 2026)
+- Postdoctoral Researcher, **Machine Learning and Intelligence Lab, KAIST**, Daejeon, South Korea (Mar 2026–May 2026)
 
-- External Collaborator, **NAVER AI**, Seongnam, South Korea. (Sept. 2023 - Feb. 2024)
+- External Collaborator, **NAVER AI**, Seongnam, South Korea (Sep 2023–Feb 2024)
   - Robust learning for neural radiance fields; *PruNeRF* (ICML 2024).
 
-- Research Intern, **<a href="https://naver-career.gitbook.io/en/publications/all" target="_blank" style="color: black;">NAVER Search</a>**, Seongnam, South Korea. (July 2019 - Aug. 2019)
+- Research Intern, **<a href="https://naver-career.gitbook.io/en/publications/all" target="_blank" style="color: black;">NAVER Search</a>**, Seongnam, South Korea (Jul 2019–Aug 2019)
   - Graph-based ranking and search relevance for production systems.
 
 <!---
@@ -160,10 +160,10 @@ My primary research interest in 3D vision falls into two branches following: 1) 
     - Published in [Yonsei Medical Journal](https://ymj.kr/DOIx.php?id=10.3349/ymj.2022.0381)
 -->
 
-## Academic Services
+## Academic Service
 <hr>
 - Workshop Organizer
-    - <a href="http://advml-frontier.github.io/#intro" target="_blank">AdvML-Frontiers-CoTMA 2026</a>
+    - <a href="https://advml-frontier.github.io/" target="_blank">AdvML-Frontiers × CoTMA (COLM 2026)</a>
 - Conference Reviewer
     - Neural Information Processing Systems (NeurIPS)
     - International Conference on Machine Learning (ICML)
@@ -183,7 +183,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
   - Transactions on Neural Networks and Learning Systems (TNNLS)
 -->
 
-## Lectures
+## Teaching Experience
 <hr>
 - <img src="images/samsung.png" alt="SAMSUNG DS" style="height:1em; vertical-align:middle;"/> &nbsp; **SAMSUNG DS** _(2020–2022)_
 - <img src="images/lge.png" alt="LG Electronics" style="height:1em; vertical-align:middle;"/> &nbsp; **LG Electronics** _(2022)_
