@@ -75,8 +75,6 @@ My primary research interest in 3D vision falls into two branches following: 1) 
   <div class="news-row"><dt>Sep 2024</dt><dd>One paper accepted to <a href="#paper-self-influence" data-scroll-ignore>NeurIPS 2024</a>.</dd></div>
   <div class="news-row"><dt>May 2024</dt><dd>One paper accepted to <a href="#paper-prunerf" data-scroll-ignore>ICML 2024</a>.</dd></div>
   <div class="news-row"><dt>Apr 2023</dt><dd>One paper accepted to <a href="#paper-cdvg" data-scroll-ignore>ICML 2023</a>.</dd></div>
-  <div class="news-row"><dt>Feb 2020</dt><dd>One paper accepted to the <a href="#paper-scalable-antitrustrank" data-scroll-ignore>CyberSafety Workshop at The Web Conference 2020</a>.</dd></div>
-  <div class="news-row"><dt>Dec 2017</dt><dd>One paper accepted to the <a href="#paper-fast-antitrustrank" data-scroll-ignore>MIS2 Workshop at WSDM 2018</a>.</dd></div>
 </dl>
 
 ## Preprints
