@@ -118,3 +118,7 @@ body.about-page {
     font-size: 15px;
     line-height: 1.55;
 }
+
+/* Hide the theme footer and its shortcut on the homepage. */
+.about-page .page__footer,
+.about-page .skip-links a[href="#footer"] { display: none; }
