@@ -57,13 +57,17 @@ body.about-page {
 
 /* Publication titles carry the emphasis, with a restrained selection marker. */
 .about-page .archive ul:has(.publication-title) {
-    list-style: none;
-    padding-left: 0;
+    list-style: disc;
+    padding-left: 1.2em;
+}
+.about-page .archive li:has(.publication-title)::marker {
+    color: #59666e;
+    font-size: .8em;
 }
 .about-page .archive li:has(.publication-title) {
     position: relative;
     margin: 0 0 .45em;
-    padding: .1em .65em .1em 1em;
+    padding: .1em .5em .1em .35em;
     border-left: 2px solid transparent;
 }
 .about-page .archive li:has(.publication-title) > p { margin: 0; }
@@ -87,7 +91,7 @@ body.about-page {
 }
 @media (max-width: 600px) {
     .about-page .news-row { grid-template-columns: 5.6em minmax(0, 1fr); column-gap: .75em; }
-    .about-page .archive li:has(.publication-title) { padding-left: .7em; }
+    .about-page .archive li:has(.publication-title) { padding-left: .35em; }
 }
 
 .about-page .archive > p,
