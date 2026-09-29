@@ -91,12 +91,6 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 - <span class="publication-title">Web Agents Are Still Greedy: Progress-Aware Action Generation and Selection via Meta-Plan</span> \\
 <span style="font-size: 90%;"> Joonhyun Jeong, Gilhyun Nam, **Yeonsung Jung**, Eunho Yang </span> <br>
 
-- <span class="publication-title">MeZO-A<sup>3</sup>dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs</span> \\
-<span style="font-size: 90%;"> Sihwan Park\*, Jihun Yun\*, Sung-Yub Kim, June Yong Yang, **Yeonsung Jung**, Souvik Kundu, Kyungsu Kim, Eunho Yang </span> <br>
-
-- <span class="publication-title">3D Scene Decomposition Under Occlusion via Multi-View-Aware Inpainting</span> \\
-<span style="font-size: 90%;"> Heecheol Yun, **Yeonsung Jung**, Eunho Yang </span> <br>
-
 ## Conference Publications
 <hr>
 - <span class="publication-title" id="paper-early-timestep">Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing</span> <a href="https://arxiv.org/abs/2504.13490" target="_blank" style="color: #1E90FF">[paper]</a> \\
