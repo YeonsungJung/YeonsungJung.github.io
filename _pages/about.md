@@ -69,6 +69,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 <dl class="news-list">
   <div class="news-row"><dt>Sep 2026</dt><dd>Co-organizing <a href="https://advml-frontier.github.io/">AdvML-Frontiers × CoTMA</a> at COLM 2026.</dd></div>
   <div class="news-row"><dt>Jun 2026</dt><dd>Joined Meta Superintelligence Labs as a Research Scientist Intern (Menlo Park).</dd></div>
+  <div class="news-row"><dt>Nov 2025</dt><dd>Successfully defended my Ph.D. dissertation (Committee: <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ">Eunho Yang</a>, <a href="https://scholar.google.com/citations?user=m3eDp7kAAAAJ">Jinwoo Shin</a>, <a href="https://scholar.google.com/citations?user=HNMjoNEAAAAJ">Jong Chul Ye</a>, <a href="https://scholar.google.com/citations?user=GHJYsLEAAAAJ">Jaegul Choo</a>, <a href="https://scholar.google.com/citations?user=X_IAjb8AAAAJ">Se-Young Yun</a>).</dd></div>
   <div class="news-row"><dt>Jun 2025</dt><dd>One paper accepted to <a href="#paper-early-timestep" data-scroll-ignore>ICCV 2025</a>.</dd></div>
   <div class="news-row"><dt>Feb 2025</dt><dd>Two papers accepted to CVPR 2025 (<a href="#paper-preserve-modify" data-scroll-ignore aria-label="CVPR 2025 paper 1">[1]</a>, <a href="#paper-playing-the-fool" data-scroll-ignore aria-label="CVPR 2025 paper 2">[2]</a>).</dd></div>
   <div class="news-row"><dt>Jan 2025</dt><dd>One paper accepted to <a href="#paper-lantern" data-scroll-ignore>ICLR 2025</a>.</dd></div>
