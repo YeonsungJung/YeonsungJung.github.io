@@ -83,7 +83,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 - <span class="publication-title" id="paper-x-agentred">X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems</span> <a href="/pdfs/x-agentred.pdf" target="_blank" rel="noopener" style="color: #1E90FF">[paper]</a> <a href="https://x-agentred.ys-jung.chatgpt.site/" target="_blank" rel="noopener" style="color: #1E90FF">[project]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Zhiyuan Wang, Zifan Wang, Vítor Albiero, Benjamin Newman, Edoardo Debenedetti, Ivan Evtimov, Ninareh Mehrabi </span> <br>
 
-- <span class="publication-title" id="paper-flipdir">Looks the Same, Answers Differently: Flip-Direction Steering for Robust Vision-Language Reasoning</span> <a href="/pdfs/flipdir.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
+- <span class="publication-title" id="paper-flipdir">Looks the Same, Answers Differently: Flip-Direction Steering for Robust Vision-Language Reasoning</span> <a href="/pdfs/flipdir.pdf" target="_blank" style="color: #1E90FF">[paper]</a> <a href="https://flipdir.ys-jung.chatgpt.site/" target="_blank" rel="noopener" style="color: #1E90FF">[project]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Joonhyun Jeong, Hoang Pham, Joowon Kim, Yoonsik Park, Viet Dac Lai†, Eunho Yang† </span> <br>
 
 - <span class="publication-title" id="paper-co-evolving-agents">Co-Evolving Agents: Learning from Failures as Hard Negatives</span> <a href="https://www.arxiv.org/pdf/2511.22254" target="_blank" style="color: #1E90FF">[paper]</a> <a href="https://co-evolving-agents.ys-jung.chatgpt.site/" target="_blank" rel="noopener" style="color: #1E90FF">[project]</a> \\
