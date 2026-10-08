@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="990" height="450" preserveAspectRatio="xMinYMin meet" viewBox="0 0 990 450" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="990" height="450"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-450)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="990" height="450" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="20" y="427" style="font-family: Bold; font-size: 19.8px;fill: rgb(15%,20%,23%); stroke:none;" transform="translate(0,854) scale(1,-1)">(a) Agent Rollouts</text>
+			<text x="493" y="427" style="font-family: Bold; font-size: 19.8px;fill: rgb(15%,20%,23%); stroke:none;" transform="translate(0,854) scale(1,-1)">(b) Preference Pairs</text>
+			<path d="M 946 320 L 974 320 L 974 401 L 52 401 L 52 362 " style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.5; fill: none; fill-rule: evenodd; stroke-dasharray: 5, 3;"/>
+			<polygon points="52 362, 54.88 368, 49.12 368" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+			<path d="M 946 80 L 974 80 L 974 25 L 52 25 L 52 72 " style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.5; fill: none; fill-rule: evenodd; stroke-dasharray: 5, 3;"/>
+			<polygon points="52 72, 49.12 66, 54.88 66" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+			<rect x="158" y="392" width="118" height="20" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="171.7085205078125" y="397" style="font-family: Bold; font-size: 14.3px;fill: rgb(15%,36%,52%); stroke:none;" transform="translate(0,794) scale(1,-1)">Self-Evolving</text>
+			<rect x="158" y="15" width="118" height="22" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="171.7085205078125" y="21" style="font-family: Bold; font-size: 14.3px;fill: rgb(70%,33%,25%); stroke:none;" transform="translate(0,42) scale(1,-1)">Self-Evolving</text>
+			<g transform=" matrix(1.1,0,0,1.1,-5.2,-32.3)">
+				<path d="M 52,345 L 52,352 Z" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<circle cx="52" cy="354" r="2.8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+				<rect x="26" y="316" width="6" height="14" rx="3" ry="3" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.3; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+				<rect x="72" y="316" width="6" height="14" rx="3" ry="3" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.3; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+				<rect x="31" y="303" width="42" height="40" rx="10" ry="10" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+				<circle cx="44" cy="328" r="2.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+				<circle cx="60" cy="328" r="2.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+				<path d="M 41 318 C 46 309 58 309 63 318 " style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.6; fill: none; fill-rule: evenodd;"/>
+			</g>
+			<text x="4.514160156249993" y="284" style="font-family: Bold; font-size: 15.400000000000002px;fill: rgb(15%,36%,52%); stroke:none;" transform="translate(0,568) scale(1,-1)">Target Agent</text>
+			<g transform=" matrix(1.1,0,0,1.1,-5.2,-11)">
+				<path d="M 52,132 L 52,139 Z" style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<circle cx="52" cy="141" r="2.8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+				<rect x="26" y="103" width="6" height="14" rx="3" ry="3" style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.3; fill: rgb(98%,94%,93%); fill-rule: evenodd;"/>
+				<rect x="72" y="103" width="6" height="14" rx="3" ry="3" style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.3; fill: rgb(98%,94%,93%); fill-rule: evenodd;"/>
+				<rect x="31" y="90" width="42" height="40" rx="10" ry="10" style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(98%,94%,93%); fill-rule: evenodd;"/>
+				<circle cx="44" cy="115" r="2.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+				<circle cx="60" cy="115" r="2.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+				<path d="M 41 99 C 46 108 58 108 63 99 " style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.6; fill: none; fill-rule: evenodd;"/>
+			</g>
+			<text x="2.7997070312499943" y="152" style="font-family: Bold; font-size: 15.400000000000002px;fill: rgb(70%,33%,25%); stroke:none;" transform="translate(0,304) scale(1,-1)">Failure Agent</text>
+			<path d="M 82 323 L 100 323 " style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.4; fill: none; fill-rule: evenodd;"/>
+			<polygon points="100 323, 94 325.88, 94 320.12" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+			<path d="M 82 110 L 100 110 " style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.4; fill: none; fill-rule: evenodd;"/>
+			<polygon points="100 110, 94 112.88, 94 107.12" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+			<rect x="106" y="268" width="215" height="106" rx="5" ry="5" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="120" y="334" style="font-family: Regular; font-size: 17.6px;fill: rgb(15%,36%,52%); stroke:none;" transform="translate(0,668) scale(1,-1)">Target Agent</text>
+			<path d="M 120,320 L 246,320 Z" style="stroke: rgb(80%,82%,84%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 120,320 L 170.4,320 Z" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<circle cx="120.0" cy="320" r="4.1" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+			<circle cx="145.2" cy="320" r="4.1" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+			<rect x="165.8" y="315.40000000000003" width="9.199999999999989" height="9.199999999999989" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 167.1,323.3 L 173.7,316.7 Z" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 167.1,316.7 L 173.7,323.3 Z" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<circle cx="195.6" cy="320" r="4.1" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(80%,82%,84%); fill-rule: evenodd;"/>
+			<circle cx="220.8" cy="320" r="4.1" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(80%,82%,84%); fill-rule: evenodd;"/>
+			<circle cx="246.0" cy="320" r="4.1" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(80%,82%,84%); fill-rule: evenodd;"/>
+			<text x="269" y="316" style="font-family: Regular; font-size: 16.5px;fill: rgb(15%,36%,52%); stroke:none;" transform="translate(0,632) scale(1,-1)">Fail</text>
+			<rect x="120" y="301" width="176" height="6" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+			<rect x="120" y="301" width="52.80000000000001" height="6" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+			<rect x="120" y="275" width="100" height="20" rx="4" ry="4" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,94%,95%); fill-rule: evenodd;"/>
+			<text x="124.64970703124999" y="280.5" style="font-family: Bold; font-size: 15.400000000000002px;fill: rgb(15%,36%,52%); stroke:none;" transform="translate(0,561) scale(1,-1)">Low Reward</text>
+			<rect x="106" y="50" width="215" height="121" rx="5" ry="5" style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="120" y="124" style="font-family: Regular; font-size: 17.6px;fill: rgb(70%,33%,25%); stroke:none;" transform="translate(0,248) scale(1,-1)">Failure Agent</text>
+			<path d="M 120,110 L 246,110 Z" style="stroke: rgb(80%,82%,84%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 120,110 L 220.8,110 Z" style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<rect x="116.2" y="106.20000000000002" width="7.599999999999994" height="7.599999999999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+			<rect x="141.39999999999998" y="106.20000000000002" width="7.599999999999994" height="7.599999999999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+			<rect x="166.6" y="106.20000000000002" width="7.599999999999994" height="7.599999999999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+			<rect x="191.79999999999998" y="106.20000000000002" width="7.599999999999994" height="7.599999999999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+			<rect x="216.20000000000002" y="105.40000000000002" width="9.199999999999989" height="9.200000000000003" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 217.5,113.3 L 224.1,106.7 Z" style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 217.5,106.7 L 224.1,113.3 Z" style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<rect x="242.2" y="106.20000000000002" width="7.599999999999994" height="7.599999999999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(80%,82%,84%); fill-rule: evenodd;"/>
+			<text x="269" y="106" style="font-family: Regular; font-size: 16.5px;fill: rgb(70%,33%,25%); stroke:none;" transform="translate(0,212) scale(1,-1)">Fail</text>
+			<rect x="120" y="91" width="176" height="6" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+			<rect x="120" y="91" width="144.32" height="6" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+			<rect x="120" y="58" width="108" height="20" rx="4" ry="4" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,94%,95%); fill-rule: evenodd;"/>
+			<text x="126.93901367187499" y="63.5" style="font-family: Bold; font-size: 15.400000000000002px;fill: rgb(70%,33%,25%); stroke:none;" transform="translate(0,127) scale(1,-1)">High Reward</text>
+			<g transform=" matrix(1.07,0,0,1.07,-14.91,-16.31)">
+				<circle cx="213" cy="225" r="20" style="stroke: rgb(27%,32%,37%); stroke-linecap: butt; stroke-width: 1.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<path d="M 193,225 L 233,225 Z" style="stroke: rgb(27%,32%,37%); stroke-linecap: butt; stroke-width: 1.4;"/>
+				<path d="M 196 234 C 207 231 219 231 230 234 " style="stroke: rgb(27%,32%,37%); stroke-linecap: butt; stroke-width: 1.3; fill: none; fill-rule: evenodd;"/>
+				<path d="M 196 216 C 207 219 219 219 230 216 " style="stroke: rgb(27%,32%,37%); stroke-linecap: butt; stroke-width: 1.3; fill: none; fill-rule: evenodd;"/>
+				<path d="M 213 245 C 200 235 200 215 213 205 M 213 245 C 226 235 226 215 213 205 " style="stroke: rgb(27%,32%,37%); stroke-linecap: butt; stroke-width: 1.4; fill: none; fill-rule: evenodd;"/>
+				<text x="166.6864013671875" y="192" style="font-family: Regular; font-size: 16.5px;fill: rgb(27%,32%,37%); stroke:none;" transform="translate(0,384) scale(1,-1)">Environment</text>
+			</g>
+			<path d="M 213,264 L 213,248 Z" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<polygon points="213 264, 211.368 260.6, 214.632 260.6" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+			<polygon points="213 248, 214.632 251.4, 211.368 251.4" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+			<path d="M 213,188 L 213,174 Z" style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<polygon points="213 188, 211.368 184.6, 214.632 184.6" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+			<polygon points="213 174, 214.632 177.4, 211.368 177.4" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+			<path d="M 322,320 L 343,320 Z" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 343,320 L 343,114 Z" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 343,106 L 343,88 Z" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 343 313 L 487 313 " style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.5; fill: none; fill-rule: evenodd;"/>
+			<polygon points="487 313, 481 315.88, 481 310.12" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+			<path d="M 343,88 L 453,88 Z" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 461 88 L 487 88 " style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.5; fill: none; fill-rule: evenodd;"/>
+			<polygon points="487 88, 481 90.88, 481 85.12" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+			<circle cx="343" cy="313" r="2.3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+			<path d="M 322,110 L 457,110 Z" style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 457 110 L 457 220 L 487 220 " style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.5; fill: none; fill-rule: evenodd;"/>
+			<polygon points="487 220, 481 222.88, 481 217.12" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+			<path d="M 457 110 L 457 67 L 487 67 " style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.5; fill: none; fill-rule: evenodd;"/>
+			<polygon points="487 67, 481 69.88, 481 64.12" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+			<circle cx="457" cy="110" r="2.3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+			<polygon points="366.1926 224.0587, 366.7367 225.8882, 367.3797 227.6853, 368.1198 229.4447, 368.9546 231.1612, 369.8818 232.8296, 370.8986 234.445, 372.0019 236.0025, 373.1884 237.4976, 374.4548 238.9257, 375.797 240.2827, 377.2113 241.5646, 378.6933 242.7674, 380.2388 243.8876, 381.8429 244.9219, 383.5011 245.8672, 385.2084 246.7208, 386.9596 247.48, 388.7496 248.1426, 390.5731 248.7066, 392.4246 249.1704, 394.2987 249.5325, 396.1897 249.792, 398.092 249.948, 400 250, 401.908 249.948, 403.8103 249.792, 405.7013 249.5325, 407.5754 249.1704, 409.4269 248.7066, 411.2504 248.1426, 413.0404 247.48, 414.7916 246.7208, 416.4989 245.8672, 418.1571 244.9219, 419.7612 243.8876, 421.3067 242.7674, 422.7887 241.5646, 424.203 240.2827, 425.5452 238.9257, 426.8116 237.4976, 432.1739 241.9971, 429.1305 225.6026, 415.3209 227.8558, 420.6832 232.3553, 419.7063 233.457, 418.6709 234.5038, 417.5798 235.4927, 416.4366 236.4205, 415.2444 237.2847, 414.0069 238.0826, 412.7277 238.8119, 411.4107 239.4703, 410.0597 240.056, 408.6789 240.5671, 407.2722 241.0022, 405.8439 241.36, 404.3982 241.6394, 402.9394 241.8395, 401.4719 241.9599, 400 242, 398.5281 241.9599, 397.0606 241.8395, 395.6018 241.6394, 394.1561 241.36, 392.7278 241.0022, 391.3211 240.5671, 389.9403 240.056, 388.5893 239.4703, 387.2723 238.8119, 385.9931 238.0826, 384.7556 237.2847, 383.5634 236.4205, 382.4202 235.4927, 381.3291 234.5038, 380.2937 233.457, 379.3168 232.3553, 378.4014 231.2019, 377.5503 230.0004, 376.766 228.7543, 376.0507 227.4672, 375.4067 226.1431, 374.8358 224.7858, 374.3397 223.3995, 373.92 221.9881" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+			<polygon points="433.8074 205.9413, 433.2633 204.1118, 432.6203 202.3147, 431.8802 200.5553, 431.0454 198.8388, 430.1182 197.1704, 429.1014 195.555, 427.9981 193.9975, 426.8116 192.5024, 425.5452 191.0743, 424.203 189.7173, 422.7887 188.4354, 421.3067 187.2326, 419.7612 186.1124, 418.1571 185.0781, 416.4989 184.1328, 414.7916 183.2792, 413.0404 182.52, 411.2504 181.8574, 409.4269 181.2934, 407.5754 180.8296, 405.7013 180.4675, 403.8103 180.208, 401.908 180.052, 400 180, 398.092 180.052, 396.1897 180.208, 394.2987 180.4675, 392.4246 180.8296, 390.5731 181.2934, 388.7496 181.8574, 386.9596 182.52, 385.2084 183.2792, 383.5011 184.1328, 381.8429 185.0781, 380.2388 186.1124, 378.6933 187.2326, 377.2113 188.4354, 375.797 189.7173, 374.4548 191.0743, 373.1884 192.5024, 367.8261 188.0029, 370.8695 204.3974, 384.6791 202.1442, 379.3168 197.6447, 380.2937 196.543, 381.3291 195.4962, 382.4202 194.5073, 383.5634 193.5795, 384.7556 192.7153, 385.9931 191.9174, 387.2723 191.1881, 388.5893 190.5297, 389.9403 189.944, 391.3211 189.4329, 392.7278 188.9978, 394.1561 188.64, 395.6018 188.3606, 397.0606 188.1605, 398.5281 188.0401, 400 188, 401.4719 188.0401, 402.9394 188.1605, 404.3982 188.3606, 405.8439 188.64, 407.2722 188.9978, 408.6789 189.4329, 410.0597 189.944, 411.4107 190.5297, 412.7277 191.1881, 414.0069 191.9174, 415.2444 192.7153, 416.4366 193.5795, 417.5798 194.5073, 418.6709 195.4962, 419.7063 196.543, 420.6832 197.6447, 421.5986 198.7981, 422.4497 199.9996, 423.234 201.2457, 423.9493 202.5328, 424.5933 203.8569, 425.1642 205.2142, 425.6603 206.6005, 426.08 208.0119" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+			<text x="358.2905029296875" y="159" style="font-family: Bold; font-size: 14.3px;fill: rgb(15%,20%,23%); stroke:none;" transform="translate(0,318) scale(1,-1)">Co-Evolving</text>
+			<g transform=" matrix(1,0,0,1,90,0)">
+				<rect x="403" y="193" width="453" height="181" rx="5" ry="5" style="stroke: rgb(57%,62%,65%); stroke-linecap: butt; stroke-width: 1.3; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<rect x="415" y="362" width="136" height="23" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="420" y="368" style="font-family: Bold; font-size: 17.6px;fill: rgb(15%,20%,23%); stroke:none;" transform="translate(0,736) scale(1,-1)">Expert-Failure</text>
+				<rect x="800" y="365" width="56" height="20" rx="4" ry="4" style="stroke: rgb(57%,62%,65%); stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,87%,89%); fill-rule: evenodd;"/>
+				<text x="811.31416015625" y="370.5" style="font-family: Bold; font-size: 15.400000000000002px;fill: rgb(15%,20%,23%); stroke:none;" transform="translate(0,741) scale(1,-1)">DPO</text>
+				<text x="420" y="327" style="font-family: Regular; font-size: 17.6px;fill: rgb(15%,36%,52%); stroke:none;" transform="translate(0,654) scale(1,-1)">Target Agent</text>
+				<path d="M 420,313 L 532,313 Z" style="stroke: rgb(80%,82%,84%); stroke-linecap: butt; stroke-width: 1.3;"/>
+				<path d="M 420,313 L 464.8,313 Z" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<circle cx="420.0" cy="313" r="4.1" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+				<circle cx="442.4" cy="313" r="4.1" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+				<rect x="460.2" y="308.40000000000003" width="9.199999999999989" height="9.199999999999989" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<path d="M 461.5,316.3 L 468.1,309.7 Z" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.7;"/>
+				<path d="M 461.5,309.7 L 468.1,316.3 Z" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.7;"/>
+				<circle cx="487.2" cy="313" r="4.1" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(80%,82%,84%); fill-rule: evenodd;"/>
+				<circle cx="509.6" cy="313" r="4.1" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(80%,82%,84%); fill-rule: evenodd;"/>
+				<circle cx="532.0" cy="313" r="4.1" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(80%,82%,84%); fill-rule: evenodd;"/>
+				<text x="555" y="309" style="font-family: Regular; font-size: 16.5px;fill: rgb(15%,36%,52%); stroke:none;" transform="translate(0,618) scale(1,-1)">Fail</text>
+				<rect x="420" y="294" width="162" height="6" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+				<rect x="420" y="294" width="48.60000000000002" height="6" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+				<text x="628.9337890625" y="306" style="font-family: Regular; font-size: 24.200000000000003px;fill: rgb(15%,20%,23%); stroke:none;" transform="translate(0,612) scale(1,-1)">&lt;</text>
+				<text x="672" y="327" style="font-family: Regular; font-size: 17.6px;fill: rgb(44%,37%,54%); stroke:none;" transform="translate(0,654) scale(1,-1)">Expert</text>
+				<path d="M 672,313 L 758,313 Z" style="stroke: rgb(80%,82%,84%); stroke-linecap: butt; stroke-width: 1.3;"/>
+				<path d="M 672,313 L 758,313 Z" style="stroke: rgb(44%,37%,54%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<polygon points="672 316.2, 675.2 313, 672 309.8, 668.8 313" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,37%,54%); fill-rule: evenodd;"/>
+				<polygon points="689.2 316.2, 692.4 313, 689.2 309.8, 686 313" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,37%,54%); fill-rule: evenodd;"/>
+				<polygon points="706.4 316.2, 709.6 313, 706.4 309.8, 703.2 313" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,37%,54%); fill-rule: evenodd;"/>
+				<polygon points="723.6 316.2, 726.8 313, 723.6 309.8, 720.4 313" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,37%,54%); fill-rule: evenodd;"/>
+				<polygon points="740.8 316.2, 744 313, 740.8 309.8, 737.6 313" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,37%,54%); fill-rule: evenodd;"/>
+				<polygon points="758 316.2, 761.2 313, 758 309.8, 754.8 313" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,37%,54%); fill-rule: evenodd;"/>
+				<path d="M 767 313 L 770 309 L 777 318 " style="stroke: rgb(44%,37%,54%); stroke-linecap: butt; stroke-width: 1.8; fill: none; fill-rule: evenodd;"/>
+				<text x="781" y="309" style="font-family: Regular; font-size: 16.5px;fill: rgb(44%,37%,54%); stroke:none;" transform="translate(0,618) scale(1,-1)">Success</text>
+				<rect x="672" y="294" width="163" height="6" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+				<rect x="672" y="294" width="163" height="6" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,37%,54%); fill-rule: evenodd;"/>
+				<text x="420" y="234" style="font-family: Regular; font-size: 17.6px;fill: rgb(70%,33%,25%); stroke:none;" transform="translate(0,468) scale(1,-1)">Failure Agent</text>
+				<path d="M 420,220 L 532,220 Z" style="stroke: rgb(80%,82%,84%); stroke-linecap: butt; stroke-width: 1.3;"/>
+				<path d="M 420,220 L 509.6,220 Z" style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<rect x="416.2" y="216.20000000000002" width="7.600000000000023" height="7.599999999999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+				<rect x="438.59999999999997" y="216.20000000000002" width="7.600000000000023" height="7.599999999999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+				<rect x="461.0" y="216.20000000000002" width="7.600000000000023" height="7.599999999999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+				<rect x="483.4" y="216.20000000000002" width="7.600000000000023" height="7.599999999999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+				<rect x="505.0" y="215.4" width="9.200000000000045" height="9.199999999999989" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<path d="M 506.3,223.3 L 512.9,216.7 Z" style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.7;"/>
+				<path d="M 506.3,216.7 L 512.9,223.3 Z" style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.7;"/>
+				<rect x="528.2" y="216.20000000000002" width="7.600000000000023" height="7.599999999999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(80%,82%,84%); fill-rule: evenodd;"/>
+				<text x="555" y="216" style="font-family: Regular; font-size: 16.5px;fill: rgb(70%,33%,25%); stroke:none;" transform="translate(0,432) scale(1,-1)">Fail</text>
+				<rect x="420" y="201" width="162" height="6" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+				<rect x="420" y="201" width="132.84000000000003" height="6" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+				<text x="628.9337890625" y="213" style="font-family: Regular; font-size: 24.200000000000003px;fill: rgb(15%,20%,23%); stroke:none;" transform="translate(0,426) scale(1,-1)">&lt;</text>
+				<text x="672" y="234" style="font-family: Regular; font-size: 17.6px;fill: rgb(44%,37%,54%); stroke:none;" transform="translate(0,468) scale(1,-1)">Expert</text>
+				<path d="M 672,220 L 758,220 Z" style="stroke: rgb(80%,82%,84%); stroke-linecap: butt; stroke-width: 1.3;"/>
+				<path d="M 672,220 L 758,220 Z" style="stroke: rgb(44%,37%,54%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<polygon points="672 223.2, 675.2 220, 672 216.8, 668.8 220" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,37%,54%); fill-rule: evenodd;"/>
+				<polygon points="689.2 223.2, 692.4 220, 689.2 216.8, 686 220" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,37%,54%); fill-rule: evenodd;"/>
+				<polygon points="706.4 223.2, 709.6 220, 706.4 216.8, 703.2 220" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,37%,54%); fill-rule: evenodd;"/>
+				<polygon points="723.6 223.2, 726.8 220, 723.6 216.8, 720.4 220" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,37%,54%); fill-rule: evenodd;"/>
+				<polygon points="740.8 223.2, 744 220, 740.8 216.8, 737.6 220" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,37%,54%); fill-rule: evenodd;"/>
+				<polygon points="758 223.2, 761.2 220, 758 216.8, 754.8 220" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,37%,54%); fill-rule: evenodd;"/>
+				<path d="M 767 220 L 770 216 L 777 225 " style="stroke: rgb(44%,37%,54%); stroke-linecap: butt; stroke-width: 1.8; fill: none; fill-rule: evenodd;"/>
+				<text x="781" y="216" style="font-family: Regular; font-size: 16.5px;fill: rgb(44%,37%,54%); stroke:none;" transform="translate(0,432) scale(1,-1)">Success</text>
+				<rect x="672" y="201" width="163" height="6" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+				<rect x="672" y="201" width="163" height="6" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(44%,37%,54%); fill-rule: evenodd;"/>
+				<rect x="403" y="50" width="453" height="110" rx="5" ry="5" style="stroke: rgb(57%,62%,65%); stroke-linecap: butt; stroke-width: 1.3; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<rect x="415" y="148" width="136" height="23" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="420" y="154" style="font-family: Bold; font-size: 17.6px;fill: rgb(15%,20%,23%); stroke:none;" transform="translate(0,308) scale(1,-1)">Failure-Failure</text>
+				<rect x="800" y="151" width="56" height="20" rx="4" ry="4" style="stroke: rgb(57%,62%,65%); stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,87%,89%); fill-rule: evenodd;"/>
+				<text x="811.31416015625" y="156.5" style="font-family: Bold; font-size: 15.400000000000002px;fill: rgb(15%,20%,23%); stroke:none;" transform="translate(0,313) scale(1,-1)">DPO</text>
+				<text x="420" y="102" style="font-family: Regular; font-size: 17.6px;fill: rgb(15%,36%,52%); stroke:none;" transform="translate(0,204) scale(1,-1)">Target Agent</text>
+				<path d="M 420,88 L 532,88 Z" style="stroke: rgb(80%,82%,84%); stroke-linecap: butt; stroke-width: 1.3;"/>
+				<path d="M 420,88 L 464.8,88 Z" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<circle cx="420.0" cy="88" r="4.1" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+				<circle cx="442.4" cy="88" r="4.1" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+				<rect x="460.2" y="83.40000000000002" width="9.199999999999989" height="9.200000000000003" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<path d="M 461.5,91.3 L 468.1,84.7 Z" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.7;"/>
+				<path d="M 461.5,84.7 L 468.1,91.3 Z" style="stroke: rgb(15%,36%,52%); stroke-linecap: butt; stroke-width: 1.7;"/>
+				<circle cx="487.2" cy="88" r="4.1" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(80%,82%,84%); fill-rule: evenodd;"/>
+				<circle cx="509.6" cy="88" r="4.1" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(80%,82%,84%); fill-rule: evenodd;"/>
+				<circle cx="532.0" cy="88" r="4.1" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(80%,82%,84%); fill-rule: evenodd;"/>
+				<text x="555" y="84" style="font-family: Regular; font-size: 16.5px;fill: rgb(15%,36%,52%); stroke:none;" transform="translate(0,168) scale(1,-1)">Fail</text>
+				<rect x="420" y="69" width="162" height="6" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+				<rect x="420" y="69" width="48.60000000000002" height="6" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,36%,52%); fill-rule: evenodd;"/>
+				<text x="628.9337890625" y="81" style="font-family: Regular; font-size: 24.200000000000003px;fill: rgb(15%,20%,23%); stroke:none;" transform="translate(0,162) scale(1,-1)">&lt;</text>
+				<text x="672" y="102" style="font-family: Regular; font-size: 17.6px;fill: rgb(70%,33%,25%); stroke:none;" transform="translate(0,204) scale(1,-1)">Failure Agent</text>
+				<path d="M 672,88 L 785,88 Z" style="stroke: rgb(80%,82%,84%); stroke-linecap: butt; stroke-width: 1.3;"/>
+				<path d="M 672,88 L 762.4,88 Z" style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<rect x="668.2" y="84.20000000000002" width="7.600000000000023" height="7.599999999999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+				<rect x="690.8000000000001" y="84.20000000000002" width="7.600000000000023" height="7.599999999999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+				<rect x="713.4000000000001" y="84.20000000000002" width="7.600000000000023" height="7.599999999999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+				<rect x="736.0" y="84.20000000000002" width="7.600000000000023" height="7.599999999999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+				<rect x="757.8" y="83.40000000000002" width="9.200000000000045" height="9.200000000000003" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<path d="M 759.1,91.3 L 765.7,84.7 Z" style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.7;"/>
+				<path d="M 759.1,84.7 L 765.7,91.3 Z" style="stroke: rgb(70%,33%,25%); stroke-linecap: butt; stroke-width: 1.7;"/>
+				<rect x="781.2" y="84.20000000000002" width="7.600000000000023" height="7.599999999999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(80%,82%,84%); fill-rule: evenodd;"/>
+				<text x="808" y="84" style="font-family: Regular; font-size: 16.5px;fill: rgb(70%,33%,25%); stroke:none;" transform="translate(0,168) scale(1,-1)">Fail</text>
+				<rect x="672" y="69" width="163" height="6" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+				<rect x="672" y="69" width="133.65999999999997" height="6" rx="2" ry="2" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(70%,33%,25%); fill-rule: evenodd;"/>
+				<g transform=" matrix(0.95,0,-0,0.95,536.4,266)">
+					<rect x="-48" y="-10" width="96" height="20" rx="4" ry="4" style="stroke: rgb(61%,45%,17%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(89%,70%,32%); fill-rule: evenodd;"/>
+					<text x="-45.39111328125" y="-3.5" style="font-family: Bold; font-size: 13.5px;fill: rgb(22%,17%,9%); stroke:none;" transform="translate(0,-7) scale(1,-1)">Hard Negative</text>
+				</g>
+				<g transform=" matrix(0.95,0,-0,0.95,789.4,132)">
+					<rect x="-48" y="-10" width="96" height="20" rx="4" ry="4" style="stroke: rgb(61%,45%,17%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(89%,70%,32%); fill-rule: evenodd;"/>
+					<text x="-45.39111328125" y="-3.5" style="font-family: Bold; font-size: 13.5px;fill: rgb(22%,17%,9%); stroke:none;" transform="translate(0,-7) scale(1,-1)">Hard Negative</text>
+				</g>
+			</g>
+			<g transform=" matrix(0.95,0,-0,0.95,250.4,152)">
+				<rect x="-48" y="-10" width="96" height="20" rx="4" ry="4" style="stroke: rgb(61%,45%,17%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(89%,70%,32%); fill-rule: evenodd;"/>
+				<text x="-45.39111328125" y="-3.5" style="font-family: Bold; font-size: 13.5px;fill: rgb(22%,17%,9%); stroke:none;" transform="translate(0,-7) scale(1,-1)">Hard Negative</text>
+			</g>
+		</g>
+	</g>
+</svg>

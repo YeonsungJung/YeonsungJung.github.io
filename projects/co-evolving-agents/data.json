@@ -1,0 +1,375 @@
+{
+  "title": "Co-Evolving Agents: Learning from Failures as Hard Negatives",
+  "source": "https://arxiv.org/html/2511.22254v5",
+  "models": [
+    {
+      "name": "Qwen3-4B",
+      "fullName": "Qwen3-4B-Instruct-2507",
+      "icon": "qwen-color"
+    },
+    {
+      "name": "Qwen3.5-9B",
+      "fullName": "Qwen3.5-9B",
+      "icon": "qwen-color"
+    },
+    {
+      "name": "Gemma-4-12B-it",
+      "fullName": "Gemma-4-12B-it",
+      "icon": "gemma-color"
+    }
+  ],
+  "columns": [
+    "WebShop",
+    "ScienceWorld \u00b7 Seen",
+    "ScienceWorld \u00b7 Unseen",
+    "InterCodeSQL",
+    "Average"
+  ],
+  "main": [
+    {
+      "model": "Qwen3-4B",
+      "method": "SFT",
+      "values": [
+        66.0,
+        83.3,
+        67.9,
+        58.1,
+        68.83
+      ]
+    },
+    {
+      "model": "Qwen3-4B",
+      "method": "ETO",
+      "values": [
+        72.9,
+        80.7,
+        83.1,
+        60.7,
+        74.35
+      ]
+    },
+    {
+      "model": "Qwen3-4B",
+      "method": "Ours",
+      "values": [
+        74.1,
+        87.6,
+        88.3,
+        63.0,
+        78.25
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B",
+      "method": "SFT",
+      "values": [
+        55.15,
+        79.24,
+        73.8,
+        68.59,
+        69.2
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B",
+      "method": "Agent-R",
+      "values": [
+        55.24,
+        69.68,
+        56.66,
+        65.31,
+        61.72
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B",
+      "method": "RFT",
+      "values": [
+        56.41,
+        80.0,
+        74.57,
+        69.57,
+        70.14
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B",
+      "method": "ETO",
+      "values": [
+        68.06,
+        80.47,
+        75.4,
+        68.94,
+        73.22
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B",
+      "method": "Ours",
+      "values": [
+        71.3,
+        88.6,
+        84.72,
+        70.63,
+        78.81
+      ]
+    },
+    {
+      "model": "Gemma-4-12B-it",
+      "method": "SFT",
+      "values": [
+        71.1,
+        70.71,
+        64.96,
+        66.77,
+        68.39
+      ]
+    },
+    {
+      "model": "Gemma-4-12B-it",
+      "method": "Agent-R",
+      "values": [
+        69.7,
+        70.21,
+        65.19,
+        67.32,
+        68.1
+      ]
+    },
+    {
+      "model": "Gemma-4-12B-it",
+      "method": "RFT",
+      "values": [
+        72.22,
+        77.25,
+        73.29,
+        70.82,
+        73.4
+      ]
+    },
+    {
+      "model": "Gemma-4-12B-it",
+      "method": "ETO",
+      "values": [
+        71.67,
+        77.11,
+        69.59,
+        70.36,
+        72.18
+      ]
+    },
+    {
+      "model": "Gemma-4-12B-it",
+      "method": "Ours",
+      "values": [
+        73.49,
+        87.55,
+        84.42,
+        73.38,
+        79.71
+      ]
+    }
+  ],
+  "sampling": [
+    {
+      "model": "Qwen3.5-9B",
+      "method": "ETO",
+      "values": [
+        68.06,
+        80.47,
+        75.4,
+        68.94,
+        73.22
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B",
+      "method": "SRLM",
+      "values": [
+        54.09,
+        78.11,
+        74.09,
+        66.34,
+        68.16
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B",
+      "method": "Best-of-N",
+      "values": [
+        71.14,
+        82.87,
+        75.94,
+        65.02,
+        73.74
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B",
+      "method": "Ours",
+      "values": [
+        71.3,
+        88.6,
+        84.72,
+        70.63,
+        78.81
+      ]
+    },
+    {
+      "model": "Gemma-4-12B-it",
+      "method": "ETO",
+      "values": [
+        71.67,
+        77.11,
+        69.59,
+        70.36,
+        72.18
+      ]
+    },
+    {
+      "model": "Gemma-4-12B-it",
+      "method": "SRLM",
+      "values": [
+        72.27,
+        72.93,
+        68.52,
+        71.75,
+        71.37
+      ]
+    },
+    {
+      "model": "Gemma-4-12B-it",
+      "method": "Best-of-N",
+      "values": [
+        71.44,
+        80.72,
+        72.64,
+        71.05,
+        73.96
+      ]
+    },
+    {
+      "model": "Gemma-4-12B-it",
+      "method": "Ours",
+      "values": [
+        73.49,
+        87.55,
+        84.42,
+        73.38,
+        79.71
+      ]
+    }
+  ],
+  "ablations": [
+    {
+      "model": "Qwen3.5-9B",
+      "method": "SFT",
+      "values": [
+        55.15,
+        79.24,
+        73.8,
+        68.59,
+        69.2
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B",
+      "method": "ETO",
+      "values": [
+        68.06,
+        80.47,
+        75.4,
+        68.94,
+        73.22
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B",
+      "method": "Ours",
+      "values": [
+        71.3,
+        88.6,
+        84.72,
+        70.63,
+        78.81
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B",
+      "method": "w/o Co-Evolution",
+      "values": [
+        71.1,
+        87.05,
+        79.52,
+        70.27,
+        76.99
+      ]
+    },
+    {
+      "model": "Qwen3.5-9B",
+      "method": "w/o Failure Agent",
+      "values": [
+        70.93,
+        68.62,
+        63.03,
+        68.71,
+        67.82
+      ]
+    },
+    {
+      "model": "Gemma-4-12B-it",
+      "method": "SFT",
+      "values": [
+        71.1,
+        70.71,
+        64.96,
+        66.77,
+        68.39
+      ]
+    },
+    {
+      "model": "Gemma-4-12B-it",
+      "method": "ETO",
+      "values": [
+        71.67,
+        77.11,
+        69.59,
+        70.36,
+        72.18
+      ]
+    },
+    {
+      "model": "Gemma-4-12B-it",
+      "method": "Ours",
+      "values": [
+        73.49,
+        87.55,
+        84.42,
+        73.38,
+        79.71
+      ]
+    },
+    {
+      "model": "Gemma-4-12B-it",
+      "method": "w/o Co-Evolution",
+      "values": [
+        73.21,
+        81.29,
+        76.43,
+        71.84,
+        75.69
+      ]
+    },
+    {
+      "model": "Gemma-4-12B-it",
+      "method": "w/o Failure Agent",
+      "values": [
+        72.99,
+        77.33,
+        72.52,
+        71.38,
+        73.56
+      ]
+    }
+  ]
+}
