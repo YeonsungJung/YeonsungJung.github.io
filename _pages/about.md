@@ -136,7 +136,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 - Research Scientist Intern, **Meta Superintelligence Labs**, Menlo Park (Jun 2026–Nov 2026)
   - Agentic red-teaming for multi-service ecosystems.
 
-- Postdoctoral Researcher, **Machine Learning and Intelligence Lab, KAIST**, Daejeon, South Korea (Mar 2026–May 2026)
+- Postdoctoral Researcher, **KAIST**, Seoul, South Korea (Mar 2026–May 2026)
 
 - External Collaborator, **NAVER AI**, Seongnam, South Korea (Sep 2023–Feb 2024)
   - Robust learning for neural radiance fields; *PruNeRF* (ICML 2024).
