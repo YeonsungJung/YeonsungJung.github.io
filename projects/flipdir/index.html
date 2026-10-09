@@ -10,20 +10,59 @@ section{scroll-margin-top:58px}.section{padding:34px 0}.band{background:var(--pa
 @media(max-width:900px){.navlinks{display:none}.method-body,.benchmark-grid,.paper{grid-template-columns:1fr}.idea{grid-template-columns:1fr}.idea-title{border-right:0;border-bottom:1px solid var(--line)}.idea-flow{grid-template-columns:1fr}.idea-step+.idea-step{border-left:0;border-top:1px solid var(--line)}.idea-step:not(:last-child):after{content:"↓";right:18px}.copy{border-right:0;border-bottom:1px solid var(--line);min-height:270px}.tabs{display:flex;overflow:auto}.tab{min-width:190px}.benchmark-grid{display:flex;flex-direction:column}.benchmark-figure{order:1}.benchmark-copy{order:2;width:100%}}
 @media(max-width:580px){.wrap{width:calc(100% - 28px)}.hero{padding-top:26px}.title{font-size:2.1rem}.authors{font-size:.88rem}.affils{font-size:.75rem}.section{padding:26px 0}.observation{grid-template-columns:1fr}.observation>div+div{border-left:0;border-top:1px solid var(--line)}.method-visual{min-height:300px}.calc-scene{padding:5px}.resultbox{padding:16px 12px}.result-chart-head{display:block}.legend{margin-top:8px}.legend i:first-child{margin-left:0}.axis{margin-left:88px;margin-right:74px}.row{grid-template-columns:80px 1fr 70px;gap:7px}.result-summary{grid-template-columns:1fr}.result-summary div{padding:13px 4px}.result-summary div+div{border-left:0;border-top:1px solid var(--line)}.footer{display:block}.paper pre{font-size:10.5px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.calc-scene,.calc-scene *{transition:none!important;animation:none!important}}
-</style><link rel="stylesheet" href="research-method.css?v=20261008-2"><link rel="stylesheet" href="example.css?v=20261008-3"><link rel="stylesheet" href="results-grid.css?v=20261008-2"></head><body>
+</style><link rel="stylesheet" href="research-method.css?v=20261008-2"><link rel="stylesheet" href="example.css?v=20261008-9"><link rel="stylesheet" href="results-grid.css?v=20261008-2"></head><body>
 <nav class="nav"><div class="wrap navin"><a class="brand" href="#top"><span>Flip</span>Dir</a><div class="navlinks"><a href="#example">Answer flip</a><a href="#method">Method</a><a href="#benchmark">VISFLIP</a><a href="#results">Results</a><a href="#paper">Citation</a></div></div></nav><main id="top">
 <header class="hero wrap"><h1 class="title">Looks the Same, Answers Differently:<br><span>Flip-Direction Steering for Robust Vision-Language Reasoning</span></h1><p class="authors"><a href="#affiliations">Yeonsung Jung<sup>1</sup></a> · <a href="#affiliations">Joonhyun Jeong<sup>1,2</sup></a> · <a href="#affiliations">Hoang Pham<sup>3,4</sup></a> · <a href="#affiliations">Joowon Kim<sup>1</sup></a> · <a href="#affiliations">Yoonsik Park<sup>1</sup></a> · <a href="#affiliations">Viet Dac Lai<sup>5,†</sup></a> · <a href="#affiliations">Eunho Yang<sup>1,6,†</sup></a></p><p class="affils" id="affiliations"><sup>1</sup><a href="https://gsai.kaist.ac.kr/" target="_blank" rel="noreferrer">Graduate School of AI, KAIST</a> · <sup>2</sup><a href="https://www.ncloud.com/" target="_blank" rel="noreferrer">NAVER Cloud</a> · <sup>3</sup><a href="https://cse.osu.edu/" target="_blank" rel="noreferrer">Department of Computer Science and Engineering, The Ohio State University</a> · <sup>4</sup><a href="https://bmi.osu.edu/" target="_blank" rel="noreferrer">Department of Biomedical Informatics, The Ohio State University</a> · <sup>5</sup><a href="https://research.adobe.com/" target="_blank" rel="noreferrer">Adobe Research</a> · <sup>6</sup><a href="https://www.aitrics.com/" target="_blank" rel="noreferrer">AITRICS</a></p><p class="note"><sup>†</sup>Co-corresponding authors</p><div class="buttons"><a class="btn dark" href="https://arxiv.org/pdf/2609.28851" target="_blank" rel="noreferrer">Paper (PDF)</a><a class="btn" href="https://huggingface.co/datasets/ysjung77/flipdir-bench" target="_blank" rel="noreferrer">VISFLIP dataset</a><span class="btn off">Code · coming soon</span></div><div class="rule"></div></header>
 
 <section class="wrap section" id="example">
-<div class="example-heading"><span class="eyebrow">The problem</span><h2>Looks the same. Reasons differently.</h2><p>A subtle exposure shift can introduce a semantically similar intermediate token; the small difference can accumulate and alter the final answer.</p></div>
+<div class="example-heading"><span class="eyebrow">The problem</span><h2>Looks the same. Reasons differently.</h2><p>Watch a near-equivalent token choice compound into different reasoning and a different final answer.</p></div>
 <div class="answer-example"><div class="example-question"><span>Same question</span><p>The robot has released the can and moved away with an open gripper.<br> <strong>What is its next action?</strong></p></div>
 <div class="example-compare"><div class="example-images"><figure><figcaption><b>Original image</b><span>Original generation</span></figcaption><img src="assets/can-original.png" width="520" height="416" alt="Original robot scene with a released can"></figure><figure><figcaption><b>Exposure shift</b><span>Varied generation</span></figcaption><img src="assets/can-exposure.png" width="520" height="416" alt="Same robot scene after a subtle exposure shift"></figure></div>
-<div class="example-trace"><div class="example-trace-head"><span>Generation</span><span class="clean-text">Original</span><span class="shift-text">Exposure shift</span></div>
-<div class="example-trace-row shared-row" data-step="01"><b>Shared reasoning</b><p>“The robot has just moved away with an open gripper after releasing the can. This implies the can is now on the table, and the robot is free to perform …”</p></div>
-<div class="example-trace-row" data-step="02"><b>First difference</b><p>“… perform <mark class="clean-mark">a</mark> new task.”</p><p>“… perform <mark class="shift-mark">another</mark> task.”</p></div>
-<div class="example-trace-row" data-step="03"><b>Next-action reasoning</b><p>“The robot typically needs to reorient itself, sense its environment, or <strong>move to the next target object</strong>.”</p><p>“Since the gripper is open, it is <strong>ready to grasp a new object</strong> if one is needed.”</p></div>
-<div class="example-trace-row" data-step="04"><b>Choice (E)</b><p>“This is <strong>also not the next step</strong>, as the robot has just released the can and moved away.”</p><p>“This is <strong>a logical next step</strong> if the robot is going to pick up something else.”</p></div>
-<div class="example-trace-row final-row" data-step="05"><b>Final answer</b><p><strong class="answer-letter clean-text">A</strong><span>Approach the can with<br> an open gripper.</span></p><p><strong class="answer-letter shift-text">E</strong><span>Close the gripper<br> to grasp the can.</span></p></div></div></div>
+<div class="trajectory-player" data-trajectory-player>
+  <div class="trajectory-toolbar">
+    <div class="trajectory-phase"><span>01</span><b>Same generation</b></div>
+    <button class="trajectory-toggle" type="button" aria-label="Pause generation animation"><span aria-hidden="true">Ⅱ</span> Pause</button>
+  </div>
+  <div class="trajectory-stage">
+    <div class="trajectory-head" aria-hidden="true"><span>Generated reasoning</span><b class="clean-text">Original</b><b class="shift-text">Exposure shift</b></div>
+    <div class="trajectory-prefix">
+      <span class="trajectory-kicker">Same prefix</span>
+      <p class="token-stream" data-reveal-phase="0" data-reveal-text="The robot has just moved away with an open gripper after releasing the can. This implies the can is now on the table, and the robot is free to perform" aria-label="The robot has just moved away with an open gripper after releasing the can. This implies the can is now on the table, and the robot is free to perform"></p>
+    </div>
+    <div class="trajectory-fork" aria-label="The generations first diverge at a versus another.">
+      <div class="fork-rule"><i></i><i></i></div>
+      <div class="fork-label"><span>First token divergence</span><small>semantically similar</small></div>
+      <div class="fork-tokens"><strong class="clean-token">a</strong><strong class="shift-token">another</strong></div>
+    </div>
+    <div class="trajectory-branches">
+      <article class="trajectory-branch clean-branch">
+        <header><span>Original</span><i></i></header>
+        <p class="token-stream branch-stream" data-reveal-phase="2" data-reveal-text="new task. The robot typically needs to reorient itself, sense its environment, or" aria-label="new task. The robot typically needs to reorient itself, sense its environment, or"></p>
+        <strong class="semantic-phrase">move to the next target object</strong>
+        <p class="branch-judgment">Choice (E) is <b>not the next step.</b></p>
+      </article>
+      <article class="trajectory-branch shift-branch">
+        <header><span>Exposure shift</span><i></i></header>
+        <p class="token-stream branch-stream" data-reveal-phase="2" data-reveal-text="task. Since the gripper is open, it is" aria-label="task. Since the gripper is open, it is"></p>
+        <strong class="semantic-phrase">ready to grasp a new object</strong>
+        <p class="branch-judgment">Choice (E) becomes <b>a logical next step.</b></p>
+      </article>
+      <div class="semantic-callout"><span>Reasoning diverges</span><small>The early wording remains plausible; the implied action no longer matches.</small></div>
+    </div>
+    <div class="trajectory-answers">
+      <span class="answer-flip-label">Answer flip</span>
+      <article class="clean-answer"><strong>A</strong><p>Approach the can with an open gripper.</p></article>
+      <article class="shift-answer"><strong>E</strong><p>Close the gripper to grasp the can.</p></article>
+    </div>
+  </div>
+  <div class="trajectory-timeline" aria-label="Animation stages">
+    <button type="button" data-go-phase="0" class="active"><i></i><span>Same prefix</span></button>
+    <button type="button" data-go-phase="1"><i></i><span>Token shifts</span></button>
+    <button type="button" data-go-phase="2"><i></i><span>Paths grow</span></button>
+    <button type="button" data-go-phase="3"><i></i><span>Meaning splits</span></button>
+    <button type="button" data-go-phase="4"><i></i><span>Answer flips</span></button>
+  </div>
+</div></div>
 <p class="example-source">Robo2VLM · Qwen3-VL-8B · Verified excerpts from the shared prefix through the final action.</p></div>
 </section>
 <section class="band" id="method"><div class="wrap section"><div class="head"><div><span class="eyebrow">How FlipDir works</span><h2>Estimate flip directions. Steer uncertain steps.</h2></div><p>Estimate a compact subspace offline, then use it only at low-margin decoding steps.</p></div>
@@ -180,4 +219,4 @@ section{scroll-margin-top:58px}.section{padding:34px 0}.band{background:var(--pa
   year={2026}
 }</pre>
 </section><footer class="wrap footer"><span>FlipDir · Research project</span><a href="#top">Back to top</a></footer></main>
-<script src="research-method.js?v=20261008-2"></script><script>document.querySelector('#copy').onclick=async e=>{try{await navigator.clipboard.writeText(document.querySelector('#bib').textContent);e.currentTarget.textContent='Copied';}catch{e.currentTarget.textContent='Select text to copy';}};</script></body></html>
+<script src="example-animation.js?v=20261008-5"></script><script src="research-method.js?v=20261008-2"></script><script>document.querySelector('#copy').onclick=async e=>{try{await navigator.clipboard.writeText(document.querySelector('#bib').textContent);e.currentTarget.textContent='Copied';}catch{e.currentTarget.textContent='Select text to copy';}};</script></body></html>
