@@ -80,13 +80,13 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## Preprints
 <hr>
-- <span class="publication-title" id="paper-x-agentred">X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems</span><br><span style="white-space: nowrap;"><a href="https://arxiv.org/abs/2610.13886" target="_blank" rel="noopener" style="color: #1E90FF">[paper]</a> <a href="/projects/x-agentred/" target="_blank" rel="noopener" style="color: #1E90FF">[project]</a></span> \\
+- <span class="publication-title" id="paper-x-agentred">X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems</span><br><span style="white-space: nowrap;"><a href="https://arxiv.org/pdf/2610.13886" target="_blank" rel="noopener" style="color: #1E90FF">[paper]</a> <a href="/projects/x-agentred/" target="_blank" rel="noopener" style="color: #1E90FF">[project]</a></span> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Zhiyuan Wang, Zifan Wang, Vítor Albiero, Benjamin Newman, Edoardo Debenedetti, Ivan Evtimov, Ninareh Mehrabi </span> <br>
 
-- <span class="publication-title" id="paper-flipdir">Looks the Same, Answers Differently: Flip-Direction Steering for Robust Vision-Language Reasoning</span> <a href="/pdfs/flipdir.pdf" target="_blank" style="color: #1E90FF">[paper]</a> <a href="/projects/flipdir/" target="_blank" rel="noopener" style="color: #1E90FF">[project]</a> \\
+- <span class="publication-title" id="paper-flipdir">Looks the Same, Answers Differently: Flip-Direction Steering for Robust Vision-Language Reasoning</span> <a href="https://arxiv.org/pdf/2609.28851" target="_blank" rel="noopener" style="color: #1E90FF">[paper]</a> <a href="/projects/flipdir/" target="_blank" rel="noopener" style="color: #1E90FF">[project]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Joonhyun Jeong, Hoang Pham, Joowon Kim, Yoonsik Park, Viet Dac Lai†, Eunho Yang† </span> <br>
 
-- <span class="publication-title" id="paper-co-evolving-agents">Co-Evolving Agents: Learning from Failures as Hard Negatives</span> <a href="https://www.arxiv.org/pdf/2511.22254" target="_blank" style="color: #1E90FF">[paper]</a> <a href="/projects/co-evolving-agents/" target="_blank" rel="noopener" style="color: #1E90FF">[project]</a> \\
+- <span class="publication-title" id="paper-co-evolving-agents">Co-Evolving Agents: Learning from Failures as Hard Negatives</span> <a href="https://arxiv.org/pdf/2511.22254" target="_blank" rel="noopener" style="color: #1E90FF">[paper]</a> <a href="/projects/co-evolving-agents/" target="_blank" rel="noopener" style="color: #1E90FF">[project]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Trilok Padhi, Sina Shaham, Dipika Khullar, Joonhyun Jeong, Ninareh Mehrabi†, Eunho Yang† </span> <br>
 
 - <span class="publication-title">Web Agents Are Still Greedy: Progress-Aware Action Generation and Selection via Meta-Plan</span> \\

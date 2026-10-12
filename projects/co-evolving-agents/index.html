@@ -19,7 +19,7 @@
 <p class="authors"><span>Yeonsung Jung<sup>1</sup></span> · <span>Trilok Padhi<sup>2</sup></span> · <span>Sina Shaham<sup>3</sup></span> · <span>Dipika Khullar<sup>3</sup></span><br> <span>Joonhyun Jeong<sup>1,4</sup></span> · <span>Ninareh Mehrabi<sup>3,†</sup></span> · <span>Eunho Yang<sup>1,5,†</sup></span></p>
 <p class="affiliations"><span><sup>1</sup> Graduate School of AI, KAIST</span><span><sup>2</sup> Georgia State University</span><span><sup>3</sup> Independent Researcher</span><span><sup>4</sup> NAVER Cloud</span><span><sup>5</sup> AITRICS</span></p>
 <p class="author-note">† Co-corresponding authors</p>
-<div class="hero-actions"><a class="button primary" href="https://arxiv.org/pdf/2511.22254v5" target="_blank" rel="noopener">Paper <span class="button-detail">PDF</span></a><button class="button code-button" disabled>Code <span class="button-detail">Coming soon</span></button></div>
+<div class="hero-actions"><a class="button primary" href="https://arxiv.org/pdf/2511.22254" target="_blank" rel="noopener">Paper <span class="button-detail">PDF</span></a><button class="button code-button" disabled>Code <span class="button-detail">Coming soon</span></button></div>
 </section>
 <section id="idea" class="idea wrap">
 <div class="idea-block problem-block"><p class="eyebrow">The problem</p><div><h2>Easy failures provide limited guidance.</h2><p>An agent’s own failures do not always reveal the subtle mistakes that separate a promising attempt from success.</p></div></div>
@@ -68,14 +68,14 @@
 <div class="score-caption"><p>Darker blue indicates a larger gain. Average gives equal weight to the four evaluation splits; the last row averages the three models.</p><a class="source-link" href="https://arxiv.org/html/2511.22254v5#S4.T2" target="_blank" rel="noopener">Full results · Table 2</a></div>
 <div class="secondary-results"><article><p class="eyebrow">Additional sampling</p><h3>Learned negatives vs.<br> additional sampling</h3><div class="experiment-detail"><p>Both baselines sample four trajectories per instruction.</p><ul class="research-bullets"><li><b>SRLM:</b> builds pairs using self-assigned scores.</li><li><b>Best-of-N:</b> selects the highest environment reward.</li></ul></div><div id="sampling-chart" class="compact-results"></div><p class="finding">Learned hard negatives yield higher average reward than either sampling strategy for both models.</p><a class="source-link" href="https://arxiv.org/html/2511.22254v5#S5.T3" target="_blank" rel="noopener">Table 3 · Mean over four evaluation splits</a></article><article><p class="eyebrow">Component ablations</p><h3>Why a failure agent?<br> Why co-evolution?</h3><div class="experiment-detail"><ul class="research-bullets"><li><b>Positive agent:</b> an extra agent trained toward success.</li><li><b>Frozen failure agent:</b> no further updates after iteration 1.</li></ul></div><div id="ablation-chart" class="compact-results"></div><p class="finding">Ours exceeds both variants. The results support learning to generate failures and updating them as the target improves.</p><a class="source-link" href="https://arxiv.org/html/2511.22254v5#S5.T4" target="_blank" rel="noopener">Table 4 · Mean over four evaluation splits</a></article></div>
 </div></section>
-<section id="citation" class="section wrap citation-section" aria-label="BibTeX citation"><div class="citation"><div><span>BibTeX</span><button id="copy-bib"><i class="icon copy-icon"></i>Copy BibTeX</button></div><pre id="bibtex">@misc{jung2026coevolvingagents,
+<section id="citation" class="section wrap citation-section" aria-label="BibTeX citation"><div class="citation"><div><span>BibTeX</span><button id="copy-bib"><i class="icon copy-icon"></i>Copy BibTeX</button></div><pre id="bibtex">@misc{jung2025coevolvingagents,
   title={Co-Evolving Agents: Learning from
     Failures as Hard Negatives},
   author={Yeonsung Jung and Trilok Padhi and
     Sina Shaham and Dipika Khullar and
     Joonhyun Jeong and Ninareh Mehrabi and
     Eunho Yang},
-  year={2026},
+  year={2025},
   eprint={2511.22254},
   archivePrefix={arXiv},
   primaryClass={cs.AI},
