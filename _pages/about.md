@@ -13,10 +13,10 @@ classes: "about-page"
 I'm currently a Research Scientist Intern at <a href="https://ai.meta.com/" target="_blank" style="color: black; text-decoration: underline;">Meta Superintelligence Labs</a>, where I work on red-teaming personal agents. I received my Ph.D. from the <a href="https://gsai.kaist.ac.kr/" target="_blank" style="color: black;">Graduate School of AI, KAIST</a>, under the supervision of <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a> at the <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">Machine Learning and Intelligence Lab</a>.
 
 ## Research Interests
-My recent research interests center on **personal agents and recursive self-improvement (RSI)**: a self-evolving red-teaming framework for personal agents across multi-service ecosystems, personalized preference memory, self-evolution from long-horizon trajectories, and skill memory for unknown actions and new tasks.
+My recent research interests center on **personal agents** and **recursive self-improvement (RSI)**: how agents can grow more capable through experience while remaining safe and responsive to individual users.
 
-- **Personal Agents:** A self-evolving red-teaming framework across multi-service ecosystems (<a href="#paper-x-agentred" data-scroll-ignore>Preprint’26</a>), and personalized preference memory.
-- **Self-Evolving Agents:** Self-evolution from long-horizon trajectories (<a href="#paper-co-evolving-agents" data-scroll-ignore>Preprint’26</a>), and graph-structured skill memory for discovering unknown actions and learning new tasks in evolving environments.
+- **Personal Agents:** A self-evolving red-teaming framework for personal agents across multi-service ecosystems (<a href="#paper-x-agentred" data-scroll-ignore>Preprint’26</a>), and personalized preference memory.
+- **Self-Evolving Agents:** Self-evolution from long-horizon trajectories (<a href="#paper-co-evolving-agents" data-scroll-ignore>Preprint’26</a>), and graph-structured skill memory for unknown actions and new tasks in evolving environments.
 - **Reliability:** Robust visual reasoning through interpreting and steering vision-language model activations (<a href="#paper-flipdir" data-scroll-ignore>Preprint’26</a>), and robust learning with biased data (<a href="#paper-cdvg" data-scroll-ignore>ICML’23</a>, <a href="#paper-prunerf" data-scroll-ignore>ICML’24</a>, <a href="#paper-self-influence" data-scroll-ignore>NeurIPS’24</a>).
 
 <!---
