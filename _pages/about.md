@@ -13,10 +13,11 @@ classes: "about-page"
 I'm currently a Research Scientist Intern at <a href="https://ai.meta.com/" target="_blank" style="color: black; text-decoration: underline;">Meta Superintelligence Labs</a>, where I work on red-teaming personal agents. I received my Ph.D. from the <a href="https://gsai.kaist.ac.kr/" target="_blank" style="color: black;">Graduate School of AI, KAIST</a>, under the supervision of <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a> at the <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">Machine Learning and Intelligence Lab</a>.
 
 ## Research Interests
-My research focuses on building **reliable self-evolving AI** that learns from its own experience and remains robust and safe in real-world environments.
+My recent research interests center on **personal agents and recursive self-improvement (RSI)**: how agents can grow more capable through experience while remaining safe and responsive to individual users.
 
-- **Self-Evolving Agents:** Learning from own failures through RL (<a href="#paper-co-evolving-agents" data-scroll-ignore>Preprint’26</a>), Graph-structured skill memory for learning unknown actions.
-- **Reliability:** Red-teaming personal agents (<a href="#paper-x-agentred" data-scroll-ignore>Preprint’26</a>), Robust visual reasoning (<a href="#paper-flipdir" data-scroll-ignore>Preprint’26</a>), Robust learning with biased data (<a href="#paper-cdvg" data-scroll-ignore>ICML’23</a>, <a href="#paper-prunerf" data-scroll-ignore>ICML’24</a>, <a href="#paper-self-influence" data-scroll-ignore>NeurIPS’24</a>), Jailbreaking (<a href="#paper-playing-the-fool" data-scroll-ignore>CVPR’25</a>).
+- **Personal-agent safety and memory:** A self-evolving red-teaming framework for agents acting across multiple services (<a href="#paper-x-agentred" data-scroll-ignore>X-AgentRed</a>), and memory for personalized preferences (ongoing).
+- **Agent self-improvement:** Self-evolution from long-horizon trajectories (<a href="#paper-co-evolving-agents" data-scroll-ignore>Co-Evolving Agents</a>), and graph-structured skill memory for discovering unknown actions and learning new tasks in evolving environments.
+- **Robust visual reasoning:** Interpreting and steering vision-language model activations for robust long-horizon visual reasoning (<a href="#paper-flipdir" data-scroll-ignore>FlipDir</a>).
 
 <!---
 Beyond these, I have explored a broad range of topics in **Reliable AI**, **jailbreaking in MLLMs**, **Visual Autoregressive Models**, and **image editing**.
