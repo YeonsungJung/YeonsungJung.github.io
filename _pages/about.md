@@ -10,7 +10,7 @@ redirect_from:
 classes: "about-page"
 ---
 
-I'm currently a Research Scientist Intern at <a href="https://ai.meta.com/" target="_blank" style="color: black; text-decoration: underline;">Meta Superintelligence Labs</a>, where I work on red-teaming personal agents. I received my Ph.D. from the <a href="https://gsai.kaist.ac.kr/" target="_blank" style="color: black;">Graduate School of AI, KAIST</a>, under the supervision of <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a> at the <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">Machine Learning and Intelligence Lab</a>.
+I received my Ph.D. from the <a href="https://gsai.kaist.ac.kr/" target="_blank" style="color: black;">Graduate School of AI, KAIST</a>, under the supervision of <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank" style="color: black;">Prof. Eunho Yang</a> at the <a href="https://mli.kaist.ac.kr/" target="_blank" style="color: black;">Machine Learning and Intelligence Lab</a>.
 
 ## Research Interests
 My recent research interests center on **personal agents** and **recursive self-improvement (RSI)**: how agents can grow more capable through experience while remaining safe and responsive to individual users.
@@ -134,7 +134,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## Work Experience
 <hr>
-- Research Scientist Intern, **Meta Superintelligence Labs**, Menlo Park (Jun 2026–Nov 2026)
+- Research Scientist Intern, **Meta Superintelligence Labs, Reality Labs Research**, Menlo Park (Jun 2026–Nov 2026)
   - Agentic red-teaming for multi-service ecosystems.
 
 - Postdoctoral Researcher, **KAIST**, Seoul, South Korea (Mar 2026–May 2026)
