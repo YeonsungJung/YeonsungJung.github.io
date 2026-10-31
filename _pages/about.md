@@ -16,7 +16,7 @@ I'm currently a Research Scientist Intern at <a href="https://ai.meta.com/" targ
 My recent research interests center on **personal agents** and **recursive self-improvement (RSI)**: how agents can grow more capable through experience while remaining safe and responsive to individual users.
 
 - **Personal Agents:** A self-evolving red-teaming framework for personal agents across multi-service ecosystems (<a href="#paper-x-agentred" data-scroll-ignore>Preprint’26</a>), and personalized preference memory.
-- **Self-Evolving Agents:** Self-evolution from long-horizon trajectories (<a href="#paper-co-evolving-agents" data-scroll-ignore>Preprint’26</a>), and graph-structured skill memory for unknown actions and new tasks in evolving environments.
+- **Self-Evolving Agents:** Self-evolution from long-horizon trajectories (<a href="#paper-co-evolving-agents" data-scroll-ignore>Preprint’26</a>), and skill memory for unknown actions and new tasks in evolving environments.
 - **Reliability:** Robust visual reasoning through interpreting and steering vision-language model activations (<a href="#paper-flipdir" data-scroll-ignore>Preprint’26</a>), and robust learning with biased data (<a href="#paper-cdvg" data-scroll-ignore>ICML’23</a>, <a href="#paper-prunerf" data-scroll-ignore>ICML’24</a>, <a href="#paper-self-influence" data-scroll-ignore>NeurIPS’24</a>).
 
 <!---
