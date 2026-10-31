@@ -137,7 +137,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 - Research Scientist Intern, **Meta Superintelligence Labs, Reality Labs Research**, Menlo Park (Jun 2026–Nov 2026)
   - A self-evolving red-teaming framework for personal agents across multi-service ecosystems (<a href="/projects/x-agentred/" target="_blank" rel="noopener">X-AgentRed</a>).
   - Graph-structured skill memory for unknown actions and new tasks in evolving environments.
-  - Personalized preference memory.
+  - Personalized preference memory for personal agents.
 
 - Postdoctoral Researcher, **KAIST**, Seoul, South Korea (Mar 2026–May 2026)
 
