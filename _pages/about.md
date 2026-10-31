@@ -17,7 +17,7 @@ My recent research interests center on **personal agents and recursive self-impr
 
 - **Personal Agents:** A self-evolving red-teaming framework across multi-service ecosystems (<a href="#paper-x-agentred" data-scroll-ignore>Preprint’26</a>), and personalized preference memory.
 - **Self-Evolving Agents:** Self-evolution from long-horizon trajectories (<a href="#paper-co-evolving-agents" data-scroll-ignore>Preprint’26</a>), and graph-structured skill memory for discovering unknown actions and learning new tasks in evolving environments.
-- **Reliability:** Robust visual reasoning through interpreting and steering vision-language model activations (<a href="#paper-flipdir" data-scroll-ignore>Preprint’26</a>), robust learning with biased data (<a href="#paper-cdvg" data-scroll-ignore>ICML’23</a>, <a href="#paper-prunerf" data-scroll-ignore>ICML’24</a>, <a href="#paper-self-influence" data-scroll-ignore>NeurIPS’24</a>), and jailbreaking (<a href="#paper-playing-the-fool" data-scroll-ignore>CVPR’25</a>).
+- **Reliability:** Robust visual reasoning through interpreting and steering vision-language model activations (<a href="#paper-flipdir" data-scroll-ignore>Preprint’26</a>), and robust learning with biased data (<a href="#paper-cdvg" data-scroll-ignore>ICML’23</a>, <a href="#paper-prunerf" data-scroll-ignore>ICML’24</a>, <a href="#paper-self-influence" data-scroll-ignore>NeurIPS’24</a>).
 
 <!---
 Beyond these, I have explored a broad range of topics in **Reliable AI**, **jailbreaking in MLLMs**, **Visual Autoregressive Models**, and **image editing**.
