@@ -1,8 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+hide_title: true
 author_profile: true
 redirect_from:
   - /about/
