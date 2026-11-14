@@ -67,6 +67,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 ## News
 
 <dl class="news-list">
+  <div class="news-row"><dt>Nov 2026</dt><dd>One paper accepted to <a href="#paper-web-agents" data-scroll-ignore>EACL 2027</a>.</dd></div>
   <div class="news-row"><dt>Sep 2026</dt><dd>Co-organizing <a href="https://advml-frontier.github.io/">AdvML-Frontiers × CoTMA</a> at COLM 2026.</dd></div>
   <div class="news-row"><dt>Jun 2026</dt><dd>Joined Meta Superintelligence Labs as a Research Scientist Intern (Menlo Park).</dd></div>
   <div class="news-row"><dt>Nov 2025</dt><dd>Successfully defended my Ph.D. dissertation (Committee: <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ">Eunho Yang</a>, <a href="https://scholar.google.com/citations?user=m3eDp7kAAAAJ">Jinwoo Shin</a>, <a href="https://scholar.google.com/citations?user=HNMjoNEAAAAJ">Jong Chul Ye</a>, <a href="https://scholar.google.com/citations?user=GHJYsLEAAAAJ">Jaegul Choo</a>, <a href="https://scholar.google.com/citations?user=X_IAjb8AAAAJ">Se-Young Yun</a>).</dd></div>
@@ -88,9 +89,6 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 - <span class="publication-title" id="paper-co-evolving-agents">Co-Evolving Agents: Learning from Failures as Hard Negatives</span> <a href="https://arxiv.org/pdf/2511.22254" target="_blank" rel="noopener" style="color: #1E90FF">[paper]</a> <a href="/projects/co-evolving-agents/" target="_blank" rel="noopener" style="color: #1E90FF">[project]</a> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Trilok Padhi, Sina Shaham, Dipika Khullar, Joonhyun Jeong, Ninareh Mehrabi†, Eunho Yang† </span> <br>
-
-- <span class="publication-title">Web Agents Are Still Greedy: Progress-Aware Action Generation and Selection via Meta-Plan</span> \\
-<span style="font-size: 90%;"> Joonhyun Jeong, Gilhyun Nam, **Yeonsung Jung**, Eunho Yang </span> <br>
 
 ## Conference Publications
 <hr>
@@ -129,6 +127,10 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 - <span class="publication-title" id="paper-fast-antitrustrank">Fast Asynchronous Anti-TrustRank for Web Spam Detection</span> <a href="https://snap.stanford.edu/mis2/files/MIS2_paper_24.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Joyce Jiyoung Whang, **Yeonsung Jung**, Inderjit S. Dhillon, Seonggoo Kang, Jungmin Lee </span>\\
 <span style="color:darkred">**WSDM Workshop**</span> on MIS2: Misinformation and Misbehavior Mining on the Web 2018
+
+- <span class="publication-title" id="paper-web-agents">Web Agents Are Still Greedy: Progress-Aware Action Generation and Selection via Meta-Plan</span> \\
+<span style="font-size: 90%;"> Joonhyun Jeong, Gilhyun Nam, **Yeonsung Jung**, Eunho Yang </span>\\
+<span style="color:darkred">**EACL**</span> 2027
 
 
 ## Work Experience
