@@ -92,7 +92,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## Conference Publications
 <hr>
-- <span class="publication-title" id="paper-web-agents">Web Agents Are Still Greedy: Progress-Aware Action Generation and Selection via Meta-Plan</span> \\
+- <span class="publication-title" id="paper-web-agents">Progress-Aware Action Generation and Selection for Web Agents</span> \\
 <span style="font-size: 90%;"> Joonhyun Jeong, Gilhyun Nam, **Yeonsung Jung**, Eunho Yang </span>\\
 <span style="color:darkred">**EACL**</span> 2027
 
