@@ -92,6 +92,10 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## Conference Publications
 <hr>
+- <span class="publication-title" id="paper-web-agents">Web Agents Are Still Greedy: Progress-Aware Action Generation and Selection via Meta-Plan</span> \\
+<span style="font-size: 90%;"> Joonhyun Jeong, Gilhyun Nam, **Yeonsung Jung**, Eunho Yang </span>\\
+<span style="color:darkred">**EACL**</span> 2027
+
 - <span class="publication-title" id="paper-early-timestep">Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing</span> <a href="https://arxiv.org/abs/2504.13490" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Joowon Kim, Ziseok Lee, Donghyeon Cho, Sanghyun Jo, **Yeonsung Jung**, Kyungsu Kim, Eunho Yang </span>\\
 <span style="color:darkred">**ICCV**</span> 2025
@@ -127,11 +131,6 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 - <span class="publication-title" id="paper-fast-antitrustrank">Fast Asynchronous Anti-TrustRank for Web Spam Detection</span> <a href="https://snap.stanford.edu/mis2/files/MIS2_paper_24.pdf" target="_blank" style="color: #1E90FF">[paper]</a> \\
 <span style="font-size: 90%;"> Joyce Jiyoung Whang, **Yeonsung Jung**, Inderjit S. Dhillon, Seonggoo Kang, Jungmin Lee </span>\\
 <span style="color:darkred">**WSDM Workshop**</span> on MIS2: Misinformation and Misbehavior Mining on the Web 2018
-
-- <span class="publication-title" id="paper-web-agents">Web Agents Are Still Greedy: Progress-Aware Action Generation and Selection via Meta-Plan</span> \\
-<span style="font-size: 90%;"> Joonhyun Jeong, Gilhyun Nam, **Yeonsung Jung**, Eunho Yang </span>\\
-<span style="color:darkred">**EACL**</span> 2027
-
 
 ## Work Experience
 <hr>
