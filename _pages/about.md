@@ -15,7 +15,7 @@ I received my Ph.D. from the <a href="https://gsai.kaist.ac.kr/" target="_blank"
 My recent research interests center on **personal agents** and **recursive self-improvement (RSI)**: how agents can grow more capable through experience while remaining safe and responsive to individual users.
 
 - **Personal Agents:** A self-evolving red-teaming framework for personal agents across multi-service ecosystems (<a href="#paper-x-agentred" data-scroll-ignore>Preprint’26</a>), and personalized preference memory.
-- **Self-Evolving Agents:** Self-evolution from long-horizon trajectories (<a href="#paper-co-evolving-agents" data-scroll-ignore>Preprint’26</a>), and skill memory for unknown actions and new tasks in evolving environments.
+- **Self-Evolving Agents:** Self-evolution from long-horizon trajectories (<a href="#paper-co-evolving-agents" data-scroll-ignore>Preprint’26</a>), and skill memory for unknown actions and new tasks in evolving environments (<a href="#paper-action-discovery" data-scroll-ignore>Preprint’26</a>).
 - **Reliability:** Robust visual reasoning through interpreting and steering vision-language model activations (<a href="#paper-flipdir" data-scroll-ignore>Preprint’26</a>), and robust learning with biased data (<a href="#paper-cdvg" data-scroll-ignore>ICML’23</a>, <a href="#paper-prunerf" data-scroll-ignore>ICML’24</a>, <a href="#paper-self-influence" data-scroll-ignore>NeurIPS’24</a>).
 
 <!---
@@ -81,6 +81,9 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## Preprints
 <hr>
+- <span class="publication-title" id="paper-action-discovery">From Action Discovery to Task Completion: Composing Partial Successes with Graph-Structured Skill Memory</span> \\
+<span style="font-size: 90%;"> **Yeonsung Jung**, Trilok Padhi, Eunho Yang, Ninareh Mehrabi </span> <br>
+
 - <span class="publication-title" id="paper-x-agentred">X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems</span><br><span style="white-space: nowrap;"><a href="https://arxiv.org/pdf/2610.13886" target="_blank" rel="noopener" style="color: #1E90FF">[paper]</a> <a href="/projects/x-agentred/" target="_blank" rel="noopener" style="color: #1E90FF">[project]</a></span> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Zhiyuan Wang, Zifan Wang, Vítor Albiero, Benjamin Newman, Edoardo Debenedetti, Ivan Evtimov, Ninareh Mehrabi </span> <br>
 
@@ -138,7 +141,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
   - **Meta Superintelligence Labs**
     - A self-evolving red-teaming framework for personal agents across multi-service ecosystems (<a href="/projects/x-agentred/" target="_blank" rel="noopener">X-AgentRed</a>).
   - **Meta Reality Labs Research**
-    - Graph-structured skill memory for unknown actions and new tasks in evolving environments.
+    - Graph-structured skill memory for unknown actions and new tasks in evolving environments (<a href="#paper-action-discovery" data-scroll-ignore>preprint</a>).
     - Personalized preference memory for personal agents.
 
 - Postdoctoral Researcher, **KAIST**, Seoul, South Korea (Mar 2026–May 2026)
