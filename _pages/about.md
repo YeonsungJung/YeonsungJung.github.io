@@ -81,7 +81,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 
 ## Preprints
 <hr>
-- <span class="publication-title" id="paper-action-discovery">From Action Discovery to Task Completion: Composing Partial Successes with Graph-Structured Skill Memory</span> \\
+- <span class="publication-title" id="paper-action-discovery">From Action Discovery to Task Completion: Self-Evolving Agents with Graph-Structured Skill Memory</span> \\
 <span style="font-size: 90%;"> **Yeonsung Jung**, Trilok Padhi, Eunho Yang, Ninareh Mehrabi </span> <br>
 
 - <span class="publication-title" id="paper-x-agentred">X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems</span><br><span style="white-space: nowrap;"><a href="https://arxiv.org/pdf/2610.13886" target="_blank" rel="noopener" style="color: #1E90FF">[paper]</a> <a href="/projects/x-agentred/" target="_blank" rel="noopener" style="color: #1E90FF">[project]</a></span> \\
